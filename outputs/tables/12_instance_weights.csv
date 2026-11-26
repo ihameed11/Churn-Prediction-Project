@@ -1,0 +1,7 @@
+condition,segment,mean weight churners,mean weight non-churners
+class,Low-value,1.881,0.681
+class,New high-value,1.881,0.681
+class,Established high-value,1.881,0.681
+value,Low-value,0.961,0.41
+value,New high-value,2.766,0.41
+value,Established high-value,3.396,0.41

@@ -1,0 +1,4 @@
+calibration,AUC,PR-AUC,EMP per customer,Brier,Log loss,ECE,Cal. slope,Cal. intercept,Mean predicted,Profit per customer,Targeted share,MCC
+raw,0.8523,0.6718,51.4021,0.1326,0.4093,0.0147,0.8984,0.0542,0.2591,52.006,0.4846,0.4521
+Platt,0.8521,0.6711,51.4122,0.1323,0.4081,0.0076,0.9983,0.0001,0.2658,51.6984,0.5104,0.4331
+isotonic,0.8489,0.6627,51.3412,0.1331,0.4112,0.0062,0.956,-0.0017,0.266,51.7519,0.5074,0.4359

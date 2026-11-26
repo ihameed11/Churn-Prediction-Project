@@ -1,0 +1,1408 @@
+customerID,segment,tenure,contract,internet,payment,monthly_charge,annual_value,churn_probability,threshold,expected_profit,contact,churned,explained,action,action_type,prob_after_action,action_cost_12m,action_net_value
+0604-THJFP,Established high-value,59,Two year,DSL,Credit card (automatic),75.95,911.4,0.0278,0.16,-31.63,False,0,False,,,,,
+4059-IIEBK,New high-value,7,Month-to-month,Fiber optic,Bank transfer (automatic),78.55,942.6,0.6488,0.17,161.18,True,0,False,,,,,
+2228-BZDEE,Low-value,54,Two year,No,Mailed check,20.1,241.2,0.0208,0.23,-37.92,False,0,False,,,,,
+2839-RFSQE,Low-value,2,Month-to-month,No,Mailed check,20.65,247.8,0.1833,0.23,-21.37,False,1,False,,,,,
+5360-LJCNJ,Established high-value,71,Two year,Fiber optic,Bank transfer (automatic),105.15,1261.8,0.0801,0.16,-7.51,False,0,False,,,,,
+7752-XUSCI,Established high-value,60,Month-to-month,Fiber optic,Electronic check,105.9,1270.8,0.477,0.16,154.88,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1027,0.0,475.6
+8277-RVRSV,Low-value,33,One year,No,Credit card (automatic),24.15,289.8,0.0359,0.23,-35.9,False,0,False,,,,,
+3530-CRZSB,Low-value,7,Month-to-month,No,Mailed check,20.65,247.8,0.123,0.23,-27.5,False,0,False,,,,,
+2845-HSJCY,New high-value,14,Month-to-month,Fiber optic,Electronic check,87.25,1047.0,0.615,0.17,169.95,True,1,False,,,,,
+0336-KXKFK,Established high-value,72,Two year,DSL,Credit card (automatic),61.2,734.4,0.022,0.16,-34.55,False,0,False,,,,,
+7044-YAACC,New high-value,4,Month-to-month,Fiber optic,Electronic check,70.2,842.4,0.6636,0.17,145.83,True,0,False,,,,,
+5396-IZEPB,Low-value,9,Month-to-month,No,Credit card (automatic),19.7,236.4,0.1301,0.23,-27.22,False,0,False,,,,,
+3317-VLGQT,New high-value,14,Month-to-month,Fiber optic,Electronic check,78.1,937.2,0.5521,0.17,130.29,True,0,False,,,,,
+6967-PEJLL,Low-value,37,One year,DSL,Electronic check,40.2,482.4,0.0693,0.23,-28.07,False,0,False,,,,,
+2091-MJTFX,Low-value,30,Month-to-month,DSL,Credit card (automatic),51.2,614.4,0.1565,0.23,-6.88,False,1,False,,,,,
+2034-GDRCN,New high-value,2,Month-to-month,Fiber optic,Electronic check,90.4,1084.8,0.7456,0.17,223.0,True,1,False,,,,,
+8676-TRMJS,New high-value,3,Month-to-month,Fiber optic,Mailed check,75.0,900.0,0.6225,0.17,145.06,True,1,False,,,,,
+6298-QDFNH,New high-value,22,Month-to-month,Fiber optic,Electronic check,79.35,952.2,0.5368,0.17,128.0,True,1,False,,,,,
+0701-TJSEF,New high-value,9,Month-to-month,DSL,Bank transfer (automatic),68.25,819.0,0.1982,0.17,14.11,True,0,False,,,,,
+5743-KHMNA,Low-value,71,Two year,No,Bank transfer (automatic),25.55,306.6,0.0177,0.23,-37.89,False,0,False,,,,,
+0613-WUXUM,Low-value,70,Two year,No,Mailed check,19.2,230.4,0.0156,0.23,-38.5,False,0,False,,,,,
+3137-LUPIX,New high-value,4,Month-to-month,DSL,Mailed check,64.4,772.8,0.4261,0.17,70.42,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0548,0.0,286.99
+3716-UVSPD,New high-value,1,Month-to-month,DSL,Electronic check,49.3,591.6,0.5408,0.17,70.75,True,0,False,,,,,
+4800-CZMPC,Established high-value,48,One year,Fiber optic,Credit card (automatic),103.25,1239.0,0.1892,0.16,35.47,True,1,True,Upgrade contract: One year → Two year,Contract,0.0887,0.0,124.45
+5144-PQCDZ,Low-value,4,Month-to-month,No,Mailed check,19.95,239.4,0.1521,0.23,-24.93,False,0,False,,,,,
+9286-DOJGF,Established high-value,38,Month-to-month,Fiber optic,Bank transfer (automatic),74.95,899.4,0.3987,0.16,78.45,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0496,0.0,313.97
+6258-NGCNG,Low-value,7,Month-to-month,No,Mailed check,23.5,282.0,0.1642,0.23,-21.62,False,0,False,,,,,
+1335-MXCSE,Established high-value,55,Two year,DSL,Credit card (automatic),55.25,663.0,0.0245,0.16,-34.46,False,0,False,,,,,
+6322-HRPFA,Established high-value,49,Month-to-month,DSL,Credit card (automatic),59.6,715.2,0.1071,0.16,-14.1,False,0,False,,,,,
+6646-QVXLR,Established high-value,62,One year,Fiber optic,Electronic check,103.75,1245.0,0.2773,0.16,71.13,True,1,True,Upgrade contract: One year → Two year,Contract,0.1101,0.0,208.09
+6941-KXRRV,Established high-value,48,One year,DSL,Bank transfer (automatic),58.95,707.4,0.1165,0.16,-12.09,False,0,False,,,,,
+3716-BDVDB,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.1,829.2,0.8115,0.17,184.01,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0671,0.0,617.2
+2465-BLLEU,Low-value,1,Month-to-month,No,Mailed check,19.75,237.0,0.3847,0.23,-2.14,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0388,0.0,81.98
+1525-LNLOJ,Established high-value,66,Two year,DSL,Bank transfer (automatic),63.3,759.6,0.0333,0.16,-31.5,False,0,False,,,,,
+0390-DCFDQ,New high-value,1,Month-to-month,Fiber optic,Mailed check,70.45,845.4,0.7737,0.17,177.36,True,1,False,,,,,
+0258-NOKBL,New high-value,3,Month-to-month,Fiber optic,Electronic check,90.4,1084.8,0.5978,0.17,170.88,True,0,False,,,,,
+6303-KFWSL,New high-value,29,One year,DSL,Electronic check,55.25,663.0,0.1039,0.17,-16.49,False,0,False,,,,,
+1194-BHJYC,Established high-value,61,Two year,DSL,Mailed check,62.15,745.8,0.0345,0.16,-31.35,False,0,False,,,,,
+5049-GLYVG,Low-value,1,Month-to-month,No,Mailed check,20.6,247.2,0.3248,0.23,-7.04,True,1,True,Discount 7% (20.60 → 19.16 per month),Discount,0.2188,17.28,8.92
+1685-VAYJF,Low-value,11,Month-to-month,DSL,Credit card (automatic),45.2,542.4,0.2121,0.23,0.31,False,0,False,,,,,
+2348-KCJLT,Established high-value,44,One year,DSL,Mailed check,61.5,738.0,0.046,0.16,-28.55,False,0,False,,,,,
+6425-JWTDV,Low-value,48,Two year,No,Mailed check,19.25,231.0,0.021,0.23,-37.97,False,0,False,,,,,
+3022-BEXHZ,Established high-value,67,Two year,Fiber optic,Bank transfer (automatic),111.2,1334.4,0.0923,0.16,-0.52,False,0,False,,,,,
+0670-ANMUU,Established high-value,71,One year,Fiber optic,Credit card (automatic),97.65,1171.8,0.0917,0.16,-5.25,False,0,False,,,,,
+6349-JDHQP,Low-value,53,Two year,No,Credit card (automatic),19.85,238.2,0.022,0.23,-37.82,False,0,False,,,,,
+0961-ZWLVI,Established high-value,49,One year,Fiber optic,Credit card (automatic),109.2,1310.4,0.1939,0.16,41.54,True,0,False,,,,,
+9289-LBQVU,Established high-value,64,One year,DSL,Mailed check,70.15,841.8,0.0663,0.16,-21.46,False,0,False,,,,,
+4759-PXTAN,Established high-value,59,One year,DSL,Electronic check,80.1,961.2,0.1192,0.16,-2.37,False,0,False,,,,,
+6695-AMZUF,Established high-value,70,Two year,DSL,Credit card (automatic),86.45,1037.4,0.0302,0.16,-29.78,False,0,False,,,,,
+9114-AAFQH,Established high-value,48,One year,DSL,Electronic check,65.65,787.8,0.1123,0.16,-10.4,False,0,False,,,,,
+9992-UJOEL,New high-value,2,Month-to-month,DSL,Mailed check,50.3,603.6,0.4535,0.17,54.5,True,0,False,,,,,
+1776-SPBWV,Low-value,34,One year,No,Bank transfer (automatic),20.1,241.2,0.0304,0.23,-36.97,False,0,False,,,,,
+3692-JHONH,Established high-value,52,One year,Fiber optic,Electronic check,106.5,1278.0,0.3141,0.16,89.0,True,0,False,,,,,
+7495-OOKFY,New high-value,8,Month-to-month,Fiber optic,Credit card (automatic),80.65,967.8,0.6966,0.17,181.26,True,1,False,,,,,
+5982-PSMKW,New high-value,23,Two year,DSL,Credit card (automatic),91.1,1093.2,0.034,0.17,-27.94,False,0,False,,,,,
+3298-QEICA,Low-value,23,Two year,DSL,Mailed check,34.6,415.2,0.0291,0.23,-35.58,False,0,False,,,,,
+8757-TFHHJ,New high-value,1,Month-to-month,DSL,Credit card (automatic),49.8,597.6,0.4522,0.17,53.41,True,0,False,,,,,
+5022-JNQEQ,New high-value,9,Month-to-month,Fiber optic,Electronic check,75.85,910.2,0.4622,0.17,98.83,True,0,False,,,,,
+2418-TPEUN,Low-value,56,Two year,No,Credit card (automatic),19.8,237.6,0.0209,0.23,-37.94,False,0,False,,,,,
+4229-CZMLL,New high-value,6,Month-to-month,Fiber optic,Electronic check,74.9,898.8,0.7024,0.17,168.57,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1529,0.0,493.9
+0191-EQUUH,Low-value,25,Two year,DSL,Bank transfer (automatic),35.05,420.6,0.0305,0.23,-35.32,False,0,False,,,,,
+3099-OONVS,New high-value,25,Month-to-month,DSL,Electronic check,54.3,651.6,0.1677,0.17,-2.64,False,0,False,,,,,
+0491-KAPQG,New high-value,21,Month-to-month,Fiber optic,Electronic check,73.7,884.4,0.5655,0.17,125.49,True,0,False,,,,,
+1090-ESELR,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),105.5,1266.0,0.0433,0.16,-22.38,False,0,False,,,,,
+2208-NKVVH,Low-value,43,Two year,No,Mailed check,24.25,291.0,0.0231,0.23,-37.35,False,0,False,,,,,
+9496-IVVRP,New high-value,11,Month-to-month,DSL,Bank transfer (automatic),51.0,612.0,0.1667,0.17,-4.85,False,0,False,,,,,
+5016-LIPDW,Low-value,57,One year,No,Mailed check,19.4,232.8,0.0294,0.23,-37.14,False,0,False,,,,,
+8204-TIFGJ,Low-value,23,Month-to-month,No,Bank transfer (automatic),20.3,243.6,0.0817,0.23,-31.79,False,0,False,,,,,
+7684-XSZIY,Low-value,72,Two year,No,Bank transfer (automatic),24.3,291.6,0.0162,0.23,-38.14,False,0,False,,,,,
+0440-QEXBZ,Low-value,44,Month-to-month,DSL,Mailed check,50.15,601.8,0.1525,0.23,-8.3,False,0,False,,,,,
+6285-FTQBF,Low-value,72,Two year,No,Credit card (automatic),25.55,306.6,0.0163,0.23,-38.05,False,0,False,,,,,
+3707-GNWHM,New high-value,1,Month-to-month,Fiber optic,Mailed check,74.25,891.0,0.7866,0.17,191.74,True,1,False,,,,,
+0019-GFNTW,Low-value,56,Two year,DSL,Bank transfer (automatic),45.05,540.6,0.0282,0.23,-34.65,False,0,False,,,,,
+8988-ECPJR,New high-value,34,Month-to-month,Fiber optic,Mailed check,79.6,955.2,0.3575,0.17,72.2,True,1,False,,,,,
+9397-TZSHA,Low-value,69,Two year,No,Credit card (automatic),24.6,295.2,0.0201,0.23,-37.67,False,0,False,,,,,
+1989-PRJHP,New high-value,27,Month-to-month,Fiber optic,Electronic check,75.5,906.0,0.5291,0.17,118.25,True,1,False,,,,,
+3587-PMCOY,New high-value,10,One year,Fiber optic,Electronic check,98.9,1186.8,0.3191,0.17,82.33,True,0,False,,,,,
+8292-FRFZQ,Low-value,39,One year,DSL,Bank transfer (automatic),41.15,493.8,0.0526,0.23,-30.77,False,0,False,,,,,
+1775-KWJKQ,Established high-value,72,Two year,DSL,Credit card (automatic),89.85,1078.2,0.0194,0.16,-33.2,False,0,False,,,,,
+6137-MFAJN,Low-value,48,Month-to-month,DSL,Electronic check,44.8,537.6,0.2795,0.23,12.71,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0489,0.0,123.99
+1395-WSWXR,Low-value,24,Two year,No,Mailed check,20.75,249.0,0.0213,0.23,-37.83,False,0,False,,,,,
+9046-JBFWA,Low-value,27,Month-to-month,No,Mailed check,19.15,229.8,0.0615,0.23,-34.08,False,0,False,,,,,
+9871-ELEYA,New high-value,34,Two year,DSL,Credit card (automatic),67.65,811.8,0.031,0.17,-31.59,False,0,False,,,,,
+6712-OAWRH,New high-value,26,Month-to-month,Fiber optic,Electronic check,91.25,1095.0,0.5012,0.17,138.33,True,1,False,,,,,
+2361-UPSND,Established high-value,46,One year,DSL,Mailed check,70.6,847.2,0.0742,0.16,-19.11,False,0,False,,,,,
+4817-KEQSP,Low-value,71,Two year,No,Bank transfer (automatic),19.85,238.2,0.0185,0.23,-38.17,False,0,False,,,,,
+2842-BCQGE,Established high-value,43,Month-to-month,Fiber optic,Credit card (automatic),75.35,904.2,0.3392,0.16,61.27,True,0,False,,,,,
+4190-MFLUW,New high-value,10,Month-to-month,DSL,Credit card (automatic),55.2,662.4,0.1676,0.17,-2.12,False,1,False,,,,,
+1640-PLFMP,New high-value,1,Month-to-month,Fiber optic,Electronic check,70.25,843.0,0.8115,0.17,187.37,True,0,False,,,,,
+6635-CPNUN,New high-value,28,Month-to-month,Fiber optic,Credit card (automatic),96.6,1159.2,0.3079,0.17,75.49,True,0,False,,,,,
+6620-HVDUJ,New high-value,24,Month-to-month,DSL,Bank transfer (automatic),60.45,725.4,0.1107,0.17,-12.88,False,0,False,,,,,
+4706-AXVKM,New high-value,11,Month-to-month,Fiber optic,Credit card (automatic),84.8,1017.6,0.7231,0.17,200.5,True,1,False,,,,,
+5495-GPSRW,Low-value,20,Two year,No,Mailed check,19.7,236.4,0.0247,0.23,-37.57,False,0,False,,,,,
+6847-KJLTS,Established high-value,58,Month-to-month,Fiber optic,Bank transfer (automatic),100.4,1204.8,0.3908,0.16,111.92,True,0,False,,,,,
+1023-BQXZE,Established high-value,57,Two year,DSL,Bank transfer (automatic),74.35,892.2,0.0333,0.16,-30.17,False,0,False,,,,,
+4806-DXQCE,Established high-value,70,Two year,Fiber optic,Electronic check,113.65,1363.8,0.0906,0.16,-0.46,False,0,False,,,,,
+5360-XGYAZ,Established high-value,72,Two year,DSL,Bank transfer (automatic),65.65,787.8,0.0193,0.16,-34.9,False,0,False,,,,,
+8631-WUXGY,Established high-value,46,Month-to-month,Fiber optic,Electronic check,99.8,1197.6,0.4402,0.16,130.17,True,0,False,,,,,
+3780-YVMFA,New high-value,8,Month-to-month,DSL,Electronic check,68.55,822.6,0.2889,0.17,39.2,True,0,False,,,,,
+7971-HLVXI,Established high-value,72,Two year,Fiber optic,Credit card (automatic),84.5,1014.0,0.028,0.16,-30.72,False,0,False,,,,,
+9842-EFSYY,New high-value,4,Month-to-month,DSL,Mailed check,57.2,686.4,0.335,0.17,38.13,True,0,False,,,,,
+0277-BKSQP,New high-value,8,Month-to-month,DSL,Electronic check,54.4,652.8,0.348,0.17,37.65,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1222,0.0,147.4
+9154-QDGTH,Established high-value,43,One year,Fiber optic,Credit card (automatic),104.3,1251.6,0.2484,0.16,60.05,True,0,True,Upgrade contract: One year → Two year,Contract,0.1046,0.0,180.01
+1208-NBVFH,Low-value,20,Month-to-month,DSL,Electronic check,49.6,595.2,0.2814,0.23,17.93,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0441,0.0,141.25
+0866-QLSIR,New high-value,34,One year,DSL,Mailed check,64.4,772.8,0.04,0.17,-29.63,False,1,False,,,,,
+9667-TKTVZ,New high-value,2,Month-to-month,DSL,Mailed check,54.35,652.2,0.4855,0.17,68.26,True,0,False,,,,,
+0611-DFXKO,New high-value,20,Month-to-month,Fiber optic,Mailed check,89.0,1068.0,0.42,0.17,106.03,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0524,0.0,392.57
+8040-MNRTF,New high-value,1,Month-to-month,Fiber optic,Mailed check,71.1,853.2,0.7023,0.17,158.92,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1382,0.0,481.24
+8107-KNCIM,New high-value,14,Month-to-month,Fiber optic,Electronic check,75.1,901.2,0.6466,0.17,152.47,True,0,False,,,,,
+8938-UMKPI,Established high-value,47,Month-to-month,Fiber optic,Electronic check,106.4,1276.8,0.556,0.16,188.13,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1273,0.0,547.31
+0670-KDOMA,Low-value,1,Month-to-month,No,Mailed check,20.25,243.0,0.3847,0.23,-1.45,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0388,0.0,84.06
+0428-IKYCP,New high-value,22,Month-to-month,Fiber optic,Bank transfer (automatic),87.0,1044.0,0.355,0.17,80.87,True,0,False,,,,,
+0506-YLVKJ,Low-value,46,Two year,No,Mailed check,20.2,242.4,0.0209,0.23,-37.9,False,0,False,,,,,
+3133-PZNSR,Established high-value,72,Two year,Fiber optic,Credit card (automatic),97.75,1173.0,0.0369,0.16,-26.01,False,0,False,,,,,
+2335-GSODA,Low-value,23,Two year,DSL,Mailed check,40.1,481.2,0.0289,0.23,-35.05,False,0,False,,,,,
+0970-ETWGE,New high-value,1,Month-to-month,Fiber optic,Electronic check,89.55,1074.6,0.8432,0.17,254.84,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0833,0.0,816.57
+9576-SYUHJ,Established high-value,37,Month-to-month,Fiber optic,Electronic check,91.15,1093.8,0.4048,0.16,103.89,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0518,0.0,386.16
+7606-BPHHN,Low-value,72,Two year,No,Credit card (automatic),19.8,237.6,0.0156,0.23,-38.46,False,0,False,,,,,
+3108-PCCGG,Established high-value,72,Two year,DSL,Credit card (automatic),84.45,1013.4,0.0237,0.16,-32.15,False,0,False,,,,,
+6022-UGGSO,New high-value,32,Month-to-month,Fiber optic,Electronic check,74.4,892.8,0.4452,0.17,91.39,True,1,False,,,,,
+3506-OVLKD,Low-value,35,One year,No,Bank transfer (automatic),26.2,314.4,0.0355,0.23,-35.68,False,0,False,,,,,
+7473-ZBDSN,Low-value,14,Two year,No,Mailed check,18.8,225.6,0.0196,0.23,-38.14,False,0,False,,,,,
+6766-HFKLA,Established high-value,56,Two year,Fiber optic,Bank transfer (automatic),103.2,1238.4,0.0851,0.16,-6.06,False,0,False,,,,,
+9139-WQQDY,Established high-value,49,One year,Fiber optic,Mailed check,100.45,1205.4,0.2037,0.16,39.22,True,1,True,Discount 8% (100.45 → 92.41 per month),Discount,0.1432,96.48,-23.57
+4846-WHAFZ,Established high-value,37,Month-to-month,Fiber optic,Electronic check,76.5,918.0,0.5272,0.16,119.6,True,1,False,,,,,
+8896-BQTTI,Low-value,1,Month-to-month,No,Mailed check,25.0,300.0,0.4068,0.23,7.72,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1068,0.0,89.99
+3727-RJMEO,New high-value,6,Month-to-month,Fiber optic,Electronic check,82.85,994.2,0.754,0.17,205.46,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0739,0.0,676.15
+3889-VWBID,Established high-value,68,Two year,DSL,Bank transfer (automatic),82.85,994.2,0.0299,0.16,-30.26,False,0,False,,,,,
+7688-AWMDX,Established high-value,71,Two year,DSL,Bank transfer (automatic),54.5,654.0,0.0195,0.16,-35.64,False,0,False,,,,,
+6752-APNJL,Low-value,42,Month-to-month,DSL,Mailed check,54.5,654.0,0.1079,0.23,-15.89,False,0,False,,,,,
+1270-XKUCC,Low-value,30,Two year,No,Mailed check,19.7,236.4,0.0216,0.23,-37.88,False,0,False,,,,,
+1024-GUALD,Low-value,1,Month-to-month,DSL,Electronic check,24.8,297.6,0.7207,0.23,44.02,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1954,0.0,156.34
+6997-UVGOX,Established high-value,71,Two year,DSL,Bank transfer (automatic),85.45,1025.4,0.0222,0.16,-32.57,False,0,False,,,,,
+4317-VTEOA,New high-value,1,Month-to-month,DSL,Electronic check,50.75,609.0,0.6534,0.17,97.21,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0544,0.0,364.77
+2725-TTRIQ,Established high-value,72,Two year,DSL,Bank transfer (automatic),84.2,1010.4,0.0192,0.16,-33.65,False,0,False,,,,,
+0307-BCOPK,Low-value,16,One year,No,Mailed check,19.05,228.6,0.0295,0.23,-37.18,False,0,False,,,,,
+6372-RFVNS,New high-value,1,Month-to-month,Fiber optic,Electronic check,78.8,945.6,0.7827,0.17,203.39,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0754,0.0,668.79
+4749-OJKQU,New high-value,4,Month-to-month,Fiber optic,Electronic check,75.65,907.8,0.7272,0.17,177.9,True,0,False,,,,,
+5575-TPIZQ,Established high-value,46,Month-to-month,Fiber optic,Credit card (automatic),89.15,1069.8,0.2567,0.16,49.38,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0417,0.0,230.01
+7706-DZNKK,Low-value,11,Month-to-month,No,Credit card (automatic),20.45,245.4,0.1163,0.23,-28.26,False,0,False,,,,,
+8092-NLTGF,Low-value,72,Two year,No,Bank transfer (automatic),24.75,297.0,0.0158,0.23,-38.15,False,0,False,,,,,
+6295-OSINB,Established high-value,72,Two year,Fiber optic,Electronic check,109.65,1315.8,0.053,0.16,-17.62,False,0,False,,,,,
+1956-YIFGE,New high-value,22,One year,Fiber optic,Mailed check,100.05,1200.6,0.2514,0.17,57.43,True,0,False,,,,,
+6463-MVYRY,Established high-value,57,Two year,DSL,Bank transfer (automatic),69.85,838.2,0.0323,0.16,-31.0,False,0,False,,,,,
+4695-VADHF,New high-value,18,Month-to-month,DSL,Electronic check,57.45,689.4,0.2559,0.17,19.92,True,1,False,,,,,
+5630-IXDXV,Established high-value,47,Month-to-month,Fiber optic,Electronic check,106.35,1276.2,0.556,0.16,188.03,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1273,0.0,547.05
+0813-TAXXS,Established high-value,55,Two year,DSL,Bank transfer (automatic),77.8,933.6,0.0444,0.16,-26.36,False,0,False,,,,,
+4445-ZJNMU,New high-value,9,Month-to-month,Fiber optic,Credit card (automatic),99.3,1191.6,0.8013,0.17,268.34,True,0,False,,,,,
+5356-KZCKT,Low-value,58,Two year,No,Credit card (automatic),24.45,293.4,0.0235,0.23,-37.29,False,0,False,,,,,
+4644-PIZRT,New high-value,17,One year,DSL,Bank transfer (automatic),70.35,844.2,0.0718,0.17,-19.85,False,0,False,,,,,
+8181-YHCMF,Established high-value,68,Two year,DSL,Credit card (automatic),60.3,723.6,0.0279,0.16,-33.17,False,0,False,,,,,
+0742-MOABM,New high-value,4,Month-to-month,DSL,Mailed check,50.05,600.6,0.2795,0.17,18.0,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.035,0.0,146.9
+6362-QHAFM,Established high-value,42,One year,Fiber optic,Electronic check,108.3,1299.6,0.3245,0.16,95.39,True,0,True,Upgrade contract: One year → Two year,Contract,0.1328,0.0,249.16
+3161-ONRWK,Established high-value,60,One year,DSL,Bank transfer (automatic),65.85,790.2,0.038,0.16,-29.95,False,0,False,,,,,
+0952-KMEEH,New high-value,13,Month-to-month,Fiber optic,Mailed check,98.15,1177.8,0.5769,0.17,179.58,True,1,False,,,,,
+6047-SUHPR,Low-value,39,One year,DSL,Electronic check,59.8,717.6,0.0622,0.23,-24.92,False,0,False,,,,,
+4412-YLTKF,New high-value,27,Month-to-month,Fiber optic,Electronic check,78.05,936.6,0.5341,0.17,124.64,True,1,False,,,,,
+1227-UDMZR,Established high-value,72,Two year,DSL,Bank transfer (automatic),91.15,1093.8,0.0202,0.16,-32.82,False,0,False,,,,,
+1223-UNPKS,Low-value,20,Two year,No,Mailed check,20.05,240.6,0.0242,0.23,-37.59,False,0,False,,,,,
+7762-ONLJY,Low-value,6,One year,No,Mailed check,19.7,236.4,0.0407,0.23,-36.01,False,0,False,,,,,
+0430-IHCDJ,New high-value,15,Month-to-month,DSL,Electronic check,49.0,588.0,0.3799,0.17,37.38,True,0,False,,,,,
+4967-WPNCF,Established high-value,72,Two year,DSL,Bank transfer (automatic),63.7,764.4,0.022,0.16,-34.35,False,0,False,,,,,
+3021-VLNRJ,Established high-value,50,One year,DSL,Credit card (automatic),70.8,849.6,0.0528,0.16,-25.11,False,0,False,,,,,
+9103-TCIHJ,New high-value,15,Month-to-month,DSL,Mailed check,55.7,668.4,0.185,0.17,2.14,True,1,False,,,,,
+0835-JKADZ,Established high-value,71,Two year,Fiber optic,Electronic check,111.25,1335.0,0.0812,0.16,-5.25,False,0,False,,,,,
+2346-DJQTB,Low-value,35,Month-to-month,DSL,Electronic check,24.15,289.8,0.2876,0.23,-7.15,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.047,0.0,69.7
+3301-LSLWQ,New high-value,29,Month-to-month,DSL,Electronic check,66.1,793.2,0.1949,0.17,11.7,True,0,False,,,,,
+5970-GHJAW,Low-value,46,Two year,No,Credit card (automatic),19.95,239.4,0.0221,0.23,-37.81,False,0,False,,,,,
+2834-JKOOW,Low-value,15,One year,DSL,Mailed check,45.9,550.8,0.0636,0.23,-27.76,False,0,False,,,,,
+2188-SXWVT,Low-value,34,One year,DSL,Mailed check,55.0,660.0,0.0451,0.23,-29.84,False,0,False,,,,,
+8421-WZOOW,Established high-value,57,Month-to-month,Fiber optic,Credit card (automatic),95.3,1143.6,0.227,0.16,44.07,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.062,0.0,188.64
+9968-FFVVH,Established high-value,63,One year,DSL,Bank transfer (automatic),68.8,825.6,0.0361,0.16,-30.07,False,0,False,,,,,
+1391-UBDAR,New high-value,11,Month-to-month,Fiber optic,Electronic check,72.9,874.8,0.4871,0.17,101.13,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0445,0.0,387.14
+0134-XWXCE,Established high-value,44,One year,DSL,Bank transfer (automatic),74.85,898.2,0.1132,0.16,-6.4,False,0,False,,,,,
+7296-PIXQY,New high-value,14,Month-to-month,Fiber optic,Electronic check,70.2,842.4,0.4626,0.17,89.53,True,0,False,,,,,
+6047-YHPVI,New high-value,5,Month-to-month,Fiber optic,Electronic check,69.7,836.4,0.6413,0.17,138.41,True,1,False,,,,,
+0895-LMRSF,New high-value,23,One year,DSL,Bank transfer (automatic),64.9,778.8,0.1481,0.17,-1.34,False,0,False,,,,,
+0004-TLHLJ,New high-value,4,Month-to-month,Fiber optic,Electronic check,73.9,886.8,0.6484,0.17,150.19,True,1,False,,,,,
+2907-ILJBN,Low-value,11,One year,No,Mailed check,20.6,247.2,0.0398,0.23,-35.97,False,0,False,,,,,
+7306-YDSOI,Established high-value,69,Two year,DSL,Bank transfer (automatic),59.75,717.0,0.025,0.16,-33.94,False,0,False,,,,,
+4475-NVTLU,Low-value,45,Two year,No,Electronic check,19.2,230.4,0.0199,0.23,-38.09,False,0,False,,,,,
+9710-ZUSHQ,Established high-value,37,Month-to-month,Fiber optic,Bank transfer (automatic),106.75,1281.0,0.3944,0.16,122.33,True,1,False,,,,,
+6946-LMSQS,New high-value,25,One year,Fiber optic,Electronic check,89.05,1068.6,0.1506,0.17,12.4,False,1,False,,,,,
+8601-QACRS,New high-value,5,Month-to-month,DSL,Mailed check,50.6,607.2,0.4539,0.17,55.08,True,1,False,,,,,
+4231-LZUYM,Low-value,72,Two year,No,Bank transfer (automatic),25.65,307.8,0.0158,0.23,-38.1,False,0,False,,,,,
+8380-PEFPE,New high-value,1,Month-to-month,Fiber optic,Electronic check,71.65,859.8,0.7936,0.17,186.37,True,1,False,,,,,
+2867-UIMSS,New high-value,1,Month-to-month,Fiber optic,Electronic check,80.5,966.0,0.7665,0.17,203.04,True,1,False,,,,,
+9814-AOUDH,Low-value,53,Two year,No,Credit card (automatic),19.5,234.0,0.022,0.23,-37.85,False,0,False,,,,,
+4032-RMHCI,Low-value,41,One year,DSL,Credit card (automatic),35.4,424.8,0.0536,0.23,-31.71,False,0,False,,,,,
+1452-KIOVK,New high-value,22,Month-to-month,Fiber optic,Credit card (automatic),89.1,1069.2,0.3874,0.17,94.84,True,0,False,,,,,
+4365-MSDYN,Low-value,8,Month-to-month,No,Bank transfer (automatic),19.55,234.6,0.1236,0.23,-27.92,False,0,False,,,,,
+0383-CLDDA,Established high-value,69,Two year,DSL,Credit card (automatic),85.35,1024.2,0.0316,0.16,-29.42,False,0,False,,,,,
+1293-HHSHJ,Low-value,35,One year,No,Mailed check,21.1,253.2,0.0294,0.23,-36.96,False,0,False,,,,,
+9822-OAOVB,New high-value,1,Month-to-month,DSL,Electronic check,55.45,665.4,0.6709,0.17,112.25,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0594,0.0,406.93
+7249-WBIYX,New high-value,10,Month-to-month,Fiber optic,Electronic check,85.6,1027.2,0.7256,0.17,203.42,True,1,False,,,,,
+6652-YFFJO,New high-value,11,Month-to-month,DSL,Electronic check,64.9,778.8,0.3631,0.17,54.74,True,0,False,,,,,
+9128-CPXKI,Established high-value,59,Two year,Fiber optic,Electronic check,95.8,1149.6,0.0936,0.16,-5.17,False,0,False,,,,,
+5127-BZENZ,Established high-value,56,One year,DSL,Bank transfer (automatic),65.2,782.4,0.052,0.16,-26.36,False,0,False,,,,,
+5924-SNGKP,Low-value,41,One year,No,Credit card (automatic),20.25,243.0,0.0297,0.23,-37.03,False,0,False,,,,,
+2919-HBCJO,New high-value,4,Month-to-month,Fiber optic,Bank transfer (automatic),76.65,919.8,0.5896,0.17,138.78,True,1,False,,,,,
+5622-UEJFI,Low-value,35,Two year,No,Credit card (automatic),25.4,304.8,0.0272,0.23,-36.77,False,0,False,,,,,
+2000-MPKCA,Established high-value,58,One year,Fiber optic,Electronic check,107.75,1293.0,0.2351,0.16,57.63,True,0,True,Upgrade contract: One year → Two year,Contract,0.1056,0.0,167.52
+4830-FAXFM,Low-value,19,Month-to-month,No,Credit card (automatic),24.1,289.2,0.1054,0.23,-27.97,False,0,False,,,,,
+7629-WFGLW,Established high-value,56,One year,Fiber optic,Electronic check,95.65,1147.8,0.1093,0.16,0.62,False,0,False,,,,,
+6259-WJQLC,New high-value,32,Month-to-month,Fiber optic,Credit card (automatic),81.1,973.2,0.3999,0.17,87.66,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0496,0.0,340.9
+4854-CIDCF,New high-value,3,Month-to-month,Fiber optic,Electronic check,73.85,886.2,0.6272,0.17,143.86,True,0,False,,,,,
+2074-GUHPQ,New high-value,17,Month-to-month,Fiber optic,Credit card (automatic),92.7,1112.4,0.3469,0.17,85.22,True,0,False,,,,,
+7579-OOPEC,New high-value,2,Month-to-month,DSL,Credit card (automatic),50.15,601.8,0.4687,0.17,57.41,True,1,False,,,,,
+8714-EUHJO,New high-value,31,Month-to-month,Fiber optic,Electronic check,91.15,1093.8,0.465,0.17,125.26,True,1,False,,,,,
+1707-HABPF,Established high-value,46,One year,Fiber optic,Bank transfer (automatic),91.3,1095.6,0.093,0.16,-6.9,False,0,False,,,,,
+2860-RANUS,New high-value,20,Month-to-month,Fiber optic,Credit card (automatic),85.8,1029.6,0.5158,0.17,133.42,True,1,False,,,,,
+5150-ITWWB,New high-value,3,Month-to-month,Fiber optic,Electronic check,94.85,1138.2,0.8005,0.17,255.2,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1553,0.0,734.4
+4690-LLKUA,Low-value,17,Month-to-month,DSL,Electronic check,45.05,540.6,0.3511,0.23,26.52,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0502,0.0,162.65
+5716-LIBJC,New high-value,13,One year,Fiber optic,Credit card (automatic),104.15,1249.8,0.3352,0.17,94.82,True,0,False,,,,,
+2485-ITVKB,Low-value,2,Month-to-month,DSL,Electronic check,35.1,421.2,0.6346,0.23,57.51,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.2219,0.0,173.84
+1357-MVDOZ,New high-value,11,Month-to-month,DSL,Bank transfer (automatic),59.65,715.8,0.2383,0.17,17.67,True,0,False,,,,,
+3926-YZVVX,Low-value,41,One year,DSL,Bank transfer (automatic),50.05,600.6,0.0476,0.23,-30.13,False,0,False,,,,,
+0668-OGMHD,Low-value,21,Month-to-month,DSL,Electronic check,28.5,342.0,0.2737,0.23,-4.44,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0898,0.0,62.9
+7279-BUYWN,Established high-value,41,Month-to-month,Fiber optic,Electronic check,113.2,1358.4,0.4559,0.16,158.25,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1139,0.0,464.55
+7338-ERIVA,Low-value,39,One year,DSL,Bank transfer (automatic),45.05,540.6,0.0567,0.23,-29.26,False,0,False,,,,,
+8049-WJCLQ,New high-value,10,Month-to-month,DSL,Mailed check,60.2,722.4,0.2234,0.17,14.51,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0392,0.0,133.05
+0388-EOPEX,New high-value,2,Month-to-month,Fiber optic,Electronic check,74.4,892.8,0.5377,0.17,118.7,True,1,False,,,,,
+3296-SILRA,New high-value,1,Month-to-month,Fiber optic,Mailed check,76.4,916.8,0.7799,0.17,195.81,True,1,False,,,,,
+8920-NAVAY,Established high-value,62,One year,Fiber optic,Bank transfer (automatic),110.75,1329.0,0.2283,0.16,57.24,True,0,True,Upgrade contract: One year → Two year,Contract,0.0989,0.0,171.94
+1834-ABKHQ,Low-value,52,One year,DSL,Bank transfer (automatic),50.95,611.4,0.0537,0.23,-28.69,False,0,False,,,,,
+3043-TYBNO,New high-value,3,Month-to-month,DSL,Mailed check,60.65,727.8,0.3529,0.17,46.68,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0393,0.0,228.22
+2573-GYRUU,Established high-value,48,Month-to-month,Fiber optic,Credit card (automatic),91.05,1092.6,0.4463,0.16,118.46,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0557,0.0,426.74
+0979-PHULV,Established high-value,69,Month-to-month,Fiber optic,Credit card (automatic),99.45,1193.4,0.3465,0.16,93.51,True,1,False,,,,,
+4918-FYJNT,Established high-value,55,Month-to-month,Fiber optic,Electronic check,90.45,1085.4,0.3114,0.16,69.89,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0409,0.0,293.52
+3930-ZGWVE,Low-value,1,Month-to-month,No,Mailed check,19.75,237.0,0.3248,0.23,-8.04,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,68.06
+5766-ZJYBB,Low-value,1,Month-to-month,No,Mailed check,19.4,232.8,0.3114,0.23,-9.75,True,1,True,Discount 1% (19.40 → 19.21 per month),Discount,0.2188,2.28,19.26
+0121-SNYRK,Low-value,50,One year,DSL,Mailed check,35.4,424.8,0.049,0.23,-32.42,False,0,False,,,,,
+3174-AKMAS,Established high-value,46,Two year,DSL,Credit card (automatic),64.2,770.4,0.0309,0.16,-32.02,False,0,False,,,,,
+1212-GLHMD,New high-value,3,Month-to-month,Fiber optic,Mailed check,86.05,1032.6,0.5914,0.17,159.36,True,0,False,,,,,
+6741-EGCBI,New high-value,30,Month-to-month,Fiber optic,Credit card (automatic),90.5,1086.0,0.3303,0.17,76.64,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0445,0.0,310.44
+6248-TKCQV,Established high-value,70,Two year,DSL,Bank transfer (automatic),80.6,967.2,0.0298,0.16,-30.53,False,0,False,,,,,
+9489-JMTTN,Established high-value,72,Two year,DSL,Credit card (automatic),89.75,1077.0,0.0193,0.16,-33.25,False,0,False,,,,,
+1568-LJSZU,Established high-value,68,Two year,DSL,Credit card (automatic),92.2,1106.4,0.0412,0.16,-25.19,False,0,False,,,,,
+5126-RCXYW,Low-value,54,Two year,DSL,Credit card (automatic),46.0,552.0,0.0281,0.23,-34.58,False,0,False,,,,,
+6961-MJKBO,Low-value,47,Two year,No,Bank transfer (automatic),20.45,245.4,0.0216,0.23,-37.82,False,0,False,,,,,
+9174-IHETN,Established high-value,50,Two year,Fiber optic,Credit card (automatic),70.35,844.2,0.0361,0.16,-29.86,False,0,False,,,,,
+4160-AMJTL,Low-value,8,Month-to-month,No,Electronic check,19.65,235.8,0.1998,0.23,-20.41,False,1,False,,,,,
+2257-BOVXD,New high-value,14,Month-to-month,DSL,Credit card (automatic),66.6,799.2,0.2565,0.17,28.49,True,0,False,,,,,
+1550-LOAHA,New high-value,32,Month-to-month,Fiber optic,Bank transfer (automatic),84.15,1009.8,0.2906,0.17,55.96,True,1,False,,,,,
+1972-XMUWV,Established high-value,65,Two year,DSL,Credit card (automatic),59.8,717.6,0.0277,0.16,-33.27,False,0,False,,,,,
+2088-IEBAU,Established high-value,68,Two year,DSL,Electronic check,88.15,1057.8,0.0333,0.16,-28.52,False,0,False,,,,,
+0825-CPPQH,Low-value,71,Two year,No,Credit card (automatic),19.1,229.2,0.0136,0.23,-38.69,False,0,False,,,,,
+2070-FNEXE,New high-value,7,Month-to-month,Fiber optic,Bank transfer (automatic),76.45,917.4,0.4627,0.17,99.98,True,1,False,,,,,
+1731-TVIUK,New high-value,4,Month-to-month,Fiber optic,Electronic check,93.5,1122.0,0.6986,0.17,214.21,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1118,0.0,658.38
+1697-NVVGY,New high-value,19,Month-to-month,DSL,Bank transfer (automatic),66.4,796.8,0.174,0.17,6.35,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0398,0.0,106.94
+6754-WKSHP,Low-value,30,One year,No,Bank transfer (automatic),25.35,304.2,0.0349,0.23,-35.86,False,0,False,,,,,
+7036-ZZKBD,New high-value,31,Month-to-month,DSL,Credit card (automatic),66.4,796.8,0.1391,0.17,-2.96,False,0,False,,,,,
+2203-GHNWN,New high-value,24,Month-to-month,Fiber optic,Mailed check,79.65,955.8,0.3463,0.17,68.76,True,0,False,,,,,
+8722-PRFDV,Established high-value,71,Two year,DSL,Credit card (automatic),77.55,930.6,0.023,0.16,-32.96,False,0,False,,,,,
+7527-QNRUS,Low-value,17,Two year,No,Mailed check,25.15,301.8,0.0293,0.23,-36.55,False,0,False,,,,,
+7861-UVUFT,New high-value,15,Month-to-month,Fiber optic,Electronic check,84.3,1011.6,0.5924,0.17,155.97,True,1,False,,,,,
+3563-SVYLG,Established high-value,68,Two year,DSL,Credit card (automatic),62.65,751.8,0.0253,0.16,-33.6,False,0,False,,,,,
+0431-APWVY,New high-value,28,One year,Fiber optic,Bank transfer (automatic),90.1,1081.2,0.16,0.17,16.28,False,1,False,,,,,
+1656-DRSMG,Established high-value,63,Month-to-month,Fiber optic,Credit card (automatic),109.85,1318.2,0.3351,0.16,101.66,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0901,0.0,322.93
+2027-FECZV,New high-value,12,Month-to-month,Fiber optic,Electronic check,106.7,1280.4,0.7508,0.17,268.89,True,1,False,,,,,
+6857-TKDJV,Low-value,67,Two year,No,Bank transfer (automatic),24.65,295.8,0.0201,0.23,-37.67,False,0,False,,,,,
+0841-NULXI,Low-value,1,Month-to-month,DSL,Electronic check,35.55,426.6,0.7352,0.23,74.16,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0737,0.0,282.21
+3891-PUQOD,New high-value,1,Month-to-month,DSL,Electronic check,59.2,710.4,0.577,0.17,98.73,True,1,False,,,,,
+1229-RCALF,Established high-value,64,One year,Fiber optic,Electronic check,115.0,1380.0,0.2027,0.16,49.45,True,0,True,Upgrade contract: One year → Two year,Contract,0.0876,0.0,158.77
+2122-SZZZD,Low-value,44,One year,No,Credit card (automatic),19.5,234.0,0.0318,0.23,-36.9,False,0,False,,,,,
+2386-LAHRK,New high-value,1,Month-to-month,DSL,Mailed check,53.5,642.0,0.6009,0.17,92.13,True,1,False,,,,,
+9112-WSNPU,New high-value,35,Month-to-month,Fiber optic,Electronic check,70.55,846.6,0.403,0.17,73.37,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1021,0.0,254.75
+9127-FHJBZ,Established high-value,72,Two year,Fiber optic,Electronic check,114.0,1368.0,0.0458,0.16,-19.94,False,0,False,,,,,
+5301-GAUUY,New high-value,32,Month-to-month,Fiber optic,Bank transfer (automatic),80.35,964.2,0.3451,0.17,69.23,True,1,False,,,,,
+2139-FQHLM,New high-value,19,Month-to-month,Fiber optic,Mailed check,89.95,1079.4,0.2896,0.17,61.69,True,0,False,,,,,
+8325-QRPZR,New high-value,7,Month-to-month,Fiber optic,Electronic check,75.15,901.8,0.6327,0.17,148.44,True,0,False,,,,,
+5129-JLPIS,New high-value,25,Month-to-month,Fiber optic,Electronic check,105.5,1266.0,0.5425,0.17,180.86,True,0,False,,,,,
+3796-ENZGF,Established high-value,63,Two year,DSL,Mailed check,67.25,807.0,0.0223,0.16,-34.0,False,0,False,,,,,
+6769-DYBQN,Established high-value,46,Month-to-month,Fiber optic,Electronic check,85.0,1020.0,0.3447,0.16,74.87,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0461,0.0,304.57
+5312-TSZVC,Low-value,15,One year,No,Mailed check,19.65,235.8,0.039,0.23,-36.17,False,0,False,,,,,
+1205-WNWPJ,New high-value,7,Month-to-month,DSL,Mailed check,59.5,714.0,0.2471,0.17,19.67,True,1,False,,,,,
+6328-ZPBGN,New high-value,11,Month-to-month,Fiber optic,Bank transfer (automatic),95.15,1141.8,0.7656,0.17,243.15,True,1,False,,,,,
+3392-EHMNK,Established high-value,67,Two year,Fiber optic,Credit card (automatic),94.1,1129.2,0.0611,0.16,-17.65,False,0,False,,,,,
+9224-VTYID,Established high-value,47,Two year,DSL,Mailed check,90.5,1086.0,0.0313,0.16,-28.95,False,0,False,,,,,
+2843-CQMEG,Low-value,24,Month-to-month,DSL,Mailed check,49.7,596.4,0.1557,0.23,-7.9,False,0,False,,,,,
+4701-AHWMW,Established high-value,55,Month-to-month,DSL,Bank transfer (automatic),54.55,654.6,0.1759,0.16,-0.66,True,1,False,,,,,
+1894-IGFSG,New high-value,22,Month-to-month,Fiber optic,Electronic check,89.25,1071.0,0.4744,0.17,125.37,True,1,False,,,,,
+0665-XHDJU,Established high-value,72,Two year,Fiber optic,Electronic check,99.4,1192.8,0.061,0.16,-16.5,False,0,False,,,,,
+6174-NRBTZ,Low-value,46,One year,DSL,Bank transfer (automatic),30.75,369.0,0.0627,0.23,-31.35,False,0,False,,,,,
+7067-KSAZT,Established high-value,65,One year,Fiber optic,Electronic check,106.25,1275.0,0.27,0.16,70.63,True,1,True,Upgrade contract: One year → Two year,Contract,0.1066,0.0,208.32
+1140-UKVZG,Low-value,17,Month-to-month,No,Mailed check,24.8,297.6,0.1027,0.23,-28.03,False,0,False,,,,,
+4248-QPAVC,New high-value,17,Month-to-month,Fiber optic,Bank transfer (automatic),85.35,1024.2,0.3373,0.17,72.84,True,1,False,,,,,
+6698-OXETB,Low-value,11,Two year,No,Mailed check,20.4,244.8,0.0249,0.23,-37.49,False,0,False,,,,,
+5574-NXZIU,Established high-value,63,Two year,Fiber optic,Credit card (automatic),109.2,1310.4,0.0978,0.16,1.11,False,0,False,,,,,
+0959-WHOKV,Established high-value,42,One year,Fiber optic,Electronic check,99.0,1188.0,0.2091,0.16,40.23,True,0,False,,,,,
+2458-EOMRE,New high-value,11,Month-to-month,DSL,Bank transfer (automatic),64.05,768.6,0.1741,0.17,4.9,True,0,False,,,,,
+9933-QRGTX,Established high-value,60,Two year,Fiber optic,Electronic check,97.2,1166.4,0.0775,0.16,-10.75,False,0,False,,,,,
+0690-SRQID,Low-value,4,Month-to-month,No,Mailed check,19.65,235.8,0.1551,0.23,-24.79,False,0,False,,,,,
+1150-WFARN,Established high-value,67,Two year,Fiber optic,Credit card (automatic),108.75,1305.0,0.0781,0.16,-7.31,False,1,False,,,,,
+0363-QJVFX,Established high-value,32,Month-to-month,Fiber optic,Credit card (automatic),108.15,1297.8,0.3627,0.16,111.13,True,1,False,,,,,
+0744-GKNGE,Established high-value,64,Month-to-month,Fiber optic,Bank transfer (automatic),86.8,1041.6,0.1545,0.16,12.49,False,0,False,,,,,
+6685-GBWJZ,Established high-value,63,One year,DSL,Credit card (automatic),70.8,849.6,0.0487,0.16,-26.25,False,0,False,,,,,
+5133-VRSAB,Low-value,8,Month-to-month,DSL,Mailed check,29.35,352.2,0.215,0.23,-11.41,False,0,False,,,,,
+5702-KVQRD,Established high-value,71,Two year,DSL,Electronic check,82.55,990.6,0.0261,0.16,-31.55,False,0,False,,,,,
+5057-RKGLH,Low-value,9,Two year,No,Mailed check,20.35,244.2,0.0247,0.23,-37.52,False,0,False,,,,,
+9378-FXTIZ,Established high-value,54,One year,DSL,Credit card (automatic),70.15,841.8,0.1454,0.16,0.7,False,1,False,,,,,
+6710-HSJRD,Established high-value,61,Month-to-month,Fiber optic,Electronic check,114.1,1369.2,0.444,0.16,154.5,True,0,False,,,,,
+1074-WVEVG,Low-value,59,One year,No,Mailed check,20.35,244.2,0.028,0.23,-37.18,False,0,False,,,,,
+0678-RLHVP,Established high-value,53,Two year,Fiber optic,Electronic check,105.55,1266.6,0.0997,0.16,0.6,False,0,False,,,,,
+1820-TQVEV,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.55,834.6,0.8115,0.17,185.32,True,1,False,,,,,
+1635-FJFCC,New high-value,5,Month-to-month,DSL,Credit card (automatic),44.05,528.6,0.3734,0.17,29.4,True,0,False,,,,,
+0123-CRBRT,Established high-value,61,Two year,DSL,Mailed check,88.1,1057.2,0.0274,0.16,-30.58,False,0,False,,,,,
+4905-JEFDW,Low-value,11,One year,DSL,Electronic check,41.6,499.2,0.1867,0.23,-6.94,False,1,False,,,,,
+7401-JIXNM,Established high-value,54,Two year,DSL,Credit card (automatic),91.3,1095.6,0.0309,0.16,-29.01,False,0,False,,,,,
+8990-YOZLV,Established high-value,69,Two year,DSL,Mailed check,66.9,802.8,0.0204,0.16,-34.52,False,0,False,,,,,
+1092-GANHU,New high-value,17,Month-to-month,Fiber optic,Electronic check,76.65,919.8,0.4907,0.17,108.8,True,1,False,,,,,
+5207-PLSTK,New high-value,1,Month-to-month,DSL,Mailed check,48.75,585.0,0.4367,0.17,48.56,True,0,False,,,,,
+2144-BFDSO,Established high-value,50,Month-to-month,Fiber optic,Bank transfer (automatic),108.75,1305.0,0.3263,0.16,96.67,True,0,False,,,,,
+9624-EGDEQ,Low-value,37,Two year,No,Mailed check,19.8,237.6,0.021,0.23,-37.93,False,0,False,,,,,
+7157-SMCFK,Low-value,61,Two year,No,Mailed check,19.75,237.0,0.0198,0.23,-38.05,False,0,False,,,,,
+4174-LPGTI,Established high-value,41,One year,DSL,Bank transfer (automatic),66.5,798.0,0.0807,0.16,-18.48,False,1,False,,,,,
+9391-DXGGG,Established high-value,44,One year,Fiber optic,Credit card (automatic),89.15,1069.8,0.1275,0.16,4.41,False,0,False,,,,,
+8807-ARQET,Low-value,41,Month-to-month,DSL,Electronic check,40.35,484.2,0.3493,0.23,20.28,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.056,0.0,142.01
+9644-KVCNC,Established high-value,66,One year,Fiber optic,Bank transfer (automatic),92.15,1105.8,0.0918,0.16,-7.04,False,0,False,,,,,
+5736-YEJAX,Established high-value,69,Two year,DSL,Credit card (automatic),79.45,953.4,0.027,0.16,-31.55,False,0,False,,,,,
+0023-UYUPN,Low-value,50,One year,No,Electronic check,25.2,302.4,0.0511,0.23,-33.97,False,0,False,,,,,
+1915-OAKWD,Low-value,16,One year,No,Bank transfer (automatic),19.3,231.6,0.0402,0.23,-36.11,False,0,False,,,,,
+8033-VCZGH,Established high-value,50,One year,Fiber optic,Electronic check,103.95,1247.4,0.2687,0.16,67.9,True,0,False,,,,,
+1436-ZMJAN,New high-value,10,Month-to-month,DSL,Credit card (automatic),67.8,813.6,0.277,0.17,35.16,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0544,0.0,181.09
+9507-EXLTT,New high-value,1,Month-to-month,Fiber optic,Bank transfer (automatic),79.35,952.2,0.7786,0.17,203.67,True,1,False,,,,,
+3966-HRMZA,New high-value,3,Month-to-month,Fiber optic,Mailed check,75.05,900.6,0.5942,0.17,136.75,True,0,False,,,,,
+9586-JGQKH,Established high-value,64,Two year,Fiber optic,Bank transfer (automatic),105.4,1264.8,0.0901,0.16,-3.35,False,0,False,,,,,
+9453-PATOS,Established high-value,72,Two year,DSL,Mailed check,85.1,1021.2,0.0196,0.16,-33.45,False,0,False,,,,,
+8261-GWDBQ,Established high-value,60,Two year,Fiber optic,Bank transfer (automatic),116.05,1392.6,0.0821,0.16,-3.44,False,0,False,,,,,
+4813-HQMGZ,New high-value,8,Month-to-month,Fiber optic,Electronic check,90.25,1083.0,0.6554,0.17,190.82,True,0,False,,,,,
+2883-ILGWO,Established high-value,57,Month-to-month,Fiber optic,Bank transfer (automatic),104.9,1258.8,0.4233,0.16,131.41,True,0,False,,,,,
+5949-HGVJL,New high-value,26,Month-to-month,DSL,Electronic check,73.05,876.6,0.1986,0.17,17.65,True,0,False,,,,,
+6754-LZUKA,Established high-value,61,Two year,DSL,Bank transfer (automatic),80.9,970.8,0.0342,0.16,-29.11,False,0,False,,,,,
+6198-ZFIOJ,New high-value,5,Month-to-month,Fiber optic,Electronic check,75.6,907.2,0.6644,0.17,158.95,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.14,0.0,475.69
+7409-KIUTL,New high-value,1,Month-to-month,Fiber optic,Electronic check,71.0,852.0,0.7958,0.17,185.14,True,1,False,,,,,
+4323-SADQS,Low-value,7,Month-to-month,DSL,Electronic check,34.5,414.0,0.2853,0.23,3.22,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0399,0.0,101.6
+2068-WWXQZ,Low-value,46,Two year,No,Bank transfer (automatic),20.05,240.6,0.0216,0.23,-37.85,False,0,False,,,,,
+1936-UAFEH,Established high-value,68,Two year,Fiber optic,Credit card (automatic),110.25,1323.0,0.084,0.16,-4.35,False,0,False,,,,,
+5236-PERKL,Established high-value,57,Two year,Fiber optic,Bank transfer (automatic),112.95,1355.4,0.0991,0.16,2.99,False,1,False,,,,,
+8189-HBVRW,Established high-value,53,Month-to-month,Fiber optic,Electronic check,90.8,1089.6,0.2885,0.16,62.18,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.038,0.0,272.9
+1370-GGAWX,Established high-value,46,One year,Fiber optic,Electronic check,94.15,1129.8,0.2275,0.16,43.3,True,0,True,Switch to Credit card (automatic); Discount 1% (94.15 → 93.21 per month),PaymentMethod + Discount,0.1494,11.28,76.91
+1200-TUZHR,New high-value,8,Month-to-month,Fiber optic,Electronic check,85.2,1022.4,0.6608,0.17,180.7,True,0,False,,,,,
+4851-BQDNX,Established high-value,40,One year,Fiber optic,Electronic check,85.05,1020.6,0.1239,0.16,1.33,False,0,False,,,,,
+8319-QBEHW,Low-value,26,One year,DSL,Bank transfer (automatic),39.95,479.4,0.0777,0.23,-26.7,False,0,False,,,,,
+4250-WAROZ,Established high-value,60,Month-to-month,Fiber optic,Electronic check,93.25,1119.0,0.2561,0.16,52.98,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0642,0.0,214.81
+7072-MBHEV,New high-value,11,Month-to-month,Fiber optic,Credit card (automatic),78.1,937.2,0.5707,0.17,136.04,True,0,False,,,,,
+8245-UMPYT,New high-value,16,Month-to-month,Fiber optic,Electronic check,96.4,1156.8,0.7108,0.17,226.09,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1479,0.0,651.22
+9522-BNTHX,Low-value,34,Month-to-month,DSL,Electronic check,56.25,675.0,0.3906,0.23,49.75,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0657,0.0,219.25
+9646-NMHXE,Low-value,47,Two year,No,Mailed check,19.65,235.8,0.021,0.23,-37.94,False,0,False,,,,,
+1062-LHZOD,New high-value,1,Month-to-month,Fiber optic,Mailed check,69.9,838.8,0.7434,0.17,167.36,True,1,False,,,,,
+1035-IPQPU,Established high-value,63,Month-to-month,Fiber optic,Electronic check,103.5,1242.0,0.4747,0.16,149.84,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1024,0.0,462.45
+8024-XNAFQ,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),107.4,1288.8,0.0395,0.16,-23.65,False,0,False,,,,,
+7205-BAIAD,Low-value,40,Two year,No,Bank transfer (automatic),20.6,247.2,0.0217,0.23,-37.8,False,0,False,,,,,
+8083-YTZES,New high-value,4,Month-to-month,Fiber optic,Electronic check,74.35,892.2,0.7258,0.17,174.07,True,1,False,,,,,
+4919-IKATY,New high-value,5,Month-to-month,Fiber optic,Electronic check,84.5,1014.0,0.5317,0.17,136.24,True,1,False,,,,,
+8975-SKGRX,Established high-value,71,Two year,Fiber optic,Bank transfer (automatic),116.1,1393.2,0.0636,0.16,-11.66,False,0,False,,,,,
+4029-HPFVY,New high-value,3,Month-to-month,Fiber optic,Mailed check,70.3,843.6,0.5697,0.17,119.73,True,0,False,,,,,
+3519-ZKXGG,New high-value,3,Month-to-month,Fiber optic,Electronic check,75.85,910.2,0.7272,0.17,178.43,True,1,False,,,,,
+5214-CHIWJ,Low-value,27,One year,No,Mailed check,20.3,243.6,0.0294,0.23,-37.05,False,0,False,,,,,
+0936-NQLJU,Low-value,41,Two year,No,Credit card (automatic),20.65,247.8,0.0216,0.23,-37.8,False,0,False,,,,,
+8873-GLDMH,New high-value,6,Month-to-month,Fiber optic,Mailed check,73.85,886.2,0.631,0.17,144.98,True,0,False,,,,,
+7952-OBOYL,New high-value,3,Month-to-month,Fiber optic,Mailed check,89.85,1078.2,0.6848,0.17,200.21,True,0,False,,,,,
+5334-JLAXU,Established high-value,60,Month-to-month,Fiber optic,Credit card (automatic),94.1,1129.2,0.2039,0.16,34.62,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0601,0.0,162.36
+7529-ZDFXI,Established high-value,57,Month-to-month,Fiber optic,Electronic check,89.85,1078.2,0.44,0.16,114.32,True,0,False,,,,,
+4735-ASGMA,New high-value,26,Month-to-month,Fiber optic,Electronic check,98.35,1180.2,0.6128,0.17,193.71,True,1,False,,,,,
+2338-BQEZT,Established high-value,55,Month-to-month,DSL,Credit card (automatic),50.55,606.6,0.1038,0.16,-18.27,False,0,False,,,,,
+1493-AMTIE,Low-value,1,Month-to-month,No,Bank transfer (automatic),20.2,242.4,0.3847,0.23,-1.52,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0388,0.0,83.85
+2676-SSLTO,Established high-value,49,Two year,DSL,Bank transfer (automatic),66.15,793.8,0.0376,0.16,-30.03,False,0,False,,,,,
+5876-HZVZM,New high-value,6,Month-to-month,DSL,Credit card (automatic),55.9,670.8,0.1759,0.17,0.2,True,1,False,,,,,
+8375-DKEBR,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.6,835.2,0.8174,0.17,187.13,True,1,False,,,,,
+7776-QGYJC,Established high-value,39,Month-to-month,Fiber optic,Bank transfer (automatic),81.5,978.0,0.2329,0.16,34.71,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.035,0.0,193.61
+2866-IKBTM,Low-value,1,Month-to-month,No,Mailed check,19.55,234.6,0.3248,0.23,-8.27,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,67.37
+0214-JHPFW,Established high-value,70,Two year,DSL,Bank transfer (automatic),57.8,693.6,0.0327,0.16,-32.29,False,0,False,,,,,
+3334-CTHOL,New high-value,1,Month-to-month,DSL,Bank transfer (automatic),49.95,599.4,0.6107,0.17,86.48,True,1,False,,,,,
+7470-MCQTK,New high-value,13,Month-to-month,DSL,Bank transfer (automatic),48.75,585.0,0.3408,0.17,29.11,True,1,False,,,,,
+0016-QLJIS,Established high-value,65,Two year,DSL,Mailed check,90.45,1085.4,0.0284,0.16,-29.98,False,0,False,,,,,
+5956-YHHRX,New high-value,21,Month-to-month,Fiber optic,Electronic check,104.35,1252.2,0.6843,0.17,235.76,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1402,0.0,681.39
+3933-DQPWX,Low-value,50,Two year,DSL,Credit card (automatic),39.7,476.4,0.0303,0.23,-34.84,False,0,False,,,,,
+7750-EYXWZ,New high-value,12,One year,DSL,Electronic check,60.65,727.8,0.1459,0.17,-4.15,False,0,False,,,,,
+9040-KZVWO,New high-value,26,One year,Fiber optic,Bank transfer (automatic),75.5,906.0,0.0654,0.17,-20.45,False,0,False,,,,,
+3677-IYRBF,Low-value,2,Month-to-month,DSL,Electronic check,30.4,364.8,0.6598,0.23,50.22,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0663,0.0,216.49
+4501-UYKBC,Established high-value,46,One year,DSL,Credit card (automatic),69.1,829.2,0.1198,0.16,-6.93,False,0,False,,,,,
+0345-XMMUG,Established high-value,46,Two year,Fiber optic,Credit card (automatic),108.9,1306.8,0.11,0.16,6.12,False,0,False,,,,,
+0310-MVLET,Established high-value,61,Month-to-month,Fiber optic,Electronic check,99.15,1189.8,0.3925,0.16,110.82,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0791,0.0,372.89
+4521-YEEHE,New high-value,18,Month-to-month,Fiber optic,Electronic check,88.85,1066.2,0.5868,0.17,163.7,True,0,False,,,,,
+6429-SHBCB,New high-value,19,Month-to-month,DSL,Mailed check,69.6,835.2,0.223,0.17,21.97,True,0,False,,,,,
+9283-LZQOH,New high-value,13,Month-to-month,Fiber optic,Credit card (automatic),74.4,892.8,0.5042,0.17,108.82,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0459,0.0,409.22
+3372-CDXFJ,Low-value,13,One year,No,Bank transfer (automatic),24.5,294.0,0.0491,0.23,-34.33,False,0,False,,,,,
+7075-BNDVQ,Low-value,4,Month-to-month,DSL,Mailed check,35.0,420.0,0.3125,0.23,7.9,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0385,0.0,115.05
+4056-QHXHZ,Established high-value,72,Two year,Fiber optic,Mailed check,107.45,1289.4,0.0405,0.16,-23.25,False,0,False,,,,,
+5351-QESIO,Low-value,1,Month-to-month,DSL,Mailed check,24.2,290.4,0.5117,0.23,18.55,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1173,0.0,114.54
+3374-LXDEV,New high-value,13,Month-to-month,Fiber optic,Electronic check,89.4,1072.8,0.4845,0.17,129.15,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0481,0.0,468.14
+1087-UDSIH,Low-value,3,Month-to-month,No,Mailed check,19.6,235.2,0.1847,0.23,-21.92,False,1,False,,,,,
+3916-NRPAP,New high-value,3,Month-to-month,Fiber optic,Credit card (automatic),85.7,1028.4,0.6605,0.17,181.81,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0497,0.0,628.12
+6969-MVBAI,New high-value,9,Month-to-month,Fiber optic,Electronic check,90.1,1081.2,0.7349,0.17,218.44,True,0,False,,,,,
+6319-IEJWJ,New high-value,20,Month-to-month,Fiber optic,Electronic check,90.2,1082.4,0.5292,0.17,146.3,True,1,False,,,,,
+7912-SYRQT,New high-value,7,Month-to-month,Fiber optic,Bank transfer (automatic),75.1,901.2,0.6459,0.17,152.26,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0519,0.0,535.31
+5539-TMZLF,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.75,837.0,0.8174,0.17,187.57,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.068,0.0,627.25
+2985-FMWYF,New high-value,23,Month-to-month,Fiber optic,Electronic check,93.5,1122.0,0.5961,0.17,176.92,True,0,False,,,,,
+9359-JANWS,Established high-value,65,Two year,DSL,Credit card (automatic),58.9,706.8,0.023,0.16,-34.5,False,0,False,,,,,
+3620-EHIMZ,Low-value,52,Two year,No,Mailed check,19.35,232.2,0.0211,0.23,-37.95,False,0,False,,,,,
+4026-SKKHW,New high-value,3,Month-to-month,DSL,Mailed check,50.25,603.0,0.3792,0.17,38.94,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0356,0.0,207.17
+8622-ZLFKO,New high-value,6,Month-to-month,Fiber optic,Electronic check,90.75,1089.0,0.7495,0.17,225.33,True,0,False,,,,,
+3496-LFSZU,New high-value,4,Month-to-month,Fiber optic,Electronic check,70.5,846.0,0.5957,0.17,127.46,True,0,False,,,,,
+7398-LXGYX,Established high-value,44,Month-to-month,Fiber optic,Credit card (automatic),84.8,1017.6,0.2292,0.16,36.22,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0358,0.0,196.82
+3452-ABWRL,Established high-value,47,Month-to-month,Fiber optic,Credit card (automatic),86.05,1032.6,0.4051,0.16,96.56,True,0,False,,,,,
+7351-MHQVU,New high-value,6,Month-to-month,DSL,Credit card (automatic),50.95,611.4,0.2149,0.17,5.28,True,0,False,,,,,
+4060-LDNLU,New high-value,7,Month-to-month,Fiber optic,Electronic check,96.2,1154.4,0.7247,0.17,230.78,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1389,0.0,676.32
+4648-YPBTM,Established high-value,53,Two year,DSL,Bank transfer (automatic),73.9,886.8,0.0363,0.16,-29.35,False,0,False,,,,,
+8660-BUETV,New high-value,3,Month-to-month,DSL,Mailed check,44.75,537.0,0.4221,0.17,39.53,True,0,False,,,,,
+1345-GKDZZ,Low-value,6,Month-to-month,No,Mailed check,19.55,234.6,0.1195,0.23,-28.32,False,0,False,,,,,
+4112-LUEIZ,New high-value,10,Month-to-month,Fiber optic,Electronic check,89.5,1074.0,0.6616,0.17,191.24,True,1,False,,,,,
+5419-KLXBN,New high-value,25,Month-to-month,Fiber optic,Bank transfer (automatic),89.15,1069.8,0.3236,0.17,72.67,True,1,False,,,,,
+6233-HXJMX,Established high-value,45,Month-to-month,Fiber optic,Credit card (automatic),89.3,1071.6,0.3877,0.16,95.22,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0508,0.0,360.97
+7398-SKNQZ,New high-value,3,Month-to-month,Fiber optic,Electronic check,94.9,1138.8,0.74,0.17,233.02,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1485,0.0,673.66
+5712-PTIWW,New high-value,2,Month-to-month,Fiber optic,Electronic check,79.85,958.2,0.5933,0.17,146.73,True,1,False,,,,,
+2673-ZALNP,Low-value,7,One year,No,Mailed check,19.9,238.8,0.041,0.23,-35.95,False,0,False,,,,,
+6212-ATMLK,Established high-value,50,Month-to-month,Fiber optic,Electronic check,95.7,1148.4,0.5407,0.16,161.04,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1216,0.0,481.32
+9402-ROUMJ,Established high-value,67,One year,Fiber optic,Bank transfer (automatic),100.25,1203.0,0.1436,0.16,15.75,False,0,False,,,,,
+0256-LTHVJ,New high-value,28,Month-to-month,Fiber optic,Electronic check,81.05,972.6,0.4237,0.17,95.18,True,1,False,,,,,
+4785-QRJHC,Established high-value,46,One year,DSL,Bank transfer (automatic),59.9,718.8,0.125,0.16,-9.62,False,1,False,,,,,
+4999-IEZLT,Low-value,66,One year,DSL,Credit card (automatic),29.45,353.4,0.0421,0.23,-34.38,False,0,False,,,,,
+7868-BGSZA,Established high-value,43,One year,DSL,Electronic check,80.2,962.4,0.1354,0.16,2.78,False,0,False,,,,,
+4237-RLAQD,New high-value,1,Month-to-month,DSL,Mailed check,45.85,550.2,0.5748,0.17,70.57,True,1,False,,,,,
+1171-TYKUR,Low-value,47,Month-to-month,No,Electronic check,25.4,304.8,0.1284,0.23,-24.75,False,0,False,,,,,
+6248-BSHKG,Low-value,61,One year,No,Mailed check,20.4,244.8,0.0277,0.23,-37.21,False,0,False,,,,,
+6016-LVTJQ,Low-value,34,Month-to-month,No,Mailed check,20.65,247.8,0.0758,0.23,-32.29,False,0,False,,,,,
+4667-OHGKG,Low-value,1,Month-to-month,No,Mailed check,19.3,231.6,0.3701,0.23,-4.18,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0381,0.0,76.9
+7781-EWARA,Established high-value,70,One year,DSL,Electronic check,60.35,724.2,0.0887,0.16,-18.31,False,0,False,,,,,
+5730-DBDSI,Low-value,66,Two year,No,Bank transfer (automatic),19.7,236.4,0.0188,0.23,-38.15,False,0,False,,,,,
+9692-TUSXH,New high-value,18,Month-to-month,Fiber optic,Electronic check,96.05,1152.6,0.5368,0.17,160.26,True,1,False,,,,,
+0519-DRGTI,Low-value,20,Month-to-month,No,Mailed check,20.35,244.2,0.0861,0.23,-31.34,False,0,False,,,,,
+3551-GAEGL,Low-value,34,One year,DSL,Bank transfer (automatic),30.4,364.8,0.0542,0.23,-32.59,False,0,False,,,,,
+5442-BHQNG,New high-value,2,Month-to-month,Fiber optic,Electronic check,70.35,844.2,0.6002,0.17,128.38,True,0,False,,,,,
+5600-KTXFM,New high-value,2,Month-to-month,Fiber optic,Mailed check,69.95,839.4,0.5282,0.17,107.43,True,0,False,,,,,
+4445-KWOKW,Established high-value,42,One year,DSL,Bank transfer (automatic),60.15,721.8,0.0502,0.16,-27.76,False,0,False,,,,,
+2959-MJHIC,New high-value,4,Month-to-month,Fiber optic,Electronic check,80.35,964.2,0.6929,0.17,179.33,True,1,False,,,,,
+4587-VVTOX,New high-value,6,Month-to-month,Fiber optic,Electronic check,105.3,1263.6,0.8167,0.17,291.9,True,1,False,,,,,
+7105-MXJLL,New high-value,26,One year,DSL,Mailed check,60.7,728.4,0.1111,0.17,-12.68,False,0,False,,,,,
+1143-NMNQJ,New high-value,2,Month-to-month,Fiber optic,Electronic check,85.7,1028.4,0.7654,0.17,217.04,True,1,False,,,,,
+6845-RGTYS,Established high-value,47,Month-to-month,Fiber optic,Electronic check,98.75,1185.0,0.4045,0.16,114.85,True,1,False,,,,,
+3521-HTQTV,Low-value,34,Two year,No,Bank transfer (automatic),26.1,313.2,0.0247,0.23,-37.0,False,0,False,,,,,
+3207-OYBWH,Established high-value,57,Month-to-month,Fiber optic,Bank transfer (automatic),95.25,1143.0,0.3706,0.16,97.21,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0868,0.0,324.43
+2324-AALNO,Low-value,48,One year,No,Bank transfer (automatic),24.55,294.6,0.0356,0.23,-35.89,False,0,False,,,,,
+1222-LRYKO,Low-value,6,Month-to-month,No,Mailed check,26.35,316.2,0.1316,0.23,-23.92,False,0,False,,,,,
+0015-UOCOJ,New high-value,7,Month-to-month,DSL,Electronic check,48.2,578.4,0.3173,0.17,23.71,True,0,False,,,,,
+7465-ZZRVX,New high-value,1,Month-to-month,Fiber optic,Electronic check,70.35,844.2,0.8115,0.17,187.66,True,0,False,,,,,
+2954-PIBKO,Established high-value,69,Two year,DSL,Credit card (automatic),64.15,769.8,0.0248,0.16,-33.6,False,0,False,,,,,
+5006-MXVRN,Low-value,39,Two year,No,Credit card (automatic),20.7,248.4,0.0216,0.23,-37.8,False,0,False,,,,,
+8914-RBTSB,New high-value,31,Month-to-month,Fiber optic,Electronic check,93.8,1125.6,0.4099,0.17,109.62,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0912,0.0,358.8
+5445-PZWGX,Established high-value,62,One year,Fiber optic,Electronic check,102.0,1224.0,0.137,0.16,14.06,False,1,False,,,,,
+8413-YNHNV,Established high-value,69,Two year,DSL,Mailed check,90.65,1087.8,0.0286,0.16,-29.87,False,0,False,,,,,
+3932-CMDTD,New high-value,4,One year,Fiber optic,Electronic check,105.65,1267.8,0.3191,0.17,90.08,True,1,False,,,,,
+0301-KOBTQ,Low-value,32,Two year,No,Bank transfer (automatic),20.05,240.6,0.0222,0.23,-37.79,False,0,False,,,,,
+9565-DJPIB,New high-value,4,Month-to-month,Fiber optic,Mailed check,89.6,1075.2,0.6977,0.17,204.11,True,1,False,,,,,
+9591-YVTEB,Low-value,55,Month-to-month,DSL,Electronic check,44.85,538.2,0.2884,0.23,14.44,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0501,0.0,128.26
+3063-QFSZL,New high-value,1,Month-to-month,DSL,Electronic check,55.4,664.8,0.6709,0.17,112.13,True,1,False,,,,,
+6917-YACBP,Established high-value,59,Month-to-month,Fiber optic,Electronic check,89.75,1077.0,0.3058,0.16,67.16,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0379,0.0,288.56
+2277-VWCNI,New high-value,4,Month-to-month,DSL,Mailed check,48.75,585.0,0.4538,0.17,52.03,True,0,False,,,,,
+9894-QMIMJ,New high-value,23,One year,DSL,Bank transfer (automatic),55.8,669.6,0.0579,0.17,-26.78,False,0,False,,,,,
+8224-KDLKN,Low-value,72,Two year,No,Bank transfer (automatic),25.0,300.0,0.0163,0.23,-38.08,False,0,False,,,,,
+2995-YWTCD,Low-value,19,Two year,No,Bank transfer (automatic),24.9,298.8,0.0304,0.23,-36.44,False,0,False,,,,,
+8028-PNXHQ,Low-value,62,Two year,No,Bank transfer (automatic),24.25,291.0,0.0209,0.23,-37.6,False,0,False,,,,,
+4376-KFVRS,Established high-value,72,Two year,Fiber optic,Credit card (automatic),114.05,1368.6,0.0431,0.16,-21.14,False,0,False,,,,,
+8258-GSTJK,New high-value,3,Month-to-month,Fiber optic,Electronic check,77.0,924.0,0.7537,0.17,189.51,True,1,False,,,,,
+6661-HBGWL,Established high-value,42,Month-to-month,Fiber optic,Bank transfer (automatic),104.75,1257.0,0.5164,0.16,168.83,True,1,False,,,,,
+1849-RJYIG,New high-value,8,Month-to-month,DSL,Electronic check,60.0,720.0,0.3227,0.17,38.52,True,0,False,,,,,
+0886-QGENL,New high-value,27,Month-to-month,Fiber optic,Electronic check,101.25,1215.0,0.4627,0.17,141.29,True,1,False,,,,,
+4415-IJZTP,New high-value,1,Month-to-month,Fiber optic,Electronic check,74.5,894.0,0.8299,0.17,205.25,True,1,False,,,,,
+5419-CONWX,New high-value,4,Month-to-month,Fiber optic,Credit card (automatic),99.8,1197.6,0.8137,0.17,274.56,True,1,False,,,,,
+6124-ACRHJ,Low-value,1,Month-to-month,No,Mailed check,19.75,237.0,0.3248,0.23,-8.04,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,68.06
+0376-YMCJC,New high-value,23,Month-to-month,Fiber optic,Electronic check,90.6,1087.2,0.5181,0.17,143.14,True,1,False,,,,,
+9039-RBEEE,Low-value,39,Month-to-month,DSL,Credit card (automatic),48.95,587.4,0.1656,0.23,-6.3,False,1,False,,,,,
+9369-XFEHK,New high-value,33,Month-to-month,Fiber optic,Bank transfer (automatic),80.6,967.2,0.398,0.17,86.34,True,1,False,,,,,
+6345-ULYRW,Established high-value,44,One year,Fiber optic,Mailed check,88.4,1060.8,0.1199,0.16,1.42,False,1,False,,,,,
+7180-PISOG,New high-value,1,Month-to-month,Fiber optic,Electronic check,74.5,894.0,0.8049,0.17,197.84,True,1,False,,,,,
+8069-RHUXK,Low-value,67,Two year,DSL,Credit card (automatic),35.7,428.4,0.0242,0.23,-36.23,False,0,False,,,,,
+5696-JVVQY,Established high-value,48,Two year,DSL,Credit card (automatic),70.1,841.2,0.0316,0.16,-31.17,False,0,False,,,,,
+0895-LNKRC,Low-value,6,One year,No,Mailed check,19.45,233.4,0.0407,0.23,-36.04,False,0,False,,,,,
+2778-OCLGR,Low-value,24,Month-to-month,DSL,Bank transfer (automatic),39.1,469.2,0.2515,0.23,2.26,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0497,0.0,94.69
+5702-SKUOB,Low-value,4,Month-to-month,No,Mailed check,19.6,235.2,0.1549,0.23,-24.84,False,0,False,,,,,
+6260-XLACS,Low-value,4,One year,No,Mailed check,19.7,236.4,0.0469,0.23,-35.39,False,0,False,,,,,
+5820-PTRYM,Established high-value,56,One year,DSL,Credit card (automatic),68.45,821.4,0.0506,0.16,-26.14,False,0,False,,,,,
+9251-AWQGT,Low-value,48,Two year,No,Mailed check,20.0,240.0,0.0211,0.23,-37.9,False,0,False,,,,,
+1716-LSAMB,Low-value,45,Two year,DSL,Bank transfer (automatic),54.65,655.8,0.0294,0.23,-33.41,False,0,False,,,,,
+5829-NVSQN,New high-value,23,One year,DSL,Bank transfer (automatic),68.75,825.0,0.0823,0.17,-17.38,False,0,False,,,,,
+5605-XNWEN,Low-value,72,Two year,No,Bank transfer (automatic),25.0,300.0,0.0164,0.23,-38.07,False,0,False,,,,,
+9986-BONCE,Low-value,4,Month-to-month,No,Bank transfer (automatic),20.95,251.4,0.1537,0.23,-24.21,False,1,False,,,,,
+8849-GYOKR,Established high-value,54,One year,Fiber optic,Bank transfer (automatic),106.55,1278.6,0.1899,0.16,38.03,True,1,False,,,,,
+7130-YXBRO,Established high-value,48,Month-to-month,Fiber optic,Bank transfer (automatic),111.45,1337.4,0.355,0.16,112.12,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.108,0.0,330.38
+2495-INZWQ,New high-value,4,Month-to-month,DSL,Electronic check,44.55,534.6,0.5976,0.17,72.17,True,1,False,,,,,
+7351-KYHQH,New high-value,7,Month-to-month,DSL,Electronic check,64.95,779.4,0.3897,0.17,61.75,True,0,False,,,,,
+1376-HHBDV,Low-value,30,Month-to-month,DSL,Mailed check,48.8,585.6,0.1215,0.23,-15.34,False,0,False,,,,,
+9465-RWMXL,New high-value,32,Month-to-month,Fiber optic,Electronic check,78.9,946.8,0.4956,0.17,114.29,True,1,False,,,,,
+7969-FFOWG,Low-value,65,Two year,No,Mailed check,19.9,238.8,0.0192,0.23,-38.1,False,0,False,,,,,
+2599-CZABP,Low-value,14,One year,DSL,Electronic check,44.6,535.2,0.0967,0.23,-21.84,False,0,False,,,,,
+1757-TCATG,Low-value,35,One year,No,Bank transfer (automatic),20.05,240.6,0.0318,0.23,-36.83,False,0,False,,,,,
+7181-BQYBV,New high-value,1,Month-to-month,Fiber optic,Electronic check,102.45,1229.4,0.7307,0.17,249.46,True,1,False,,,,,
+7571-YXDAD,New high-value,2,Month-to-month,Fiber optic,Credit card (automatic),74.9,898.8,0.6255,0.17,145.74,True,1,False,,,,,
+3807-XHCJH,Low-value,1,Month-to-month,No,Electronic check,20.0,240.0,0.3632,0.23,-3.94,True,0,True,Switch to Credit card (automatic); Discount 4% (20.00 → 19.20 per month),PaymentMethod + Discount,0.2192,9.6,24.94
+9318-NKNFC,Low-value,1,Month-to-month,No,Mailed check,18.85,226.2,0.2698,0.23,-14.33,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0243,0.0,55.53
+9602-WCXPI,Low-value,50,One year,No,Credit card (automatic),20.15,241.8,0.031,0.23,-36.91,False,0,False,,,,,
+9050-IKDZA,New high-value,2,Month-to-month,Fiber optic,Mailed check,81.5,978.0,0.658,0.17,171.03,True,0,False,,,,,
+8443-ZRDBZ,New high-value,4,Month-to-month,Fiber optic,Electronic check,76.05,912.6,0.7272,0.17,178.95,True,1,False,,,,,
+8739-WWKDU,New high-value,25,Month-to-month,Fiber optic,Electronic check,89.5,1074.0,0.5647,0.17,157.37,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0644,0.0,537.29
+6896-SRVYQ,Established high-value,44,Month-to-month,Fiber optic,Electronic check,73.85,886.2,0.4078,0.16,79.56,True,0,False,,,,,
+2023-VQFDL,Low-value,18,Month-to-month,No,Electronic check,19.0,228.0,0.1153,0.23,-28.96,False,0,False,,,,,
+6968-GMKPR,Established high-value,55,Month-to-month,Fiber optic,Electronic check,81.55,978.6,0.3454,0.16,70.83,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0385,0.0,300.29
+5555-RNPGT,Low-value,10,Month-to-month,No,Credit card (automatic),24.8,297.6,0.1362,0.23,-24.12,False,0,False,,,,,
+5955-EPOAZ,Low-value,6,Month-to-month,No,Mailed check,20.95,251.4,0.1176,0.23,-27.92,False,0,False,,,,,
+1448-PWKYE,New high-value,1,Month-to-month,Fiber optic,Electronic check,80.0,960.0,0.7499,0.17,196.46,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0658,0.0,656.78
+3413-CSSTH,Low-value,41,Month-to-month,DSL,Bank transfer (automatic),55.7,668.4,0.1799,0.23,0.99,False,0,False,,,,,
+7018-FPXHH,Established high-value,56,Two year,DSL,Bank transfer (automatic),59.8,717.6,0.0247,0.16,-34.0,False,0,False,,,,,
+2798-NYLMZ,Established high-value,71,Two year,Fiber optic,Credit card (automatic),108.55,1302.6,0.0673,0.16,-11.88,False,0,False,,,,,
+8194-PEEBY,Low-value,24,One year,No,Mailed check,19.9,238.8,0.0314,0.23,-36.89,False,0,False,,,,,
+6048-QBXKL,New high-value,2,Month-to-month,DSL,Credit card (automatic),56.55,678.6,0.6052,0.17,99.73,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0548,0.0,373.51
+5356-CSVSQ,New high-value,3,Month-to-month,DSL,Electronic check,64.6,775.2,0.5127,0.17,93.23,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0587,0.0,351.93
+3612-YVGSJ,Low-value,71,Two year,No,Credit card (automatic),24.45,293.4,0.0184,0.23,-37.88,False,0,False,,,,,
+9025-ZRPVR,Low-value,9,Month-to-month,No,Mailed check,18.95,227.4,0.0905,0.23,-31.35,False,1,False,,,,,
+6646-VRFOL,Established high-value,53,Month-to-month,Fiber optic,Electronic check,103.85,1246.2,0.5671,0.16,187.5,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1306,0.0,543.92
+1036-GUDCL,Established high-value,60,Month-to-month,DSL,Credit card (automatic),79.05,948.6,0.1125,0.16,-4.92,False,0,False,,,,,
+0020-INWCK,Established high-value,71,Two year,Fiber optic,Credit card (automatic),95.75,1149.0,0.0638,0.16,-16.25,False,0,False,,,,,
+4824-GUCBY,New high-value,22,Month-to-month,Fiber optic,Electronic check,81.7,980.4,0.3539,0.17,73.77,True,0,False,,,,,
+7666-WKRON,Established high-value,39,Two year,Fiber optic,Electronic check,80.45,965.4,0.041,0.16,-27.02,False,1,False,,,,,
+6608-QQLVK,New high-value,1,Month-to-month,DSL,Electronic check,50.5,606.0,0.6649,0.17,99.02,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0561,0.0,368.93
+4378-BZYFP,Low-value,17,One year,No,Mailed check,20.5,246.0,0.0343,0.23,-36.53,False,0,False,,,,,
+4633-MKHYU,New high-value,9,Month-to-month,Fiber optic,Mailed check,88.4,1060.8,0.6852,0.17,196.77,True,0,False,,,,,
+8637-XJIVR,New high-value,12,Month-to-month,Fiber optic,Electronic check,78.95,947.4,0.49,0.17,112.65,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0456,0.0,421.07
+3778-FOAQW,Low-value,24,One year,No,Mailed check,20.15,241.8,0.0305,0.23,-36.95,False,0,False,,,,,
+2057-ZBLPD,New high-value,21,Month-to-month,Fiber optic,Electronic check,86.5,1038.0,0.5948,0.17,161.44,True,1,False,,,,,
+0931-MHTEM,Established high-value,54,One year,Fiber optic,Credit card (automatic),100.05,1200.6,0.2002,0.16,37.58,True,0,False,,,,,
+1240-KNSEZ,Low-value,1,Month-to-month,No,Mailed check,20.1,241.2,0.3847,0.23,-1.66,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.0922,0.0,70.55
+1963-VAUKV,Low-value,1,Month-to-month,No,Mailed check,20.4,244.8,0.3248,0.23,-7.28,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.0845,0.0,58.82
+9227-YBAXE,Established high-value,65,Two year,DSL,Bank transfer (automatic),82.5,990.0,0.0282,0.16,-30.84,False,0,False,,,,,
+5049-MUBWG,New high-value,26,One year,DSL,Bank transfer (automatic),75.0,900.0,0.0989,0.17,-10.59,False,0,False,,,,,
+6821-BUXUX,New high-value,13,Month-to-month,Fiber optic,Electronic check,96.65,1159.8,0.6189,0.17,192.24,True,1,False,,,,,
+7594-LZNWR,New high-value,34,Month-to-month,Fiber optic,Credit card (automatic),69.15,829.8,0.3034,0.17,43.81,True,0,False,,,,,
+2509-TFPJU,Low-value,72,Two year,No,Credit card (automatic),25.75,309.0,0.0158,0.23,-38.1,False,0,False,,,,,
+3908-BLSYF,New high-value,6,Month-to-month,Fiber optic,Electronic check,83.9,1006.8,0.6118,0.17,161.48,True,1,False,,,,,
+4873-ILOLJ,New high-value,24,Month-to-month,Fiber optic,Electronic check,90.35,1084.2,0.513,0.17,140.88,True,1,False,,,,,
+3594-IVHJZ,Low-value,2,Month-to-month,No,Mailed check,20.45,245.4,0.1836,0.23,-21.48,False,0,False,,,,,
+6218-KNUBD,New high-value,6,Month-to-month,DSL,Electronic check,59.45,713.4,0.3234,0.17,38.05,True,0,False,,,,,
+5067-WJEUN,Established high-value,67,Two year,DSL,Bank transfer (automatic),54.2,650.4,0.025,0.16,-34.44,False,0,False,,,,,
+3780-DDGSE,New high-value,35,Month-to-month,DSL,Electronic check,76.05,912.6,0.1972,0.17,19.39,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1137,0.0,76.27
+3689-MOZGR,Low-value,29,Month-to-month,DSL,Electronic check,31.2,374.4,0.2659,0.23,-2.87,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0878,0.0,66.68
+4223-BKEOR,New high-value,21,One year,DSL,Mailed check,64.85,778.2,0.0909,0.17,-16.31,False,0,False,,,,,
+0064-YIJGF,New high-value,27,Month-to-month,Fiber optic,Bank transfer (automatic),75.75,909.0,0.335,0.17,60.51,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0439,0.0,264.6
+0616-ATFGB,Low-value,1,Month-to-month,DSL,Electronic check,25.05,300.6,0.7074,0.23,43.1,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1959,0.0,153.74
+3967-KXAPS,Established high-value,72,Two year,DSL,Credit card (automatic),92.3,1107.6,0.026,0.16,-30.64,False,0,False,,,,,
+5339-TJFEK,Established high-value,62,Month-to-month,Fiber optic,Electronic check,105.5,1266.0,0.3147,0.16,88.1,True,0,False,,,,,
+0365-BZUWY,New high-value,17,Month-to-month,Fiber optic,Electronic check,102.55,1230.6,0.68,0.17,229.62,True,0,False,,,,,
+1236-WFCDV,New high-value,14,Month-to-month,Fiber optic,Credit card (automatic),90.45,1085.4,0.5994,0.17,171.55,True,1,False,,,,,
+0330-IVZHA,New high-value,5,Month-to-month,Fiber optic,Electronic check,69.95,839.4,0.5949,0.17,126.05,True,1,False,,,,,
+6910-HADCM,New high-value,1,Month-to-month,Fiber optic,Electronic check,76.35,916.2,0.7653,0.17,191.24,True,1,False,,,,,
+3094-JOJAI,New high-value,18,Month-to-month,Fiber optic,Mailed check,74.15,889.8,0.3061,0.17,50.08,True,0,False,,,,,
+3594-UVONA,Established high-value,35,One year,DSL,Credit card (automatic),85.95,1031.4,0.104,0.16,-4.97,False,1,False,,,,,
+2138-VFAPZ,Low-value,14,Two year,No,Mailed check,19.7,236.4,0.0255,0.23,-37.5,False,0,False,,,,,
+4641-FROLU,Low-value,30,Two year,No,Mailed check,19.3,231.6,0.0216,0.23,-37.91,False,0,False,,,,,
+7018-WBJNK,New high-value,13,Month-to-month,Fiber optic,Credit card (automatic),78.3,939.6,0.4636,0.17,103.34,True,0,False,,,,,
+0083-PIVIK,Established high-value,64,One year,DSL,Electronic check,81.25,975.0,0.068,0.16,-18.25,False,0,False,,,,,
+1429-UYJSV,Low-value,12,One year,No,Mailed check,19.7,236.4,0.0412,0.23,-35.95,False,0,False,,,,,
+7115-IRDHS,Low-value,72,Two year,No,Bank transfer (automatic),24.65,295.8,0.0158,0.23,-38.16,False,0,False,,,,,
+3164-YAXFY,Established high-value,57,Month-to-month,DSL,Electronic check,53.75,645.0,0.2749,0.16,20.69,True,0,False,,,,,
+0916-KNFAJ,Established high-value,61,Two year,DSL,Mailed check,69.9,838.8,0.0219,0.16,-33.89,False,0,False,,,,,
+3244-CQPHU,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),110.1,1321.2,0.0439,0.16,-21.41,False,0,False,,,,,
+6445-TNRXS,Established high-value,68,Two year,Fiber optic,Bank transfer (automatic),114.7,1376.4,0.0842,0.16,-2.95,False,0,False,,,,,
+3211-ILJTT,New high-value,17,Month-to-month,Fiber optic,Bank transfer (automatic),70.4,844.8,0.3148,0.17,48.38,True,1,False,,,,,
+3890-RTCMS,New high-value,16,Month-to-month,DSL,Mailed check,49.45,593.4,0.1723,0.17,-4.62,True,0,False,,,,,
+3724-BSCVH,Low-value,10,One year,No,Mailed check,20.45,245.4,0.0398,0.23,-35.99,False,0,False,,,,,
+1768-ZAIFU,Low-value,1,Month-to-month,DSL,Electronic check,25.2,302.4,0.7855,0.23,52.7,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0858,0.0,211.59
+7432-FFVAR,Established high-value,46,One year,Fiber optic,Bank transfer (automatic),90.95,1091.4,0.0959,0.16,-5.99,False,0,False,,,,,
+6682-QJDGB,Low-value,40,Month-to-month,DSL,Mailed check,55.25,663.0,0.1147,0.23,-14.06,False,1,False,,,,,
+3635-QQRQD,Low-value,62,Two year,No,Credit card (automatic),20.05,240.6,0.0187,0.23,-38.14,False,0,False,,,,,
+7251-XFOIL,Established high-value,61,Month-to-month,Fiber optic,Mailed check,89.2,1070.4,0.2029,0.16,30.69,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0291,0.0,185.98
+3926-CUQZX,New high-value,1,Month-to-month,DSL,Bank transfer (automatic),45.1,541.2,0.5748,0.17,69.02,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0481,0.0,285.07
+9972-VAFJJ,Established high-value,53,One year,Fiber optic,Electronic check,94.0,1128.0,0.1455,0.16,13.21,False,0,False,,,,,
+6542-LWGXJ,Low-value,3,Month-to-month,DSL,Mailed check,25.0,300.0,0.4572,0.23,13.63,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0994,0.0,107.34
+7343-EOBEU,Low-value,3,Month-to-month,No,Mailed check,23.6,283.2,0.2273,0.23,-14.48,False,0,False,,,,,
+5899-OUVKV,New high-value,31,Month-to-month,Fiber optic,Electronic check,94.5,1134.0,0.458,0.17,128.33,True,0,False,,,,,
+1074-AMIOH,Established high-value,53,Month-to-month,Fiber optic,Bank transfer (automatic),108.25,1299.0,0.299,0.16,84.69,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0768,0.0,288.7
+9152-AMKAK,New high-value,6,Two year,DSL,Mailed check,80.25,963.0,0.0471,0.17,-25.09,False,0,False,,,,,
+6833-JMZYP,New high-value,15,Month-to-month,Fiber optic,Credit card (automatic),94.0,1128.0,0.6004,0.17,179.58,True,0,False,,,,,
+3398-GCPMU,Established high-value,72,Two year,DSL,Credit card (automatic),89.55,1074.6,0.022,0.16,-32.31,False,0,False,,,,,
+3391-JSQEW,Low-value,40,Month-to-month,DSL,Mailed check,50.15,601.8,0.1418,0.23,-10.52,False,0,False,,,,,
+7239-HZZCX,Low-value,1,Month-to-month,No,Mailed check,19.75,237.0,0.3248,0.23,-8.04,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,68.06
+2908-ZTPNF,Low-value,36,Month-to-month,DSL,Bank transfer (automatic),34.85,418.2,0.165,0.23,-14.8,False,0,False,,,,,
+6979-ZNSFF,New high-value,8,Month-to-month,Fiber optic,Electronic check,87.05,1044.6,0.7564,0.17,217.7,True,1,False,,,,,
+0018-NYROU,New high-value,5,Month-to-month,Fiber optic,Electronic check,68.95,827.4,0.6413,0.17,136.68,True,0,False,,,,,
+6797-UCJHZ,Established high-value,66,One year,Fiber optic,Credit card (automatic),104.6,1255.2,0.2134,0.16,46.18,True,0,False,,,,,
+2364-UFROM,New high-value,30,One year,DSL,Electronic check,70.4,844.8,0.0744,0.17,-19.13,False,0,False,,,,,
+0909-SDHNU,Low-value,7,Month-to-month,DSL,Mailed check,29.8,357.6,0.1935,0.23,-13.96,False,0,False,,,,,
+6861-XWTWQ,New high-value,7,Month-to-month,Fiber optic,Electronic check,99.25,1191.0,0.8272,0.17,278.15,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1687,0.0,784.24
+1139-WUOAH,Established high-value,57,Two year,DSL,Credit card (automatic),53.35,640.2,0.0345,0.16,-32.44,False,0,False,,,,,
+7250-EQKIY,New high-value,1,Month-to-month,DSL,Mailed check,50.45,605.4,0.498,0.17,64.04,True,1,False,,,,,
+7754-IXRMC,New high-value,1,Month-to-month,DSL,Mailed check,45.35,544.2,0.5092,0.17,57.02,True,0,False,,,,,
+6284-AHOOQ,New high-value,22,Month-to-month,Fiber optic,Bank transfer (automatic),90.5,1086.0,0.4297,0.17,111.72,True,1,False,,,,,
+8821-XNHVZ,New high-value,1,Month-to-month,Fiber optic,Mailed check,80.05,960.6,0.7786,0.17,205.64,True,1,False,,,,,
+4546-FOKWR,New high-value,16,Month-to-month,Fiber optic,Credit card (automatic),74.75,897.0,0.451,0.17,93.69,True,0,False,,,,,
+4979-HPRFL,Low-value,56,Two year,No,Bank transfer (automatic),24.15,289.8,0.0205,0.23,-37.66,False,0,False,,,,,
+3352-ALMCK,Established high-value,40,Month-to-month,Fiber optic,Mailed check,102.65,1231.8,0.458,0.16,141.75,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1095,0.0,429.29
+1045-LTCYT,Low-value,8,Month-to-month,No,Credit card (automatic),21.05,252.6,0.1233,0.23,-27.29,False,0,False,,,,,
+4489-SNOJF,New high-value,35,Month-to-month,DSL,Electronic check,72.25,867.0,0.166,0.17,7.72,False,1,False,,,,,
+4191-XOVOM,Established high-value,63,Month-to-month,Fiber optic,Electronic check,105.4,1264.8,0.3725,0.16,111.51,True,0,False,,,,,
+1848-LBZHY,New high-value,7,Month-to-month,DSL,Bank transfer (automatic),50.3,603.6,0.2081,0.17,3.35,True,0,False,,,,,
+9092-GDZKO,Low-value,22,Month-to-month,No,Credit card (automatic),24.85,298.2,0.1181,0.23,-26.21,False,0,False,,,,,
+9761-XUJWD,New high-value,5,Month-to-month,DSL,Bank transfer (automatic),65.6,787.2,0.3041,0.17,40.12,True,0,False,,,,,
+8059-UDZFY,Established high-value,33,Month-to-month,Fiber optic,Bank transfer (automatic),105.35,1264.2,0.4773,0.16,154.04,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1075,0.0,467.52
+3378-AJRAO,Low-value,44,One year,No,Electronic check,24.85,298.2,0.0458,0.23,-34.65,False,0,False,,,,,
+7047-FWEYA,Established high-value,46,One year,Fiber optic,Electronic check,103.15,1237.8,0.2719,0.16,68.37,True,0,True,Upgrade contract: One year → Two year,Contract,0.1151,0.0,194.0
+5268-DSMNQ,Established high-value,62,One year,Fiber optic,Credit card (automatic),97.95,1175.4,0.1206,0.16,5.82,False,0,False,,,,,
+9940-RHLFB,New high-value,1,Month-to-month,Fiber optic,Electronic check,75.3,903.6,0.7588,0.17,186.42,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.065,0.0,626.9
+2606-RMDHZ,Low-value,6,Month-to-month,DSL,Credit card (automatic),30.5,366.0,0.3363,0.23,6.11,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0466,0.0,106.04
+0818-OCPZO,New high-value,27,Month-to-month,Fiber optic,Electronic check,81.45,977.4,0.5214,0.17,127.11,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.057,0.0,453.91
+5120-ZBLAI,Established high-value,50,One year,DSL,Bank transfer (automatic),75.7,908.4,0.1362,0.16,0.84,False,0,False,,,,,
+4631-OACRM,New high-value,15,Month-to-month,Fiber optic,Electronic check,79.4,952.8,0.5725,0.17,139.28,True,1,False,,,,,
+8593-WHYHV,New high-value,3,Month-to-month,Fiber optic,Electronic check,85.3,1023.6,0.7609,0.17,214.44,True,1,False,,,,,
+4234-XTNEA,New high-value,2,Month-to-month,Fiber optic,Electronic check,79.95,959.4,0.6968,0.17,179.56,True,0,False,,,,,
+3234-VKACU,New high-value,2,Month-to-month,DSL,Electronic check,70.3,843.6,0.4537,0.17,87.22,True,0,False,,,,,
+3745-HRPHI,Established high-value,66,Two year,DSL,Bank transfer (automatic),54.65,655.8,0.0301,0.16,-33.26,False,0,False,,,,,
+7554-AKDQF,New high-value,6,Month-to-month,DSL,Mailed check,45.65,547.8,0.2399,0.17,5.97,True,0,False,,,,,
+3197-ARFOY,New high-value,19,Month-to-month,Fiber optic,Mailed check,105.0,1260.0,0.4799,0.17,154.49,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1242,0.0,448.18
+9121-PHQSR,New high-value,16,Month-to-month,Fiber optic,Credit card (automatic),85.05,1020.6,0.6333,0.17,171.18,True,0,False,,,,,
+1587-FKLZB,Established high-value,66,Month-to-month,Fiber optic,Credit card (automatic),99.5,1194.0,0.3672,0.16,101.55,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0837,0.0,338.41
+8058-DMYRU,Established high-value,54,Month-to-month,Fiber optic,Electronic check,90.05,1080.6,0.5007,0.16,135.97,True,0,False,,,,,
+1264-FUHCX,Established high-value,49,One year,DSL,Credit card (automatic),56.3,675.6,0.1081,0.16,-15.13,False,0,False,,,,,
+4343-EJVQB,New high-value,7,Month-to-month,Fiber optic,Mailed check,74.35,892.2,0.3984,0.17,77.52,True,0,False,,,,,
+6713-OKOMC,Low-value,10,Month-to-month,DSL,Mailed check,29.75,357.0,0.1962,0.23,-13.63,False,0,False,,,,,
+3649-JPUGY,Established high-value,72,Two year,DSL,Bank transfer (automatic),88.6,1063.2,0.0256,0.16,-31.15,False,0,False,,,,,
+1004-NOZNR,Established high-value,56,One year,Fiber optic,Credit card (automatic),94.8,1137.6,0.158,0.16,18.22,False,0,False,,,,,
+9364-YKUVW,Low-value,15,Month-to-month,No,Mailed check,19.8,237.6,0.1066,0.23,-29.49,False,0,False,,,,,
+6194-HBGQN,Established high-value,51,One year,DSL,Credit card (automatic),81.15,973.8,0.0584,0.16,-21.35,False,0,False,,,,,
+3229-USWAR,New high-value,34,One year,DSL,Bank transfer (automatic),79.95,959.4,0.1037,0.17,-7.31,False,0,False,,,,,
+3658-KIBGF,New high-value,1,Month-to-month,DSL,Electronic check,54.9,658.8,0.5306,0.17,79.34,True,1,False,,,,,
+9643-YBLUR,New high-value,9,Month-to-month,DSL,Credit card (automatic),69.05,828.6,0.3191,0.17,48.03,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0521,0.0,221.27
+1845-ZLLIG,New high-value,1,Month-to-month,DSL,Mailed check,50.15,601.8,0.5741,0.17,79.33,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.048,0.0,316.64
+0524-IAVZO,New high-value,30,Month-to-month,Fiber optic,Electronic check,85.0,1020.0,0.5062,0.17,128.7,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0576,0.0,457.57
+5692-FPTAH,New high-value,1,Month-to-month,DSL,Mailed check,45.4,544.8,0.5748,0.17,69.64,True,1,False,,,,,
+6317-YPKDH,Low-value,1,Month-to-month,DSL,Bank transfer (automatic),29.95,359.4,0.5298,0.23,31.58,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0485,0.0,172.96
+9823-EALYC,Established high-value,72,Two year,DSL,Bank transfer (automatic),80.85,970.2,0.0179,0.16,-34.29,False,0,False,,,,,
+9167-APMXZ,New high-value,22,Month-to-month,Fiber optic,Bank transfer (automatic),84.15,1009.8,0.4248,0.17,100.27,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0582,0.0,370.16
+8246-SHFGA,Low-value,17,Month-to-month,No,Credit card (automatic),21.1,253.2,0.0984,0.23,-29.84,False,0,False,,,,,
+3413-DHLPB,Established high-value,60,Month-to-month,Fiber optic,Bank transfer (automatic),103.75,1245.0,0.3087,0.16,83.71,True,0,False,,,,,
+2533-QVMSK,Established high-value,61,Two year,Fiber optic,Electronic check,94.1,1129.2,0.0799,0.16,-10.75,False,1,False,,,,,
+8751-EDEKA,New high-value,28,Month-to-month,Fiber optic,Credit card (automatic),89.9,1078.8,0.3038,0.17,66.62,True,0,False,,,,,
+2696-RZVZW,Low-value,68,Two year,No,Credit card (automatic),25.05,300.6,0.0201,0.23,-37.63,False,0,False,,,,,
+0484-JPBRU,Low-value,41,Month-to-month,No,Bank transfer (automatic),25.25,303.0,0.093,0.23,-29.0,False,0,False,,,,,
+8849-AYPTR,New high-value,33,Month-to-month,Fiber optic,Electronic check,91.25,1095.0,0.4258,0.17,111.49,True,0,False,,,,,
+8671-KKKOS,Low-value,46,Month-to-month,DSL,Electronic check,45.55,546.6,0.2442,0.23,6.72,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0441,0.0,109.38
+2824-MYYBN,Established high-value,37,Month-to-month,Fiber optic,Electronic check,95.25,1143.0,0.498,0.16,144.34,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1093,0.0,444.21
+1112-CUNAO,New high-value,15,Month-to-month,Fiber optic,Electronic check,89.85,1078.2,0.5472,0.17,151.93,True,1,False,,,,,
+9221-OTIVJ,New high-value,14,Month-to-month,Fiber optic,Electronic check,104.85,1258.2,0.7488,0.17,263.1,True,1,False,,,,,
+5364-EVNIB,New high-value,13,Month-to-month,Fiber optic,Electronic check,79.8,957.6,0.5378,0.17,129.17,True,1,False,,,,,
+3439-GVUSX,Low-value,1,Month-to-month,DSL,Mailed check,24.4,292.8,0.5429,0.23,22.51,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.128,0.0,121.46
+1052-QJIBV,Low-value,71,Two year,No,Credit card (automatic),19.9,238.8,0.0181,0.23,-38.21,False,0,False,,,,,
+4504-YOULA,New high-value,35,Month-to-month,DSL,Credit card (automatic),59.45,713.4,0.1238,0.17,-10.12,False,0,False,,,,,
+6292-TOSSS,Low-value,50,Two year,No,Bank transfer (automatic),24.9,298.8,0.0231,0.23,-37.3,False,0,False,,,,,
+9480-BQJEI,Established high-value,62,One year,Fiber optic,Bank transfer (automatic),92.3,1107.6,0.0852,0.16,-9.35,False,0,False,,,,,
+1043-UXOVO,Established high-value,71,Two year,Fiber optic,Credit card (automatic),113.15,1357.8,0.0586,0.16,-14.51,False,0,False,,,,,
+4660-IRIBM,New high-value,18,Month-to-month,Fiber optic,Mailed check,87.9,1054.8,0.2987,0.17,62.67,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0408,0.0,272.03
+9483-GCPWE,Low-value,9,One year,No,Mailed check,20.1,241.2,0.0398,0.23,-36.04,False,0,False,,,,,
+0835-DUUIQ,Low-value,24,One year,No,Bank transfer (automatic),21.05,252.6,0.033,0.23,-36.6,False,0,False,,,,,
+4077-HWUYD,Established high-value,72,Two year,DSL,Bank transfer (automatic),87.55,1050.6,0.0193,0.16,-33.38,False,0,False,,,,,
+6848-HJTXY,Low-value,64,Two year,No,Credit card (automatic),19.45,233.4,0.0191,0.23,-38.14,False,0,False,,,,,
+4184-VODJZ,Established high-value,63,One year,Fiber optic,Electronic check,91.35,1096.2,0.1216,0.16,3.32,False,0,False,,,,,
+7663-RGWBC,New high-value,1,Month-to-month,DSL,Mailed check,44.15,529.8,0.5748,0.17,67.06,True,1,False,,,,,
+0221-NAUXK,Low-value,10,One year,No,Bank transfer (automatic),19.95,239.4,0.0405,0.23,-35.99,False,0,False,,,,,
+8378-LKJAF,Established high-value,38,Month-to-month,Fiber optic,Credit card (automatic),101.15,1213.8,0.4391,0.16,131.88,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1026,0.0,408.47
+6857-VWJDT,New high-value,1,Month-to-month,Fiber optic,Mailed check,95.65,1147.8,0.8368,0.17,271.01,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.168,0.0,767.72
+0114-IGABW,Established high-value,71,Two year,DSL,Bank transfer (automatic),58.25,699.0,0.0293,0.16,-33.05,False,0,False,,,,,
+3177-LASXD,New high-value,1,Month-to-month,Fiber optic,Electronic check,71.35,856.2,0.756,0.17,174.83,True,1,False,,,,,
+5928-QLDHB,New high-value,9,Month-to-month,Fiber optic,Electronic check,76.25,915.0,0.6428,0.17,154.01,True,0,False,,,,,
+2408-PSJVE,Established high-value,44,Month-to-month,DSL,Mailed check,61.9,742.8,0.1066,0.16,-13.33,False,0,False,,,,,
+6661-EIPZC,Low-value,48,Month-to-month,DSL,Credit card (automatic),29.5,354.0,0.1287,0.23,-22.82,False,0,False,,,,,
+6388-TABGU,Established high-value,62,One year,DSL,Bank transfer (automatic),56.15,673.8,0.0404,0.16,-30.72,False,0,False,,,,,
+0581-MDMPW,New high-value,24,Month-to-month,Fiber optic,Credit card (automatic),88.95,1067.4,0.4196,0.17,105.82,True,0,False,,,,,
+2466-NEJOJ,Low-value,8,Month-to-month,No,Credit card (automatic),19.65,235.8,0.1251,0.23,-27.74,False,0,False,,,,,
+9971-ZWPBF,Established high-value,34,Month-to-month,Fiber optic,Electronic check,108.9,1306.8,0.456,0.16,151.22,True,0,False,,,,,
+5650-YLIBA,New high-value,31,Month-to-month,Fiber optic,Electronic check,81.15,973.8,0.4828,0.17,114.24,True,0,False,,,,,
+3977-QCRSL,Low-value,5,Month-to-month,No,Mailed check,20.15,241.8,0.1518,0.23,-24.84,False,0,False,,,,,
+4626-OZDTJ,Established high-value,51,One year,DSL,Credit card (automatic),78.65,943.8,0.1197,0.16,-2.83,False,0,False,,,,,
+4869-EPIUS,Established high-value,56,One year,Fiber optic,Electronic check,80.9,970.8,0.1298,0.16,1.33,False,0,False,,,,,
+6164-HAQTX,Established high-value,71,Two year,DSL,Bank transfer (automatic),53.95,647.4,0.0253,0.16,-34.4,False,0,False,,,,,
+7668-XCFYV,New high-value,17,Month-to-month,Fiber optic,Electronic check,92.55,1110.6,0.6549,0.17,196.08,True,0,False,,,,,
+7209-JCUDS,New high-value,10,Month-to-month,Fiber optic,Electronic check,94.9,1138.8,0.6646,0.17,205.2,True,1,False,,,,,
+3923-CSIHK,Established high-value,50,Month-to-month,Fiber optic,Electronic check,71.05,852.6,0.4265,0.16,80.75,True,1,False,,,,,
+1816-FLZDK,Low-value,1,Month-to-month,DSL,Mailed check,29.15,349.8,0.4128,0.23,14.6,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0395,0.0,130.61
+0347-UBKUZ,Low-value,15,Month-to-month,No,Mailed check,19.9,238.8,0.1085,0.23,-29.27,False,0,False,,,,,
+6345-FZOQH,Low-value,69,Two year,No,Mailed check,19.9,238.8,0.0179,0.23,-38.23,False,0,False,,,,,
+9337-SRRNI,Low-value,66,Two year,No,Credit card (automatic),25.3,303.6,0.022,0.23,-37.4,False,0,False,,,,,
+5458-CQJTA,Established high-value,65,Two year,DSL,Bank transfer (automatic),74.8,897.6,0.0311,0.16,-30.77,False,1,False,,,,,
+4250-ZBWLV,Established high-value,68,One year,Fiber optic,Electronic check,108.45,1301.4,0.2272,0.16,54.9,True,1,True,Upgrade contract: One year → Two year,Contract,0.1031,0.0,161.45
+7576-JMYWV,Established high-value,46,Month-to-month,Fiber optic,Electronic check,110.2,1322.4,0.357,0.16,111.36,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0896,0.0,353.58
+9298-WGMRW,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),115.5,1386.0,0.0439,0.16,-20.56,False,0,False,,,,,
+4779-ZGICK,Low-value,48,Two year,No,Mailed check,23.55,282.6,0.0213,0.23,-37.62,False,0,False,,,,,
+6434-TTGJP,New high-value,10,Two year,DSL,Credit card (automatic),53.7,644.4,0.0386,0.17,-31.48,False,0,False,,,,,
+2079-FBMZK,New high-value,6,Month-to-month,Fiber optic,Mailed check,69.25,831.0,0.5262,0.17,105.55,True,1,False,,,,,
+7537-CBQUZ,Established high-value,63,Month-to-month,Fiber optic,Bank transfer (automatic),109.4,1312.8,0.3155,0.16,92.88,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.092,0.0,293.46
+1265-ZFOSD,Established high-value,64,Two year,DSL,Mailed check,81.3,975.6,0.0217,0.16,-33.06,False,0,False,,,,,
+2955-BJZHG,New high-value,17,Month-to-month,Fiber optic,Electronic check,80.85,970.2,0.4591,0.17,106.17,True,1,False,,,,,
+7273-TEFQD,Low-value,3,Month-to-month,DSL,Electronic check,41.15,493.8,0.6754,0.23,78.5,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0726,0.0,297.65
+4189-NAKJS,Low-value,26,One year,DSL,Credit card (automatic),51.55,618.6,0.077,0.23,-23.62,False,0,False,,,,,
+2150-OEGBV,Low-value,27,One year,No,Bank transfer (automatic),20.1,241.2,0.0311,0.23,-36.9,False,0,False,,,,,
+3546-GHEAE,Low-value,7,Two year,No,Mailed check,19.45,233.4,0.0259,0.23,-37.48,False,0,False,,,,,
+3244-DCJWY,New high-value,1,Month-to-month,Fiber optic,Electronic check,70.25,843.0,0.8115,0.17,187.37,True,1,False,,,,,
+4072-IPYLT,Low-value,36,Month-to-month,DSL,Credit card (automatic),51.05,612.6,0.116,0.23,-15.5,False,0,False,,,,,
+8739-QOTTN,Low-value,2,Month-to-month,No,Mailed check,20.35,244.2,0.1833,0.23,-21.57,False,0,False,,,,,
+4634-JLRJT,Low-value,1,Month-to-month,No,Mailed check,20.35,244.2,0.3847,0.23,-1.31,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0922,0.0,71.42
+6036-TTFYU,Low-value,16,Month-to-month,No,Mailed check,19.6,235.2,0.1108,0.23,-29.16,False,0,False,,,,,
+5847-MXBEO,Low-value,22,One year,No,Mailed check,20.3,243.6,0.0336,0.23,-36.62,False,0,False,,,,,
+5371-VYLSX,Established high-value,50,Month-to-month,Fiber optic,Electronic check,83.4,1000.8,0.3585,0.16,77.42,True,0,False,,,,,
+2055-PDADH,New high-value,3,Month-to-month,Fiber optic,Electronic check,70.4,844.8,0.6652,0.17,146.76,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1315,0.0,450.91
+7124-UGSUR,Established high-value,61,One year,Fiber optic,Credit card (automatic),104.4,1252.8,0.2332,0.16,54.01,True,1,True,Discount 11% (104.40 → 92.92 per month),Discount,0.1462,137.76,-28.76
+3258-SANFR,New high-value,6,Month-to-month,DSL,Credit card (automatic),44.7,536.4,0.2912,0.17,14.81,True,0,False,,,,,
+2761-XECQW,Low-value,8,Month-to-month,DSL,Mailed check,43.35,520.2,0.3947,0.23,32.37,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0639,0.0,172.05
+5297-MDOIR,Established high-value,63,One year,Fiber optic,Credit card (automatic),81.15,973.8,0.0452,0.16,-25.56,False,0,False,,,,,
+4713-LZDRV,New high-value,2,Month-to-month,Fiber optic,Electronic check,79.6,955.2,0.6958,0.17,178.38,True,1,False,,,,,
+3466-RITXD,New high-value,26,Month-to-month,Fiber optic,Credit card (automatic),92.4,1108.8,0.2979,0.17,67.21,True,0,False,,,,,
+0187-QSXOE,New high-value,7,Month-to-month,Fiber optic,Electronic check,89.0,1068.0,0.7281,0.17,213.17,True,0,False,,,,,
+3982-DQLUS,Established high-value,65,Month-to-month,Fiber optic,Electronic check,85.75,1029.0,0.2574,0.16,46.49,True,0,False,,,,,
+0422-UXFAP,Established high-value,51,One year,Fiber optic,Electronic check,98.85,1186.2,0.3239,0.16,84.12,True,0,True,Upgrade contract: One year → Two year,Contract,0.1316,0.0,228.15
+9851-KIELU,New high-value,10,Month-to-month,Fiber optic,Electronic check,110.1,1321.2,0.6337,0.17,228.49,True,1,False,,,,,
+4803-LBYPN,Low-value,34,Month-to-month,No,Mailed check,20.8,249.6,0.0758,0.23,-32.25,False,0,False,,,,,
+1156-ZFYDO,Low-value,1,Month-to-month,No,Electronic check,19.75,237.0,0.3803,0.23,-2.58,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0418,0.0,80.22
+5950-AAAGJ,New high-value,18,Month-to-month,Fiber optic,Bank transfer (automatic),84.3,1011.6,0.3658,0.17,81.0,True,0,False,,,,,
+4686-UXDML,New high-value,21,Month-to-month,Fiber optic,Credit card (automatic),99.85,1198.2,0.5841,0.17,185.9,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1353,0.0,537.79
+5469-CTCWN,Established high-value,61,One year,Fiber optic,Electronic check,106.0,1272.0,0.1768,0.16,32.29,True,1,True,Discount 4% (106.00 → 101.76 per month),Discount,0.16,50.88,-29.5
+9979-RGMZT,New high-value,7,One year,Fiber optic,Mailed check,94.05,1128.6,0.3313,0.17,81.22,True,0,False,,,,,
+7623-TRNQN,New high-value,1,Month-to-month,DSL,Mailed check,49.9,598.8,0.4327,0.17,49.55,True,1,False,,,,,
+5542-TBBWB,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.9,838.8,0.8115,0.17,186.35,True,0,False,,,,,
+8535-SFUTN,Established high-value,61,Month-to-month,Fiber optic,Electronic check,106.45,1277.4,0.3977,0.16,123.26,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1042,0.0,374.98
+9494-BDNNC,Established high-value,66,One year,Fiber optic,Electronic check,95.3,1143.6,0.1544,0.16,17.17,False,0,False,,,,,
+9450-TRJUU,New high-value,35,Month-to-month,Fiber optic,Electronic check,83.15,997.8,0.4421,0.17,104.4,True,0,False,,,,,
+5759-RCVCB,Low-value,3,Month-to-month,DSL,Credit card (automatic),35.2,422.4,0.4914,0.23,35.68,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0503,0.0,186.3
+2832-SCUCO,Low-value,2,Month-to-month,No,Electronic check,19.9,238.8,0.2161,0.23,-18.62,False,0,False,,,,,
+8887-IPQNC,New high-value,7,Month-to-month,DSL,Mailed check,44.25,531.0,0.2617,0.17,8.83,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0865,0.0,93.03
+8495-PRWFH,Low-value,42,Month-to-month,DSL,Electronic check,55.65,667.8,0.2592,0.23,18.99,True,0,True,Switch to Credit card (automatic),PaymentMethod,0.2126,0.0,31.07
+6537-QLGEX,Low-value,16,Month-to-month,DSL,Electronic check,38.9,466.8,0.3886,0.23,25.02,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0602,0.0,153.29
+2606-PKWJB,Low-value,40,One year,DSL,Mailed check,40.25,483.0,0.0459,0.23,-32.1,False,0,False,,,,,
+1272-ILHFG,Low-value,15,One year,No,Mailed check,19.65,235.8,0.039,0.23,-36.17,False,0,False,,,,,
+8805-JNRAZ,New high-value,2,Month-to-month,DSL,Mailed check,49.2,590.4,0.4168,0.17,45.21,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0384,0.0,223.4
+7695-PKLCZ,Low-value,68,Two year,No,Credit card (automatic),20.5,246.0,0.0184,0.23,-38.14,False,0,False,,,,,
+7005-CCBKV,New high-value,6,Month-to-month,Fiber optic,Electronic check,84.4,1012.8,0.6516,0.17,175.78,True,1,False,,,,,
+2305-MRGLV,New high-value,28,Month-to-month,Fiber optic,Bank transfer (automatic),76.55,918.6,0.2106,0.17,23.79,True,0,False,,,,,
+3705-PSNGL,Low-value,45,One year,No,Electronic check,20.4,244.8,0.0435,0.23,-35.62,False,1,False,,,,,
+2266-SJNAT,Established high-value,72,One year,Fiber optic,Credit card (automatic),109.15,1309.8,0.1269,0.16,13.34,False,0,False,,,,,
+5821-MMEIL,Low-value,57,Two year,No,Bank transfer (automatic),19.9,238.8,0.0202,0.23,-38.0,False,0,False,,,,,
+6518-LGAOV,Established high-value,38,Month-to-month,Fiber optic,Electronic check,105.0,1260.0,0.559,0.16,186.58,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1337,0.0,535.95
+7742-MYPGI,New high-value,6,Month-to-month,DSL,Mailed check,48.8,585.6,0.1976,0.17,0.12,True,0,False,,,,,
+2061-VVFST,Low-value,37,Month-to-month,No,Bank transfer (automatic),19.5,234.0,0.0813,0.23,-32.07,False,0,False,,,,,
+6821-JPCDC,Established high-value,48,One year,Fiber optic,Electronic check,97.05,1164.6,0.258,0.16,57.2,True,0,False,,,,,
+0436-TWFFZ,Established high-value,67,Two year,DSL,Mailed check,85.25,1023.0,0.0289,0.16,-30.35,False,0,False,,,,,
+8970-ANWXO,New high-value,23,One year,DSL,Mailed check,73.75,885.0,0.1485,0.17,3.49,False,0,False,,,,,
+3453-RTHJQ,New high-value,6,Month-to-month,Fiber optic,Electronic check,69.1,829.2,0.6245,0.17,132.41,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1154,0.0,422.16
+1069-QJOEE,Low-value,25,One year,No,Electronic check,19.9,238.8,0.043,0.23,-35.74,False,0,False,,,,,
+0281-CNTZX,Low-value,63,Two year,No,Bank transfer (automatic),19.95,239.4,0.0187,0.23,-38.15,False,0,False,,,,,
+0058-EVZWM,Established high-value,55,Month-to-month,Fiber optic,Bank transfer (automatic),89.8,1077.6,0.231,0.16,41.0,True,0,False,,,,,
+6008-NAIXK,Established high-value,54,One year,DSL,Electronic check,55.45,665.4,0.2091,0.16,7.45,True,0,True,Upgrade contract: One year → Two year,Contract,0.0657,0.0,95.41
+3191-CSNMG,New high-value,3,Month-to-month,Fiber optic,Electronic check,80.7,968.4,0.6511,0.17,166.93,True,0,False,,,,,
+0909-SELIE,Established high-value,61,Two year,DSL,Bank transfer (automatic),80.8,969.6,0.0251,0.16,-32.02,False,0,False,,,,,
+4237-CLSMM,Low-value,2,Month-to-month,No,Mailed check,20.0,240.0,0.1833,0.23,-21.8,False,0,False,,,,,
+5196-SGOAK,New high-value,1,Month-to-month,Fiber optic,Electronic check,75.7,908.4,0.8071,0.17,202.0,True,1,False,,,,,
+6543-CPZMK,Low-value,9,Month-to-month,DSL,Electronic check,29.95,359.4,0.3502,0.23,7.32,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0429,0.0,110.42
+8272-ONJLV,New high-value,12,One year,Fiber optic,Electronic check,95.7,1148.4,0.267,0.17,59.27,True,0,True,Upgrade contract: One year → Two year,Contract,0.1131,0.0,176.71
+3313-QKNKB,Established high-value,59,One year,Fiber optic,Electronic check,85.55,1026.6,0.1227,0.16,1.15,False,1,False,,,,,
+3675-EQOZA,Low-value,5,Month-to-month,No,Bank transfer (automatic),20.65,247.8,0.1528,0.23,-24.47,False,0,False,,,,,
+7893-IXHRQ,Low-value,1,Month-to-month,No,Electronic check,20.55,246.6,0.3803,0.23,-1.49,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0418,0.0,83.47
+3190-FZATL,Low-value,14,Month-to-month,No,Mailed check,19.95,239.4,0.1051,0.23,-29.59,False,0,False,,,,,
+2731-GJRDG,Established high-value,32,One year,Fiber optic,Bank transfer (automatic),109.55,1314.6,0.2343,0.16,58.78,True,0,True,Discount 15% (109.55 → 93.12 per month),Discount,0.1371,197.16,-69.37
+0076-LVEPS,Low-value,29,Month-to-month,DSL,Mailed check,45.0,540.0,0.1256,0.23,-16.23,False,0,False,,,,,
+2252-NKNSI,Established high-value,52,Two year,DSL,Mailed check,85.15,1021.8,0.03,0.16,-29.99,False,0,False,,,,,
+2897-DOVND,New high-value,2,Month-to-month,Fiber optic,Electronic check,69.8,837.6,0.6463,0.17,140.04,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1249,0.0,436.7
+4465-VDKIQ,New high-value,18,Month-to-month,Fiber optic,Electronic check,77.8,933.6,0.403,0.17,83.87,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0408,0.0,338.1
+8652-YHIYU,New high-value,16,One year,Fiber optic,Credit card (automatic),79.5,954.0,0.0895,0.17,-11.93,False,0,False,,,,,
+8016-NCFVO,Established high-value,55,Month-to-month,Fiber optic,Electronic check,116.5,1398.0,0.4098,0.16,143.07,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1113,0.0,417.32
+8626-PTQGE,Established high-value,69,Two year,DSL,Bank transfer (automatic),60.05,720.6,0.0342,0.16,-31.67,False,0,False,,,,,
+9685-WKZGT,New high-value,14,Month-to-month,Fiber optic,Electronic check,74.95,899.4,0.6466,0.17,152.12,True,1,False,,,,,
+7502-BNYGS,Established high-value,46,Month-to-month,DSL,Credit card (automatic),69.1,829.2,0.1804,0.16,9.79,True,0,False,,,,,
+1619-YWUBB,Low-value,68,Two year,No,Credit card (automatic),24.95,299.4,0.0214,0.23,-37.5,False,0,False,,,,,
+0851-DFJKB,New high-value,15,Month-to-month,DSL,Electronic check,58.95,707.4,0.2231,0.17,13.44,True,0,False,,,,,
+7009-PCARS,Low-value,55,One year,No,Bank transfer (automatic),19.1,229.2,0.0241,0.23,-37.69,False,0,False,,,,,
+9258-CNWAC,Established high-value,71,Two year,Fiber optic,Credit card (automatic),113.65,1363.8,0.0541,0.16,-16.37,False,0,False,,,,,
+0106-GHRQR,New high-value,16,Month-to-month,DSL,Bank transfer (automatic),71.4,856.8,0.2834,0.17,40.58,True,0,False,,,,,
+2984-RGEYA,Low-value,69,Two year,No,Bank transfer (automatic),19.75,237.0,0.0202,0.23,-38.01,False,0,False,,,,,
+0513-RBGPE,New high-value,37,Two year,DSL,Credit card (automatic),62.8,753.6,0.0297,0.17,-32.48,False,0,False,,,,,
+9122-UMROB,Low-value,1,Month-to-month,No,Mailed check,20.3,243.6,0.3248,0.23,-7.39,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,69.95
+1265-HVPZB,Established high-value,59,One year,DSL,Credit card (automatic),66.4,796.8,0.0532,0.16,-25.83,False,0,False,,,,,
+2604-IJPDU,New high-value,20,Month-to-month,Fiber optic,Electronic check,96.55,1158.6,0.4773,0.17,138.92,True,0,False,,,,,
+8879-XUAHX,Established high-value,71,Two year,Fiber optic,Electronic check,116.25,1395.0,0.0691,0.16,-9.21,False,0,False,,,,,
+0975-UYDTX,New high-value,26,One year,DSL,Credit card (automatic),90.1,1081.2,0.1027,0.17,-3.87,False,0,False,,,,,
+5281-BUZGT,Established high-value,36,Month-to-month,Fiber optic,Electronic check,90.85,1090.2,0.4124,0.16,106.15,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.053,0.0,391.81
+8314-HTWVE,Low-value,7,Two year,No,Mailed check,19.85,238.2,0.0252,0.23,-37.51,False,0,False,,,,,
+1038-RQOST,Low-value,19,Month-to-month,No,Mailed check,20.6,247.2,0.0861,0.23,-31.26,False,0,False,,,,,
+5889-JTMUL,Established high-value,50,Month-to-month,Fiber optic,Electronic check,95.05,1140.6,0.5148,0.16,150.21,True,1,False,,,,,
+9747-DDZOS,New high-value,1,Month-to-month,Fiber optic,Bank transfer (automatic),73.5,882.0,0.7023,0.17,164.99,True,1,False,,,,,
+2748-MYRVK,Established high-value,63,One year,Fiber optic,Bank transfer (automatic),99.9,1198.8,0.1898,0.16,33.44,True,1,True,Discount 7% (99.90 → 92.91 per month),Discount,0.1282,83.88,-10.07
+7654-YWJUF,Established high-value,43,One year,Fiber optic,Bank transfer (automatic),84.25,1011.0,0.0557,0.16,-21.58,False,0,False,,,,,
+6823-SIDFQ,Low-value,28,One year,No,Credit card (automatic),18.25,219.0,0.0237,0.23,-37.8,False,0,False,,,,,
+7463-IFMQU,Low-value,72,Two year,No,Bank transfer (automatic),20.05,240.6,0.0153,0.23,-38.48,False,0,False,,,,,
+1658-XUHBX,Established high-value,59,Month-to-month,Fiber optic,Credit card (automatic),88.75,1065.0,0.3363,0.16,76.63,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0432,0.0,312.16
+8993-PHFWD,Low-value,3,Month-to-month,DSL,Electronic check,25.25,303.0,0.5322,0.23,22.91,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1222,0.0,124.23
+2700-LUEVA,Low-value,1,Month-to-month,No,Credit card (automatic),20.75,249.0,0.3248,0.23,-6.87,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,71.5
+1965-DDBWU,New high-value,16,Month-to-month,Fiber optic,Credit card (automatic),89.05,1068.6,0.5109,0.17,137.74,True,1,False,,,,,
+1768-HNVGJ,Established high-value,45,Month-to-month,DSL,Electronic check,70.05,840.6,0.2055,0.16,17.43,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0367,0.0,141.9
+3858-XHYJO,Established high-value,40,One year,Fiber optic,Bank transfer (automatic),105.75,1269.0,0.2074,0.16,44.63,True,0,False,,,,,
+2284-VFLKH,Established high-value,49,One year,Fiber optic,Credit card (automatic),99.25,1191.0,0.2008,0.16,37.21,True,0,True,Discount 7% (99.25 → 92.30 per month),Discount,0.1231,83.4,9.1
+2609-IAICY,New high-value,1,Month-to-month,Fiber optic,Electronic check,77.15,925.8,0.837,0.17,215.32,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0756,0.0,704.93
+8930-XOTDP,New high-value,18,Month-to-month,DSL,Mailed check,55.95,671.4,0.1701,0.17,-1.1,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0818,0.0,59.29
+2434-EEVDB,Established high-value,64,Two year,Fiber optic,Credit card (automatic),94.6,1135.2,0.066,0.16,-15.73,False,0,False,,,,,
+4973-MGTON,Established high-value,71,Two year,DSL,Credit card (automatic),84.4,1012.8,0.0222,0.16,-32.64,False,0,False,,,,,
+6227-HWPWX,New high-value,15,Month-to-month,Fiber optic,Bank transfer (automatic),69.0,828.0,0.3506,0.17,56.66,True,1,False,,,,,
+1541-ETJZO,New high-value,1,Month-to-month,DSL,Mailed check,62.05,744.6,0.4406,0.17,70.45,True,1,False,,,,,
+3682-YEUWS,Low-value,10,Month-to-month,No,Mailed check,24.4,292.8,0.1357,0.23,-24.37,False,0,False,,,,,
+6953-PBDIN,Established high-value,70,Two year,DSL,Bank transfer (automatic),72.95,875.4,0.0301,0.16,-31.27,False,0,False,,,,,
+6332-FBZRI,Established high-value,67,One year,DSL,Credit card (automatic),69.35,832.2,0.039,0.16,-29.2,False,0,False,,,,,
+0754-EEBDC,Low-value,4,Two year,No,Mailed check,19.9,238.8,0.0261,0.23,-37.41,False,0,False,,,,,
+2535-PBCGC,Established high-value,70,Two year,DSL,Bank transfer (automatic),64.55,774.6,0.0331,0.16,-31.4,False,0,False,,,,,
+5167-ZFFMM,New high-value,1,Month-to-month,Fiber optic,Credit card (automatic),90.85,1090.2,0.8502,0.17,261.26,True,1,False,,,,,
+2659-VXMWZ,Established high-value,67,One year,Fiber optic,Electronic check,111.3,1335.6,0.1873,0.16,40.16,True,1,False,,,,,
+0506-LVNGN,New high-value,5,Month-to-month,Fiber optic,Credit card (automatic),75.55,906.6,0.6243,0.17,146.85,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0445,0.0,525.71
+0323-XWWTN,Low-value,3,Two year,No,Mailed check,26.4,316.8,0.0319,0.23,-36.1,False,0,False,,,,,
+3679-XASPY,Low-value,1,Month-to-month,No,Electronic check,19.45,233.4,0.3632,0.23,-4.66,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0928,0.0,63.11
+4092-OFQZS,Low-value,20,One year,No,Mailed check,20.65,247.8,0.0336,0.23,-36.58,False,0,False,,,,,
+3227-WLKLI,Established high-value,65,Two year,DSL,Bank transfer (automatic),91.55,1098.6,0.0304,0.16,-29.15,False,0,False,,,,,
+0447-BEMNG,Low-value,48,Month-to-month,DSL,Bank transfer (automatic),45.3,543.6,0.191,0.23,-3.64,False,1,False,,,,,
+5968-HYJRZ,Low-value,47,Two year,No,Mailed check,24.55,294.6,0.0237,0.23,-37.26,False,0,False,,,,,
+3331-HQDTW,Established high-value,34,Month-to-month,Fiber optic,Mailed check,109.8,1317.6,0.3403,0.16,103.8,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0954,0.0,322.63
+4102-HLENU,Established high-value,67,Two year,DSL,Mailed check,65.65,787.8,0.0203,0.16,-34.64,False,0,False,,,,,
+0946-FKYTX,Low-value,52,One year,DSL,Mailed check,30.1,361.2,0.0623,0.23,-31.54,False,0,False,,,,,
+8869-LIHMK,Established high-value,64,Two year,Fiber optic,Bank transfer (automatic),115.1,1381.2,0.0821,0.16,-3.72,False,0,False,,,,,
+1853-ARAAQ,Low-value,26,Month-to-month,DSL,Credit card (automatic),50.35,604.2,0.2685,0.23,15.99,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0523,0.0,130.61
+2159-TURXX,Low-value,5,Month-to-month,No,Credit card (automatic),20.05,240.6,0.1528,0.23,-24.8,False,0,False,,,,,
+6270-OMFIW,Established high-value,60,One year,Fiber optic,Electronic check,94.4,1132.8,0.1924,0.16,30.63,True,1,False,,,,,
+1230-QAJDW,New high-value,3,Month-to-month,DSL,Mailed check,65.25,783.0,0.5084,0.17,93.29,True,0,False,,,,,
+0723-VSOBE,Low-value,45,One year,DSL,Electronic check,34.2,410.4,0.1706,0.23,-14.33,False,0,False,,,,,
+2585-KTFRE,New high-value,1,Month-to-month,DSL,Bank transfer (automatic),70.45,845.4,0.399,0.17,72.08,True,0,False,,,,,
+7130-VTEWQ,New high-value,8,Month-to-month,Fiber optic,Electronic check,75.75,909.0,0.7042,0.17,171.27,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1575,0.0,496.95
+8406-LNMHF,Established high-value,59,One year,Fiber optic,Credit card (automatic),82.95,995.4,0.0554,0.16,-21.95,False,0,False,,,,,
+7410-KTVFV,New high-value,18,Month-to-month,DSL,Mailed check,49.55,594.6,0.168,0.17,-5.45,False,1,False,,,,,
+7074-STDCN,Low-value,39,Month-to-month,DSL,Electronic check,40.6,487.2,0.2655,0.23,6.05,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1265,0.0,67.69
+6980-IMXXE,Low-value,69,Two year,No,Bank transfer (automatic),20.2,242.4,0.0198,0.23,-38.02,False,0,False,,,,,
+0486-HECZI,Established high-value,55,Month-to-month,Fiber optic,Electronic check,96.75,1161.0,0.3557,0.16,93.59,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0881,0.0,310.59
+7569-NMZYQ,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),118.75,1425.0,0.0404,0.16,-21.64,False,0,False,,,,,
+4819-HJPIW,Low-value,18,Month-to-month,DSL,Mailed check,25.15,301.8,0.1957,0.23,-16.94,False,0,False,,,,,
+8309-PPCED,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),110.45,1325.4,0.0551,0.16,-16.57,False,0,False,,,,,
+7312-XSBAT,New high-value,1,Month-to-month,DSL,Electronic check,49.75,597.0,0.4676,0.17,56.52,True,0,False,,,,,
+6598-RFFVI,Low-value,2,One year,No,Credit card (automatic),19.3,231.6,0.0445,0.23,-35.69,False,1,False,,,,,
+9945-PSVIP,Low-value,25,Two year,No,Mailed check,18.7,224.4,0.018,0.23,-38.3,False,0,False,,,,,
+9531-NSBMR,Low-value,36,One year,No,Bank transfer (automatic),19.25,231.0,0.0307,0.23,-37.03,False,0,False,,,,,
+9796-MVYXX,Low-value,14,Two year,DSL,Mailed check,39.7,476.4,0.0407,0.23,-33.08,False,0,False,,,,,
+9512-UIBFX,New high-value,18,Month-to-month,Fiber optic,Mailed check,95.15,1141.8,0.3726,0.17,97.79,True,1,False,,,,,
+1657-DYMBM,Low-value,53,Two year,No,Credit card (automatic),19.9,238.8,0.0215,0.23,-37.87,False,0,False,,,,,
+5204-QZXPU,Low-value,19,Month-to-month,DSL,Electronic check,39.65,475.8,0.45,0.23,36.51,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0662,0.0,182.58
+9348-ROUAI,Established high-value,59,Two year,DSL,Credit card (automatic),90.3,1083.6,0.0285,0.16,-29.95,False,0,False,,,,,
+5288-AHOUP,New high-value,11,Month-to-month,Fiber optic,Electronic check,78.5,942.0,0.5921,0.17,143.5,True,0,False,,,,,
+4724-WXVWF,Established high-value,48,Month-to-month,Fiber optic,Electronic check,95.4,1144.8,0.3362,0.16,84.65,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0791,0.0,294.33
+0222-CNVPT,Low-value,52,Month-to-month,DSL,Credit card (automatic),48.8,585.6,0.2478,0.23,10.3,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0514,0.0,115.01
+5447-VYTKW,Low-value,27,Month-to-month,DSL,Mailed check,53.45,641.4,0.1018,0.23,-17.62,False,0,False,,,,,
+9208-OLGAQ,New high-value,18,Month-to-month,Fiber optic,Electronic check,84.95,1019.4,0.537,0.17,138.9,True,0,True,Upgrade contract: Month-to-month → One year; Discount 1% (84.95 → 84.10 per month),Contract + Discount,0.1692,10.2,364.77
+6770-XUAGN,Low-value,1,Month-to-month,No,Electronic check,21.0,252.0,0.4308,0.23,4.33,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0415,0.0,98.1
+7801-KICAO,New high-value,18,Month-to-month,Fiber optic,Electronic check,74.15,889.8,0.5655,0.17,126.4,True,0,False,,,,,
+8929-KSWIH,New high-value,25,Two year,Fiber optic,Bank transfer (automatic),99.3,1191.6,0.0871,0.17,-6.5,False,0,False,,,,,
+6599-GZWCM,New high-value,13,One year,Fiber optic,Mailed check,74.65,895.8,0.0793,0.17,-16.54,False,0,False,,,,,
+2952-QAYZF,New high-value,5,Month-to-month,Fiber optic,Electronic check,85.3,1023.6,0.7442,0.17,208.86,True,1,False,,,,,
+2737-YNGYW,New high-value,2,Month-to-month,Fiber optic,Electronic check,80.55,966.6,0.6273,0.17,159.04,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1648,0.0,447.09
+1929-ZCBHE,Low-value,47,One year,DSL,Electronic check,40.3,483.6,0.0646,0.23,-28.86,False,0,False,,,,,
+1166-PQLGG,Low-value,72,Two year,No,Bank transfer (automatic),19.55,234.6,0.0168,0.23,-38.36,False,0,False,,,,,
+2650-GYRYL,Low-value,33,One year,No,Bank transfer (automatic),19.45,233.4,0.0321,0.23,-36.88,False,0,False,,,,,
+5627-TVBPP,Low-value,35,One year,No,Credit card (automatic),20.1,241.2,0.0304,0.23,-36.97,False,0,False,,,,,
+7445-WMRBW,Established high-value,48,One year,DSL,Bank transfer (automatic),73.85,886.2,0.0722,0.16,-18.82,False,0,False,,,,,
+3223-DWFIO,New high-value,4,Month-to-month,Fiber optic,Electronic check,69.35,832.2,0.6208,0.17,131.94,True,0,False,,,,,
+6704-UTUKK,Low-value,29,Month-to-month,DSL,Electronic check,45.9,550.8,0.3831,0.23,33.77,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0631,0.0,176.27
+8397-MVTAZ,Established high-value,34,Month-to-month,Fiber optic,Electronic check,100.05,1200.6,0.5959,0.16,190.92,True,1,False,,,,,
+8882-TLVRW,Low-value,69,Two year,DSL,Mailed check,39.1,469.2,0.0235,0.23,-36.04,False,0,False,,,,,
+8409-WQJUX,New high-value,25,One year,DSL,Electronic check,54.2,650.4,0.1346,0.17,-10.07,False,0,False,,,,,
+8218-FFJDS,Established high-value,72,Two year,DSL,Bank transfer (automatic),86.4,1036.8,0.0202,0.16,-33.16,False,0,False,,,,,
+3769-MHZNV,Low-value,33,Two year,No,Mailed check,20.1,241.2,0.0211,0.23,-37.89,False,0,False,,,,,
+3301-VKTGC,Established high-value,68,One year,Fiber optic,Bank transfer (automatic),85.5,1026.0,0.0503,0.16,-23.16,False,0,False,,,,,
+7242-EDTYC,Low-value,44,Two year,No,Bank transfer (automatic),19.55,234.6,0.0226,0.23,-37.79,False,0,False,,,,,
+2817-LVCPP,Low-value,50,Two year,No,Credit card (automatic),19.4,232.8,0.022,0.23,-37.86,False,0,False,,,,,
+3460-TJBWI,Low-value,24,Two year,No,Mailed check,24.2,290.4,0.0243,0.23,-37.22,False,0,False,,,,,
+0377-JBKKT,New high-value,22,Month-to-month,DSL,Mailed check,57.95,695.4,0.1286,0.17,-9.65,False,0,False,,,,,
+8915-NNTRC,Established high-value,72,Two year,Fiber optic,Credit card (automatic),107.7,1292.4,0.0431,0.16,-22.12,False,0,False,,,,,
+6856-RAURS,New high-value,2,Month-to-month,Fiber optic,Mailed check,74.9,898.8,0.6716,0.17,159.42,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1369,0.0,480.59
+0487-CRLZF,Established high-value,49,Two year,DSL,Bank transfer (automatic),74.45,893.4,0.0347,0.16,-29.76,False,0,False,,,,,
+3807-BPOMJ,Established high-value,55,One year,Fiber optic,Electronic check,94.75,1137.0,0.1998,0.16,33.61,True,0,False,,,,,
+3006-XIMLN,New high-value,2,Month-to-month,Fiber optic,Bank transfer (automatic),94.2,1130.4,0.7923,0.17,250.3,True,1,False,,,,,
+3750-CKVKH,New high-value,2,Month-to-month,Fiber optic,Electronic check,67.75,813.0,0.6463,0.17,135.27,True,1,False,,,,,
+2391-SOORI,New high-value,4,Month-to-month,DSL,Electronic check,49.35,592.2,0.3191,0.17,25.4,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0402,0.0,165.18
+6338-AVWCY,Low-value,3,Month-to-month,DSL,Mailed check,40.15,481.8,0.5594,0.23,56.13,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0573,0.0,241.9
+3237-AJGEH,Low-value,3,Month-to-month,DSL,Mailed check,31.0,372.0,0.3872,0.23,13.79,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0348,0.0,131.09
+8695-ARGXZ,New high-value,34,Month-to-month,Fiber optic,Electronic check,75.55,906.6,0.5222,0.17,116.3,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1423,0.0,344.5
+6559-RAKOZ,Established high-value,49,One year,Fiber optic,Electronic check,97.95,1175.4,0.2271,0.16,46.27,True,0,True,Discount 5% (97.95 → 93.05 per month),Discount,0.1562,58.8,24.5
+1867-BDVFH,New high-value,11,Month-to-month,Fiber optic,Electronic check,74.35,892.2,0.5869,0.17,133.12,True,1,False,,,,,
+3597-YASZG,Established high-value,70,Two year,Fiber optic,Bank transfer (automatic),104.45,1253.4,0.0928,0.16,-2.57,False,0,False,,,,,
+6483-OATDN,New high-value,8,Month-to-month,DSL,Credit card (automatic),51.3,615.6,0.1988,0.17,2.14,True,0,False,,,,,
+7531-GQHME,Low-value,12,Month-to-month,No,Credit card (automatic),20.05,240.6,0.1224,0.23,-27.82,False,0,False,,,,,
+8840-DQLGN,Established high-value,35,Month-to-month,Fiber optic,Bank transfer (automatic),100.5,1206.0,0.3188,0.16,84.04,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0863,0.0,280.35
+6583-SZVGP,Established high-value,48,Two year,Fiber optic,Bank transfer (automatic),108.1,1297.2,0.1242,0.16,11.71,False,0,False,,,,,
+8182-PNAGI,New high-value,12,Month-to-month,DSL,Bank transfer (automatic),50.25,603.0,0.1726,0.17,-4.06,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0342,0.0,83.51
+0315-LVCRK,New high-value,11,Month-to-month,Fiber optic,Electronic check,84.8,1017.6,0.5084,0.17,129.08,True,0,False,,,,,
+1853-UDXBW,New high-value,1,Month-to-month,Fiber optic,Electronic check,70.0,840.0,0.7936,0.17,181.66,True,1,False,,,,,
+2930-UOTMB,New high-value,31,Month-to-month,DSL,Credit card (automatic),65.25,783.0,0.116,0.17,-9.57,False,1,False,,,,,
+6023-YEBUP,New high-value,3,Month-to-month,Fiber optic,Electronic check,100.95,1211.4,0.8176,0.17,279.46,True,1,False,,,,,
+2995-UPRYS,Established high-value,40,One year,Fiber optic,Credit card (automatic),99.2,1190.4,0.2167,0.16,43.31,True,1,False,,,,,
+7520-HQWJU,Established high-value,66,Month-to-month,DSL,Bank transfer (automatic),67.45,809.4,0.0954,0.16,-14.23,False,0,False,,,,,
+0691-NIKRI,Established high-value,40,One year,Fiber optic,Credit card (automatic),105.95,1271.4,0.2855,0.16,76.71,True,0,True,Upgrade contract: One year → Two year,Contract,0.1226,0.0,207.16
+3665-JATSN,Low-value,19,Month-to-month,DSL,Electronic check,39.7,476.4,0.4101,0.23,29.81,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0604,0.0,166.58
+8620-RJPZN,Low-value,1,Month-to-month,No,Electronic check,20.7,248.4,0.3803,0.23,-1.28,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0418,0.0,84.08
+6993-YCOBK,Established high-value,60,Two year,Fiber optic,Electronic check,110.6,1327.2,0.0849,0.16,-3.89,False,0,False,,,,,
+8922-NPKBJ,Low-value,42,Two year,No,Mailed check,19.35,232.2,0.0216,0.23,-37.9,False,0,False,,,,,
+4942-VZZOM,Established high-value,64,One year,DSL,Credit card (automatic),66.15,793.8,0.0523,0.16,-26.13,False,0,False,,,,,
+4701-LKOZD,Established high-value,70,Two year,DSL,Credit card (automatic),89.75,1077.0,0.0311,0.16,-29.1,False,0,False,,,,,
+7621-VPNET,Established high-value,42,Month-to-month,Fiber optic,Credit card (automatic),85.9,1030.8,0.2882,0.16,57.01,True,0,False,,,,,
+1345-ZUKID,Low-value,14,One year,No,Mailed check,19.35,232.2,0.0394,0.23,-36.18,False,0,False,,,,,
+7839-NUIAA,Established high-value,61,Month-to-month,DSL,Electronic check,59.8,717.6,0.1363,0.16,-6.94,False,0,False,,,,,
+2758-RNWXS,Established high-value,35,One year,Fiber optic,Electronic check,89.2,1070.4,0.1201,0.16,1.84,False,0,False,,,,,
+8280-MQRQN,New high-value,1,Month-to-month,DSL,Mailed check,50.45,605.4,0.5777,0.17,80.69,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0486,0.0,320.29
+5813-UECBU,New high-value,33,Month-to-month,Fiber optic,Credit card (automatic),83.85,1006.2,0.3988,0.17,91.28,True,1,False,,,,,
+6139-ZZRBQ,Low-value,64,Two year,No,Bank transfer (automatic),20.05,240.6,0.0189,0.23,-38.12,False,0,False,,,,,
+6972-SNKKW,Low-value,6,Month-to-month,No,Mailed check,20.0,240.0,0.123,0.23,-27.78,False,0,False,,,,,
+8433-WPJTV,Established high-value,65,One year,Fiber optic,Bank transfer (automatic),103.9,1246.8,0.1993,0.16,39.98,True,0,True,Discount 11% (103.90 → 92.47 per month),Discount,0.1174,137.16,-35.11
+7924-GJZFI,New high-value,25,Month-to-month,Fiber optic,Electronic check,69.3,831.6,0.4617,0.17,87.78,True,0,False,,,,,
+4674-HGNUA,Established high-value,71,Two year,DSL,Credit card (automatic),89.9,1078.8,0.0218,0.16,-32.36,False,0,False,,,,,
+5380-WJKOV,Established high-value,34,Month-to-month,Fiber optic,Electronic check,106.35,1276.2,0.5823,0.16,198.84,True,1,False,,,,,
+8111-RKSPX,New high-value,4,Month-to-month,Fiber optic,Bank transfer (automatic),72.2,866.4,0.6552,0.17,148.17,True,1,False,,,,,
+6319-QSUSR,Low-value,11,Month-to-month,No,Credit card (automatic),19.7,236.4,0.1201,0.23,-28.2,False,0,False,,,,,
+1722-LDZJS,Low-value,53,One year,No,Credit card (automatic),20.2,242.4,0.0305,0.23,-36.95,False,0,False,,,,,
+9279-CJEOJ,New high-value,21,Month-to-month,Fiber optic,Bank transfer (automatic),95.4,1144.8,0.5552,0.17,165.85,True,0,False,,,,,
+3768-NLUBH,Established high-value,57,Month-to-month,Fiber optic,Electronic check,100.6,1207.2,0.4297,0.16,127.36,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1005,0.0,397.46
+2674-MIAHT,New high-value,4,Month-to-month,Fiber optic,Mailed check,80.3,963.6,0.7091,0.17,184.35,True,0,False,,,,,
+4452-QIIEB,New high-value,7,Month-to-month,DSL,Mailed check,43.9,526.8,0.2399,0.17,4.46,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0815,0.0,83.42
+6061-GWWAV,Established high-value,41,One year,DSL,Mailed check,70.2,842.4,0.0548,0.16,-24.65,False,0,False,,,,,
+8393-DLHGA,New high-value,25,Month-to-month,Fiber optic,Electronic check,95.9,1150.8,0.4677,0.17,134.25,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0923,0.0,432.1
+4678-DVQEO,New high-value,1,Month-to-month,DSL,Electronic check,52.2,626.4,0.546,0.17,77.51,True,1,False,,,,,
+4709-LKHYG,Low-value,29,One year,No,Electronic check,20.0,240.0,0.0415,0.23,-35.88,False,0,False,,,,,
+4423-JWZJN,Established high-value,64,One year,Fiber optic,Credit card (automatic),90.25,1083.0,0.1013,0.16,-4.33,False,0,False,,,,,
+9209-NWPGU,Established high-value,44,One year,DSL,Electronic check,65.4,784.8,0.0801,0.16,-18.94,False,0,False,,,,,
+7252-NTGSS,New high-value,1,Month-to-month,DSL,Mailed check,45.15,541.8,0.5092,0.17,56.66,True,0,False,,,,,
+2599-CIPQE,Established high-value,71,Two year,Fiber optic,Credit card (automatic),109.3,1311.6,0.0568,0.16,-16.09,False,0,False,,,,,
+2987-BJXIK,Established high-value,70,Two year,DSL,Mailed check,84.7,1016.4,0.0283,0.16,-30.61,False,0,False,,,,,
+5562-YJQGT,Low-value,2,Month-to-month,No,Credit card (automatic),20.35,244.2,0.1844,0.23,-21.46,False,0,False,,,,,
+0923-PNFUB,New high-value,3,Month-to-month,Fiber optic,Electronic check,83.75,1005.0,0.6138,0.17,161.83,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0504,0.0,566.22
+3077-RSNTJ,Low-value,6,Month-to-month,No,Mailed check,19.7,236.4,0.1195,0.23,-28.26,False,0,False,,,,,
+5828-AVIPD,New high-value,19,One year,Fiber optic,Electronic check,100.95,1211.4,0.2782,0.17,68.68,True,1,False,,,,,
+6137-NICCO,New high-value,6,Month-to-month,Fiber optic,Mailed check,94.05,1128.6,0.7551,0.17,236.28,True,0,False,,,,,
+8430-TWCBX,Low-value,49,One year,No,Credit card (automatic),20.7,248.4,0.0305,0.23,-36.89,False,0,False,,,,,
+0327-WFZSY,Established high-value,39,One year,Fiber optic,Electronic check,100.0,1200.0,0.2315,0.16,49.67,True,0,True,Offer free OnlineSecurity (free); Discount 7% (100.00 → 93.00 per month),OnlineSecurity + Discount,0.1437,144.24,-38.83
+3096-WPXBT,Established high-value,61,One year,Fiber optic,Credit card (automatic),100.7,1208.4,0.1299,0.16,10.65,False,0,False,,,,,
+9895-VFOXH,Low-value,1,Month-to-month,DSL,Mailed check,24.4,292.8,0.5414,0.23,22.34,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1274,0.0,121.23
+3363-EWLGO,Low-value,5,Month-to-month,No,Mailed check,19.95,239.4,0.1518,0.23,-24.95,False,0,False,,,,,
+3594-KADLU,Low-value,3,Month-to-month,DSL,Mailed check,35.1,421.2,0.3632,0.23,15.8,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0382,0.0,136.87
+0397-ZXWQF,Low-value,67,Two year,No,Bank transfer (automatic),20.5,246.0,0.0184,0.23,-38.14,False,0,False,,,,,
+7524-VRLPL,Established high-value,69,Two year,DSL,Credit card (automatic),74.1,889.2,0.0307,0.16,-30.97,False,0,False,,,,,
+8096-LOIST,New high-value,19,Month-to-month,DSL,Electronic check,56.2,674.4,0.2985,0.17,28.54,True,0,False,,,,,
+2272-JKMSI,Established high-value,62,One year,Fiber optic,Electronic check,110.8,1329.6,0.1916,0.16,41.67,True,0,False,,,,,
+0928-JMXNP,Low-value,4,Month-to-month,DSL,Electronic check,29.9,358.8,0.5974,0.23,40.62,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0651,0.0,191.0
+9274-UARKJ,New high-value,15,Month-to-month,Fiber optic,Bank transfer (automatic),83.2,998.4,0.4715,0.17,114.1,True,0,False,,,,,
+1485-YDHMM,Established high-value,52,Month-to-month,Fiber optic,Bank transfer (automatic),93.25,1119.0,0.2762,0.16,60.27,True,0,False,,,,,
+4211-MMAZN,Low-value,1,Month-to-month,No,Mailed check,20.25,243.0,0.3248,0.23,-7.45,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.0845,0.0,58.39
+4706-DGAHW,New high-value,1,Month-to-month,DSL,Electronic check,45.2,542.4,0.6605,0.17,85.51,True,0,False,,,,,
+5472-CVMDX,Low-value,68,Two year,DSL,Mailed check,38.9,466.8,0.025,0.23,-35.82,False,0,False,,,,,
+4464-JCOLN,Low-value,2,One year,No,Mailed check,19.85,238.2,0.0456,0.23,-35.5,False,1,False,,,,,
+1545-JFUML,Established high-value,71,Two year,Fiber optic,Electronic check,99.0,1188.0,0.0551,0.16,-18.87,False,0,False,,,,,
+9391-TTOYH,Low-value,23,Month-to-month,No,Mailed check,19.5,234.0,0.0793,0.23,-32.27,False,0,False,,,,,
+0603-TPMIB,Low-value,59,Two year,No,Mailed check,25.45,305.4,0.0204,0.23,-37.57,False,0,False,,,,,
+9367-TCUYN,Low-value,12,Month-to-month,No,Mailed check,20.1,241.2,0.1164,0.23,-28.4,False,0,False,,,,,
+4075-JFPGR,Established high-value,51,One year,Fiber optic,Electronic check,93.5,1122.0,0.1487,0.16,14.12,False,0,False,,,,,
+0412-UCCNP,Established high-value,55,Two year,DSL,Electronic check,59.2,710.4,0.0297,0.16,-32.86,False,0,False,,,,,
+2519-LBNQL,Established high-value,60,One year,Fiber optic,Electronic check,104.35,1252.2,0.2773,0.16,71.72,True,0,True,Upgrade contract: One year → Two year,Contract,0.1101,0.0,209.29
+1809-DMJHQ,New high-value,5,Month-to-month,DSL,Mailed check,46.0,552.0,0.3201,0.17,21.74,True,1,False,,,,,
+2322-VCZHZ,New high-value,23,Month-to-month,Fiber optic,Electronic check,90.0,1080.0,0.3971,0.17,99.48,True,0,False,,,,,
+3058-WQDRE,Low-value,13,Month-to-month,DSL,Bank transfer (automatic),25.15,301.8,0.2757,0.23,-7.52,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0468,0.0,69.07
+8166-ZZTFS,Established high-value,66,Two year,DSL,Bank transfer (automatic),80.55,966.6,0.0397,0.16,-27.4,False,1,False,,,,,
+3126-WQMGH,Low-value,49,Month-to-month,DSL,Credit card (automatic),52.15,625.8,0.1783,0.23,-1.66,False,0,False,,,,,
+4892-VLANZ,Low-value,1,Month-to-month,No,Mailed check,19.8,237.6,0.3248,0.23,-7.98,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,68.23
+9576-ANLXO,New high-value,3,Month-to-month,Fiber optic,Bank transfer (automatic),69.55,834.6,0.5766,0.17,120.12,True,1,False,,,,,
+9975-GPKZU,Low-value,46,Two year,No,Credit card (automatic),19.75,237.0,0.0226,0.23,-37.77,False,0,False,,,,,
+9194-GFVOI,Established high-value,42,Two year,DSL,Credit card (automatic),84.35,1012.2,0.0359,0.16,-28.11,False,0,False,,,,,
+1113-IUJYX,New high-value,14,One year,Fiber optic,Mailed check,105.95,1271.4,0.2667,0.17,69.01,True,1,False,,,,,
+8711-LOBKY,Low-value,59,Two year,No,Mailed check,19.85,238.2,0.0205,0.23,-37.97,False,0,False,,,,,
+3858-VOBET,New high-value,23,Month-to-month,Fiber optic,Electronic check,74.95,899.4,0.5145,0.17,112.85,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1364,0.0,340.03
+9030-QGZNL,Low-value,8,Two year,No,Mailed check,20.85,250.2,0.0249,0.23,-37.45,False,0,False,,,,,
+0628-CNQRM,New high-value,22,One year,DSL,Bank transfer (automatic),67.5,810.0,0.0715,0.17,-20.67,False,1,False,,,,,
+1735-XMJVH,Low-value,8,Month-to-month,No,Mailed check,19.35,232.2,0.1134,0.23,-29.0,False,0,False,,,,,
+9057-SIHCH,New high-value,3,Month-to-month,Fiber optic,Electronic check,96.6,1159.2,0.8271,0.17,270.22,True,1,False,,,,,
+7073-QETQY,Low-value,66,One year,No,Electronic check,20.35,244.2,0.0378,0.23,-36.2,False,0,False,,,,,
+7722-VJRQD,Established high-value,72,Two year,DSL,Bank transfer (automatic),60.95,731.4,0.0194,0.16,-35.22,False,0,False,,,,,
+6158-HDPXZ,Low-value,1,Month-to-month,DSL,Mailed check,25.35,304.2,0.5429,0.23,24.36,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1258,0.0,126.87
+3722-WPXTK,New high-value,1,Month-to-month,Fiber optic,Electronic check,88.35,1060.2,0.8432,0.17,251.19,True,1,False,,,,,
+6164-HXUGH,Low-value,6,Month-to-month,No,Mailed check,19.85,238.2,0.1195,0.23,-28.2,False,0,False,,,,,
+1302-TPUBN,Low-value,66,Two year,No,Bank transfer (automatic),19.35,232.2,0.0188,0.23,-38.17,False,0,False,,,,,
+9592-ERDKV,Established high-value,37,One year,DSL,Mailed check,79.25,951.0,0.1001,0.16,-8.7,False,0,False,,,,,
+8445-DNBAE,New high-value,1,Month-to-month,DSL,Electronic check,50.05,600.6,0.6444,0.17,93.7,True,0,False,,,,,
+4547-LYTDD,New high-value,16,Month-to-month,Fiber optic,Electronic check,72.65,871.8,0.4521,0.17,90.59,True,1,False,,,,,
+8221-HVAYI,New high-value,35,Two year,DSL,Credit card (automatic),69.15,829.8,0.0272,0.17,-32.48,False,0,False,,,,,
+5176-OLSKT,Established high-value,66,Two year,DSL,Bank transfer (automatic),66.9,802.8,0.0234,0.16,-33.72,False,0,False,,,,,
+6048-UWKAL,Established high-value,69,Two year,Fiber optic,Credit card (automatic),105.4,1264.8,0.0839,0.16,-5.89,False,0,False,,,,,
+7617-EYGLW,Low-value,1,Month-to-month,No,Electronic check,19.45,233.4,0.3803,0.23,-2.99,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0969,0.0,66.14
+0685-MLYYM,New high-value,2,Month-to-month,Fiber optic,Electronic check,70.75,849.0,0.6268,0.17,136.76,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1187,0.0,431.36
+6777-TGHTM,Established high-value,53,One year,Fiber optic,Credit card (automatic),106.95,1283.4,0.2285,0.16,54.2,True,1,True,Upgrade contract: One year → Two year,Contract,0.1096,0.0,152.48
+4011-ARPHK,Low-value,27,Month-to-month,DSL,Mailed check,50.35,604.2,0.1104,0.23,-16.97,False,0,False,,,,,
+8495-LJDFO,Established high-value,64,Month-to-month,Fiber optic,Bank transfer (automatic),108.95,1307.4,0.3008,0.16,86.2,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0868,0.0,279.88
+2961-VNFKL,Low-value,71,Two year,No,Credit card (automatic),25.95,311.4,0.0186,0.23,-37.76,False,0,False,,,,,
+4531-AUZNK,Established high-value,51,One year,Fiber optic,Mailed check,95.15,1141.8,0.1022,0.16,-2.18,False,0,False,,,,,
+6711-VTNRE,Established high-value,36,Month-to-month,Fiber optic,Electronic check,87.55,1050.6,0.3616,0.16,83.83,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.041,0.0,336.83
+8097-VBQTZ,Established high-value,54,Month-to-month,DSL,Mailed check,69.9,838.8,0.1153,0.16,-7.84,False,0,False,,,,,
+0732-OCQOC,Low-value,52,Two year,No,Bank transfer (automatic),25.05,300.6,0.0229,0.23,-37.31,False,0,False,,,,,
+1471-GIQKQ,New high-value,1,Month-to-month,DSL,Electronic check,49.95,599.4,0.5621,0.17,76.42,True,0,False,,,,,
+1355-KUSBG,New high-value,7,Month-to-month,DSL,Electronic check,48.8,585.6,0.3423,0.17,29.48,True,0,False,,,,,
+3325-FUYCG,New high-value,28,One year,Fiber optic,Electronic check,106.1,1273.2,0.189,0.17,37.33,True,1,False,,,,,
+9107-UKCKY,Established high-value,61,One year,DSL,Electronic check,79.8,957.6,0.1436,0.16,5.18,False,0,False,,,,,
+0480-KYJVA,Low-value,72,Two year,No,Credit card (automatic),24.25,291.0,0.0162,0.23,-38.14,False,0,False,,,,,
+1952-DVVSW,Low-value,10,One year,No,Mailed check,20.1,241.2,0.0403,0.23,-35.98,False,0,False,,,,,
+7159-FVYPK,New high-value,3,Month-to-month,DSL,Bank transfer (automatic),69.15,829.8,0.4949,0.17,96.7,True,0,False,,,,,
+5906-CVLHP,Low-value,45,One year,DSL,Credit card (automatic),54.15,649.8,0.0463,0.23,-29.72,False,1,False,,,,,
+9648-BCHKM,Low-value,18,Two year,No,Credit card (automatic),24.65,295.8,0.0321,0.23,-36.28,False,0,False,,,,,
+4039-PIMHX,Low-value,49,Two year,DSL,Mailed check,49.8,597.6,0.0341,0.23,-32.95,False,0,False,,,,,
+6500-JVEGC,Established high-value,68,One year,Fiber optic,Bank transfer (automatic),101.35,1216.2,0.1007,0.16,-0.49,False,0,False,,,,,
+4118-CEVPF,Established high-value,35,One year,Fiber optic,Bank transfer (automatic),110.8,1329.6,0.2259,0.16,56.28,True,0,False,,,,,
+9227-LUNBG,Low-value,1,Month-to-month,DSL,Electronic check,24.6,295.2,0.6265,0.23,32.59,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1571,0.0,138.55
+5148-ORICT,Established high-value,64,Two year,DSL,Mailed check,74.35,892.2,0.0238,0.16,-32.97,False,0,False,,,,,
+2925-VDZHY,Established high-value,72,Two year,DSL,Credit card (automatic),88.7,1064.4,0.0194,0.16,-33.28,False,0,False,,,,,
+9762-YAQAA,Established high-value,39,One year,Fiber optic,Credit card (automatic),81.4,976.8,0.0698,0.16,-17.65,False,0,False,,,,,
+1666-JXLKU,Established high-value,37,Month-to-month,Fiber optic,Electronic check,100.05,1200.6,0.5959,0.16,190.92,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1339,0.0,554.79
+2263-SFSQZ,Low-value,51,Two year,No,Mailed check,24.95,299.4,0.0232,0.23,-37.28,False,0,False,,,,,
+7471-MQPOS,Established high-value,71,One year,DSL,Bank transfer (automatic),72.9,874.8,0.0756,0.16,-18.08,False,0,False,,,,,
+4419-UJMUS,Established high-value,69,Two year,Fiber optic,Electronic check,99.35,1192.2,0.0837,0.16,-7.78,False,0,False,,,,,
+5524-KHNJP,New high-value,33,One year,DSL,Credit card (automatic),74.75,897.0,0.1012,0.17,-9.99,False,0,False,,,,,
+4727-MCYZG,New high-value,1,Month-to-month,DSL,Mailed check,55.55,666.6,0.5137,0.17,76.75,True,0,False,,,,,
+3877-JRJIP,New high-value,1,Month-to-month,DSL,Electronic check,59.85,718.2,0.7062,0.17,131.44,True,1,False,,,,,
+4329-YPDDQ,New high-value,20,Month-to-month,Fiber optic,Bank transfer (automatic),108.2,1298.4,0.4522,0.17,148.48,True,0,False,,,,,
+6680-WKXRZ,New high-value,3,Month-to-month,Fiber optic,Bank transfer (automatic),74.4,892.8,0.6274,0.17,145.17,True,1,False,,,,,
+9867-XOBQA,New high-value,21,Two year,DSL,Mailed check,53.15,637.8,0.0341,0.17,-32.55,False,0,False,,,,,
+0906-QVPMS,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),115.15,1381.8,0.0481,0.16,-18.76,False,0,False,,,,,
+9611-CTWIH,New high-value,3,Month-to-month,Fiber optic,Electronic check,89.45,1073.4,0.7303,0.17,215.1,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0653,0.0,713.84
+0295-QVKPB,New high-value,5,Month-to-month,DSL,Credit card (automatic),63.95,767.4,0.3259,0.17,43.93,True,0,False,,,,,
+4632-XJMEX,Established high-value,53,One year,DSL,Credit card (automatic),62.85,754.2,0.0423,0.16,-29.28,False,0,False,,,,,
+0655-RBDUG,New high-value,7,Month-to-month,Fiber optic,Bank transfer (automatic),98.05,1176.6,0.843,0.17,280.58,True,1,False,,,,,
+1247-QBVSH,Low-value,43,Month-to-month,DSL,Mailed check,50.2,602.4,0.1296,0.23,-13.04,False,0,False,,,,,
+2369-FEVNO,Low-value,1,Month-to-month,No,Mailed check,19.9,238.8,0.3847,0.23,-1.94,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0388,0.0,82.6
+5832-EXGTT,New high-value,29,Month-to-month,DSL,Mailed check,60.2,722.4,0.138,0.17,-6.32,False,0,False,,,,,
+2829-HYVZP,Low-value,29,One year,No,Mailed check,19.8,237.6,0.0291,0.23,-37.13,False,0,False,,,,,
+2096-XOTMO,Low-value,16,Month-to-month,No,Mailed check,19.35,232.2,0.1073,0.23,-29.6,False,0,False,,,,,
+9767-FFLEM,New high-value,38,Month-to-month,Fiber optic,Credit card (automatic),69.5,834.0,0.2833,0.17,38.62,True,0,False,,,,,
+0969-RGKCU,Low-value,37,One year,No,Credit card (automatic),19.8,237.6,0.0326,0.23,-36.79,False,0,False,,,,,
+2025-JKFWI,New high-value,13,Month-to-month,Fiber optic,Mailed check,99.0,1188.0,0.7202,0.17,236.34,True,1,False,,,,,
+8212-DJRCH,New high-value,5,Month-to-month,Fiber optic,Mailed check,90.35,1084.2,0.5816,0.17,165.04,True,0,False,,,,,
+4742-TXUEX,Low-value,47,Two year,No,Bank transfer (automatic),19.3,231.6,0.0226,0.23,-37.81,False,0,False,,,,,
+3978-YNKDD,Low-value,19,Two year,No,Credit card (automatic),20.85,250.2,0.0253,0.23,-37.41,False,0,False,,,,,
+9089-UOWJG,New high-value,12,Month-to-month,DSL,Credit card (automatic),58.35,700.2,0.2346,0.17,15.68,True,0,False,,,,,
+5271-YNWVR,Established high-value,68,Two year,Fiber optic,Electronic check,113.15,1357.8,0.0828,0.16,-4.01,False,1,False,,,,,
+0409-WTMPL,Established high-value,58,One year,Fiber optic,Credit card (automatic),110.65,1327.8,0.2091,0.16,49.01,True,0,False,,,,,
+8042-RNLKO,Low-value,66,One year,No,Bank transfer (automatic),25.45,305.4,0.028,0.23,-36.67,False,0,False,,,,,
+6578-KRMAW,New high-value,32,Month-to-month,Fiber optic,Credit card (automatic),93.4,1120.8,0.2779,0.17,61.02,True,0,False,,,,,
+4282-MSACW,Established high-value,68,One year,Fiber optic,Credit card (automatic),117.2,1406.4,0.2238,0.16,60.55,True,0,True,Upgrade contract: One year → Two year,Contract,0.104,0.0,168.59
+8053-WWDRO,Low-value,6,Month-to-month,No,Bank transfer (automatic),19.5,234.0,0.1314,0.23,-27.19,False,1,False,,,,,
+3373-YZZYM,Low-value,1,Month-to-month,No,Mailed check,19.2,230.4,0.2192,0.23,-18.86,False,0,False,,,,,
+5222-IMUKT,New high-value,32,Month-to-month,Fiber optic,Electronic check,91.05,1092.6,0.4258,0.17,111.18,True,0,False,,,,,
+5158-RIVOP,Low-value,11,Two year,No,Credit card (automatic),20.9,250.8,0.0258,0.23,-37.35,False,0,False,,,,,
+3884-UEBXB,Low-value,67,Two year,DSL,Bank transfer (automatic),36.15,433.8,0.0258,0.23,-35.93,False,0,False,,,,,
+8023-QHAIO,Established high-value,56,Month-to-month,Fiber optic,Bank transfer (automatic),76.85,922.2,0.2757,0.16,43.79,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0401,0.0,217.22
+5698-BQJOH,New high-value,9,Month-to-month,Fiber optic,Electronic check,94.4,1132.8,0.6537,0.17,200.0,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1349,0.0,587.72
+6870-ZWMNX,Established high-value,70,Two year,DSL,Credit card (automatic),76.1,913.2,0.031,0.16,-30.65,False,0,False,,,,,
+4785-FCIFB,Low-value,61,Two year,No,Mailed check,24.4,292.8,0.0167,0.23,-38.07,False,0,False,,,,,
+3672-YITQD,Established high-value,36,Month-to-month,Fiber optic,Electronic check,84.1,1009.2,0.5388,0.16,137.84,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0624,0.0,480.82
+0447-RXSGD,New high-value,24,Month-to-month,Fiber optic,Bank transfer (automatic),99.65,1195.8,0.5545,0.17,174.04,True,0,False,,,,,
+4086-WITJG,Low-value,71,Two year,No,Credit card (automatic),19.7,236.4,0.0185,0.23,-38.18,False,0,False,,,,,
+7872-BAAZR,Low-value,53,One year,No,Bank transfer (automatic),19.55,234.6,0.0312,0.23,-36.95,False,0,False,,,,,
+3589-PPVKW,Low-value,9,Month-to-month,DSL,Mailed check,44.4,532.8,0.2505,0.23,6.87,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.038,0.0,113.2
+8720-RQSBJ,New high-value,1,Month-to-month,DSL,Electronic check,44.0,528.0,0.6605,0.17,82.65,True,0,False,,,,,
+7551-DACSP,New high-value,6,Month-to-month,DSL,Mailed check,55.3,663.6,0.2416,0.17,14.7,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0358,0.0,136.61
+7854-EKTJL,Low-value,2,Month-to-month,No,Electronic check,19.6,235.2,0.2125,0.23,-19.21,False,1,False,,,,,
+5373-SFODM,Established high-value,36,Month-to-month,Fiber optic,Credit card (automatic),85.25,1023.0,0.4497,0.16,110.3,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0567,0.0,402.1
+2812-SFXMJ,Low-value,1,Month-to-month,No,Mailed check,20.05,240.6,0.3126,0.23,-8.9,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0821,0.0,55.45
+3374-PZLXD,Low-value,34,Month-to-month,No,Mailed check,19.7,236.4,0.0772,0.23,-32.42,False,0,False,,,,,
+9860-LISIZ,Low-value,34,Month-to-month,No,Mailed check,20.35,244.2,0.0755,0.23,-32.4,False,0,False,,,,,
+1982-FEBTD,Low-value,23,Two year,No,Credit card (automatic),25.6,307.2,0.0288,0.23,-36.56,False,0,False,,,,,
+9402-ORRAH,New high-value,15,Month-to-month,Fiber optic,Electronic check,91.5,1098.0,0.6323,0.17,185.56,True,0,False,,,,,
+5014-WUQMG,Established high-value,47,One year,Fiber optic,Electronic check,96.1,1153.2,0.1605,0.16,19.92,True,0,False,,,,,
+7789-CRUVC,Established high-value,61,Month-to-month,Fiber optic,Credit card (automatic),94.2,1130.4,0.1757,0.16,24.37,True,0,False,,,,,
+1069-XAIEM,New high-value,1,Month-to-month,Fiber optic,Electronic check,85.05,1020.6,0.8518,0.17,244.07,True,1,False,,,,,
+9953-ZMKSM,Low-value,63,Two year,No,Mailed check,25.25,303.0,0.0172,0.23,-37.97,False,0,False,,,,,
+8617-ENBDS,New high-value,3,Month-to-month,Fiber optic,Credit card (automatic),73.6,883.2,0.5785,0.17,129.07,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0413,0.0,474.48
+7611-YKYTC,New high-value,22,Month-to-month,Fiber optic,Bank transfer (automatic),75.0,900.0,0.2153,0.17,24.02,True,0,False,,,,,
+0071-NDAFP,Low-value,25,Two year,No,Credit card (automatic),25.5,306.0,0.0264,0.23,-36.85,False,0,False,,,,,
+4369-NYSCF,Established high-value,56,One year,DSL,Bank transfer (automatic),75.75,909.0,0.0947,0.16,-11.6,False,0,False,,,,,
+3841-CONLJ,Low-value,1,Month-to-month,DSL,Electronic check,35.0,420.0,0.6421,0.23,58.43,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.2178,0.0,178.19
+5159-YFPKQ,New high-value,2,Month-to-month,Fiber optic,Electronic check,75.8,909.6,0.6542,0.17,156.38,True,1,False,,,,,
+5052-PNLOS,New high-value,3,Month-to-month,Fiber optic,Bank transfer (automatic),105.35,1264.2,0.8351,0.17,299.53,True,1,False,,,,,
+7399-QHBJS,Established high-value,72,Two year,DSL,Credit card (automatic),66.75,801.0,0.0176,0.16,-35.28,False,0,False,,,,,
+6834-NXDCA,Low-value,13,Month-to-month,DSL,Electronic check,23.9,286.8,0.3717,0.23,2.13,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0516,0.0,91.82
+5198-HQAEN,Established high-value,35,One year,Fiber optic,Electronic check,89.7,1076.4,0.0929,0.16,-7.45,False,0,False,,,,,
+1608-GMEWB,Established high-value,45,Month-to-month,Fiber optic,Bank transfer (automatic),93.9,1126.8,0.4682,0.16,131.05,True,0,False,,,,,
+1746-TGTWV,New high-value,1,Month-to-month,Fiber optic,Credit card (automatic),75.35,904.2,0.7055,0.17,170.62,True,0,False,,,,,
+6891-JPYFF,Established high-value,48,Month-to-month,Fiber optic,Credit card (automatic),105.25,1263.0,0.307,0.16,84.71,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0894,0.0,274.88
+8173-RXAYP,Low-value,24,Two year,No,Mailed check,19.7,236.4,0.0224,0.23,-37.8,False,0,False,,,,,
+4989-LIXVT,Established high-value,68,Month-to-month,Fiber optic,Electronic check,95.9,1150.8,0.4075,0.16,111.81,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0848,0.0,371.31
+9840-DVNDC,New high-value,6,Month-to-month,Fiber optic,Credit card (automatic),80.5,966.0,0.6427,0.17,163.8,True,1,False,,,,,
+2040-XBAVJ,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),114.45,1373.4,0.0432,0.16,-21.04,False,0,False,,,,,
+6344-SFJVH,Low-value,20,Month-to-month,DSL,Credit card (automatic),24.9,298.8,0.2029,0.23,-16.28,False,0,False,,,,,
+9548-LERKT,Low-value,24,Two year,No,Mailed check,19.75,237.0,0.0218,0.23,-37.85,False,0,False,,,,,
+8709-KRDVL,Established high-value,33,Month-to-month,Fiber optic,Electronic check,100.0,1200.0,0.577,0.16,183.49,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1272,0.0,539.75
+5976-JCJRH,New high-value,10,Month-to-month,Fiber optic,Electronic check,70.3,843.6,0.5504,0.17,114.32,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1106,0.0,370.98
+4829-AUOAX,Established high-value,46,Month-to-month,Fiber optic,Bank transfer (automatic),96.05,1152.6,0.374,0.16,99.52,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0966,0.0,319.67
+9286-BHDQG,Established high-value,72,Two year,DSL,Credit card (automatic),45.25,543.0,0.0192,0.16,-36.35,False,0,False,,,,,
+9907-SWKKF,Low-value,1,Month-to-month,DSL,Mailed check,25.05,300.6,0.644,0.23,35.66,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1595,0.0,145.65
+8266-VBFQL,New high-value,4,Month-to-month,Fiber optic,Electronic check,90.4,1084.8,0.6143,0.17,176.7,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0439,0.0,618.8
+4512-ZUIYL,New high-value,2,Month-to-month,Fiber optic,Bank transfer (automatic),70.0,840.0,0.5484,0.17,113.17,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0406,0.0,426.58
+7503-QQRVF,New high-value,16,Month-to-month,Fiber optic,Credit card (automatic),74.3,891.6,0.4193,0.17,83.61,True,1,False,,,,,
+7923-IYJWY,Established high-value,67,Two year,Fiber optic,Credit card (automatic),116.1,1393.2,0.104,0.16,6.29,False,0,False,,,,,
+9565-JSNFM,New high-value,38,One year,Fiber optic,Bank transfer (automatic),70.45,845.4,0.0728,0.17,-19.55,False,1,False,,,,,
+7359-WWYJV,Established high-value,72,Two year,Fiber optic,Credit card (automatic),114.45,1373.4,0.0481,0.16,-18.88,False,0,False,,,,,
+6497-TILVL,New high-value,7,Month-to-month,DSL,Mailed check,50.7,608.4,0.1749,0.17,-3.31,True,0,False,,,,,
+5331-RGMTT,Established high-value,54,Month-to-month,Fiber optic,Credit card (automatic),99.05,1188.6,0.4925,0.16,149.08,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1217,0.0,440.83
+2856-HYAPG,New high-value,1,Month-to-month,Fiber optic,Electronic check,68.65,823.8,0.756,0.17,167.48,True,1,False,,,,,
+0733-VUNUW,New high-value,24,Month-to-month,DSL,Bank transfer (automatic),55.65,667.8,0.1385,0.17,-8.47,False,1,False,,,,,
+8966-KZXXA,Low-value,36,Two year,No,Credit card (automatic),25.1,301.2,0.0251,0.23,-37.04,False,0,False,,,,,
+0576-WNXXC,New high-value,27,Month-to-month,Fiber optic,Electronic check,95.55,1146.6,0.5413,0.17,160.96,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1111,0.0,493.18
+7601-GNDYK,Low-value,35,Two year,No,Mailed check,19.6,235.2,0.0216,0.23,-37.88,False,0,False,,,,,
+5228-EXCET,New high-value,13,Month-to-month,Fiber optic,Electronic check,80.85,970.2,0.5598,0.17,138.22,True,1,False,,,,,
+9048-JVYVF,New high-value,3,Month-to-month,DSL,Electronic check,69.35,832.2,0.4893,0.17,95.53,True,1,False,,,,,
+2129-ALKBS,Low-value,40,Month-to-month,No,Electronic check,26.2,314.4,0.1306,0.23,-24.11,False,0,False,,,,,
+5240-CAOYT,Established high-value,57,Month-to-month,Fiber optic,Bank transfer (automatic),87.55,1050.6,0.1687,0.16,17.79,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0296,0.0,146.17
+8259-DZLIZ,Established high-value,64,One year,DSL,Bank transfer (automatic),53.85,646.2,0.0534,0.16,-28.18,False,0,False,,,,,
+9050-QLROH,New high-value,18,Month-to-month,Fiber optic,Credit card (automatic),90.7,1088.4,0.4702,0.17,126.37,True,1,False,,,,,
+7037-MTYVW,Established high-value,38,Two year,DSL,Bank transfer (automatic),85.4,1024.8,0.0341,0.16,-28.6,False,0,False,,,,,
+0679-IDSTG,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.25,831.0,0.7958,0.17,180.13,True,1,False,,,,,
+6376-GAHQE,New high-value,4,Month-to-month,Fiber optic,Electronic check,77.85,934.2,0.6478,0.17,159.23,True,1,False,,,,,
+9732-KPKBW,New high-value,1,Month-to-month,DSL,Electronic check,53.95,647.4,0.5036,0.17,71.56,True,1,False,,,,,
+6331-LWDTQ,New high-value,10,Month-to-month,DSL,Credit card (automatic),72.15,865.8,0.3297,0.17,54.63,True,1,False,,,,,
+0829-XXPLX,New high-value,20,Month-to-month,Fiber optic,Bank transfer (automatic),89.4,1072.8,0.3187,0.17,71.27,True,0,False,,,,,
+1170-SASML,Established high-value,69,Month-to-month,Fiber optic,Bank transfer (automatic),85.4,1024.8,0.2394,0.16,40.14,True,0,False,,,,,
+8621-MNIHH,Established high-value,34,Month-to-month,Fiber optic,Electronic check,94.25,1131.0,0.5261,0.16,152.87,True,1,False,,,,,
+5103-MHMHY,New high-value,1,Month-to-month,DSL,Mailed check,45.95,551.4,0.4951,0.17,55.41,True,1,False,,,,,
+6671-NGWON,Low-value,7,Month-to-month,No,Mailed check,20.35,244.2,0.123,0.23,-27.63,False,0,False,,,,,
+1329-VHWNP,Low-value,7,Month-to-month,DSL,Bank transfer (automatic),25.05,300.6,0.2902,0.23,-5.91,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0427,0.0,74.39
+7579-KKLOE,Established high-value,71,Two year,DSL,Mailed check,91.25,1095.0,0.0217,0.16,-32.27,False,0,False,,,,,
+4049-ZPALD,Established high-value,64,Two year,Fiber optic,Bank transfer (automatic),99.0,1188.0,0.0738,0.16,-11.7,False,0,False,,,,,
+6475-VHUIZ,New high-value,23,Month-to-month,DSL,Electronic check,54.25,651.0,0.178,0.17,-0.38,True,0,False,,,,,
+6000-UKLWI,Low-value,41,Two year,No,Mailed check,20.15,241.8,0.0205,0.23,-37.95,False,0,False,,,,,
+4589-IUAJB,Low-value,70,Two year,No,Bank transfer (automatic),24.25,291.0,0.019,0.23,-37.82,False,0,False,,,,,
+5827-MWCZK,Established high-value,56,Month-to-month,Fiber optic,Credit card (automatic),96.95,1163.4,0.2573,0.16,56.83,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0714,0.0,216.3
+3540-RZJYU,New high-value,15,Month-to-month,Fiber optic,Electronic check,86.2,1034.4,0.4647,0.17,116.91,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0514,0.0,427.59
+5327-XOKKY,Established high-value,72,Two year,DSL,Credit card (automatic),73.45,881.4,0.0314,0.16,-30.84,False,0,False,,,,,
+5357-TZHPP,New high-value,9,Month-to-month,Fiber optic,Credit card (automatic),84.4,1012.8,0.7299,0.17,201.68,True,1,False,,,,,
+9506-UXUSK,New high-value,13,Month-to-month,Fiber optic,Electronic check,70.15,841.8,0.5406,0.17,111.29,True,0,False,,,,,
+1744-JHKYS,Low-value,34,Month-to-month,No,Electronic check,24.7,296.4,0.1284,0.23,-25.08,False,0,False,,,,,
+7926-IJOOU,Low-value,1,Month-to-month,No,Credit card (automatic),19.3,231.6,0.3114,0.23,-9.87,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.037,0.0,63.55
+3125-RAHBV,Low-value,22,One year,No,Credit card (automatic),20.3,243.6,0.0355,0.23,-36.43,False,0,False,,,,,
+5178-LMXOP,New high-value,1,Month-to-month,Fiber optic,Electronic check,95.1,1141.2,0.8611,0.17,278.32,True,1,False,,,,,
+1986-PHGZF,New high-value,18,Month-to-month,DSL,Credit card (automatic),58.4,700.8,0.1911,0.17,5.39,True,0,False,,,,,
+8128-YVJRG,New high-value,7,Month-to-month,Fiber optic,Mailed check,79.65,955.8,0.4558,0.17,103.15,True,1,False,,,,,
+8393-JMVMB,Low-value,1,Month-to-month,No,Mailed check,19.45,233.4,0.3248,0.23,-8.39,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,67.02
+9153-BTBVV,Low-value,71,Two year,No,Bank transfer (automatic),25.0,300.0,0.0177,0.23,-37.93,False,0,False,,,,,
+0719-SYFRB,New high-value,12,Month-to-month,DSL,Mailed check,61.65,739.8,0.1878,0.17,6.81,True,1,False,,,,,
+9674-EHPPG,Low-value,46,Two year,DSL,Credit card (automatic),40.4,484.8,0.0322,0.23,-34.44,False,0,False,,,,,
+7056-IMHCC,Established high-value,53,Month-to-month,Fiber optic,Electronic check,101.9,1222.8,0.5671,0.16,183.52,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1306,0.0,533.71
+0379-DJQHR,Established high-value,67,Two year,DSL,Credit card (automatic),81.35,976.2,0.0308,0.16,-30.15,False,0,False,,,,,
+2105-PHWON,New high-value,33,Month-to-month,Fiber optic,Credit card (automatic),95.0,1140.0,0.3348,0.17,83.66,True,0,False,,,,,
+9389-ACWBI,New high-value,5,Month-to-month,Fiber optic,Credit card (automatic),69.95,839.4,0.5298,0.17,107.88,True,0,False,,,,,
+5699-BNCAS,Low-value,71,Two year,No,Mailed check,24.65,295.8,0.0167,0.23,-38.06,False,0,False,,,,,
+8455-HIRAQ,New high-value,8,Month-to-month,DSL,Mailed check,44.45,533.4,0.2279,0.17,2.69,True,0,False,,,,,
+9233-PSYHO,Established high-value,45,One year,Fiber optic,Bank transfer (automatic),100.15,1201.8,0.2829,0.16,69.71,True,0,True,Upgrade contract: One year → Two year,Contract,0.1211,0.0,194.38
+8821-KVZKQ,Established high-value,70,One year,DSL,Bank transfer (automatic),58.4,700.8,0.0801,0.16,-20.97,False,0,False,,,,,
+6668-CNMFP,New high-value,19,One year,Fiber optic,Bank transfer (automatic),89.35,1072.2,0.1428,0.17,9.84,False,0,False,,,,,
+3721-CNEYS,New high-value,2,Month-to-month,Fiber optic,Electronic check,70.95,851.4,0.6463,0.17,142.72,True,1,False,,,,,
+6435-SRWBJ,New high-value,5,Month-to-month,Fiber optic,Electronic check,82.75,993.0,0.6837,0.17,182.35,True,0,False,,,,,
+4538-WNTMJ,Low-value,46,One year,No,Mailed check,24.95,299.4,0.0332,0.23,-36.11,False,0,False,,,,,
+2108-YKQTY,New high-value,4,Month-to-month,DSL,Credit card (automatic),50.7,608.4,0.3231,0.17,27.8,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0367,0.0,174.25
+3097-NQYSN,New high-value,2,Month-to-month,Fiber optic,Mailed check,86.85,1042.2,0.8208,0.17,239.02,True,1,False,,,,,
+1395-OFUWC,Low-value,43,Month-to-month,DSL,Credit card (automatic),29.3,351.6,0.1679,0.23,-17.7,False,0,False,,,,,
+7878-JGDKK,New high-value,4,Month-to-month,DSL,Mailed check,44.55,534.6,0.342,0.17,24.19,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0912,0.0,134.09
+8097-OMULG,Established high-value,59,One year,DSL,Credit card (automatic),76.75,921.0,0.085,0.16,-14.18,False,0,False,,,,,
+1066-JKSGK,Low-value,1,Month-to-month,No,Mailed check,20.15,241.8,0.3248,0.23,-7.57,True,1,True,Discount 5% (20.15 → 19.14 per month),Discount,0.2188,12.12,13.51
+5975-BAICR,New high-value,36,One year,DSL,Credit card (automatic),63.7,764.4,0.0892,0.17,-17.11,False,0,False,,,,,
+5445-GLVOT,Low-value,22,Month-to-month,DSL,Electronic check,49.8,597.6,0.2459,0.23,10.79,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0402,0.0,122.89
+8402-EIVQS,Established high-value,67,One year,Fiber optic,Credit card (automatic),100.9,1210.8,0.1734,0.16,27.72,True,0,False,,,,,
+9572-WUKSB,Low-value,3,Month-to-month,DSL,Electronic check,29.9,358.8,0.5326,0.23,31.87,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0507,0.0,172.93
+7629-WIXZF,New high-value,7,One year,DSL,Electronic check,59.1,709.2,0.1253,0.17,-9.92,False,0,False,,,,,
+7198-GLXTC,New high-value,2,Month-to-month,Fiber optic,Electronic check,79.0,948.0,0.652,0.17,163.21,True,1,False,,,,,
+5067-DGXLL,Low-value,2,Month-to-month,No,Mailed check,20.25,243.0,0.1833,0.23,-21.63,False,0,False,,,,,
+5774-QPLTF,Low-value,50,One year,No,Mailed check,20.35,244.2,0.0301,0.23,-36.97,False,0,False,,,,,
+3537-RYBHH,Established high-value,47,Month-to-month,DSL,Credit card (automatic),67.45,809.4,0.168,0.16,5.37,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0363,0.0,106.59
+4002-BQWPQ,New high-value,25,Month-to-month,DSL,Bank transfer (automatic),81.75,981.0,0.1372,0.17,4.13,False,0,False,,,,,
+2165-VOEGB,Established high-value,46,One year,Fiber optic,Bank transfer (automatic),105.2,1262.4,0.1728,0.16,30.16,True,1,False,,,,,
+4154-AQUGT,New high-value,13,Month-to-month,Fiber optic,Bank transfer (automatic),89.05,1068.6,0.5524,0.17,152.18,True,1,False,,,,,
+5985-BEHZK,Established high-value,72,One year,Fiber optic,Credit card (automatic),105.0,1260.0,0.1461,0.16,19.2,False,0,False,,,,,
+3450-WXOAT,Low-value,46,Month-to-month,DSL,Credit card (automatic),45.2,542.4,0.1506,0.23,-11.38,False,0,False,,,,,
+6060-QBMGV,Low-value,70,Two year,No,Credit card (automatic),19.85,238.2,0.0188,0.23,-38.14,False,0,False,,,,,
+8696-JKZNU,Established high-value,37,Month-to-month,Fiber optic,Electronic check,76.25,915.0,0.5272,0.16,119.12,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1447,0.0,350.01
+8429-XIBUM,New high-value,22,Month-to-month,Fiber optic,Bank transfer (automatic),101.35,1216.2,0.4388,0.17,132.09,True,1,False,,,,,
+9445-SZLCH,Established high-value,36,Month-to-month,Fiber optic,Bank transfer (automatic),97.35,1168.2,0.3759,0.16,101.98,True,1,False,,,,,
+0876-WDUUZ,New high-value,5,Month-to-month,Fiber optic,Credit card (automatic),85.4,1024.8,0.638,0.17,173.57,True,1,False,,,,,
+6094-ZIVKX,Established high-value,68,One year,DSL,Credit card (automatic),54.45,653.4,0.0385,0.16,-31.4,False,0,False,,,,,
+5149-QYTTU,Established high-value,71,One year,Fiber optic,Credit card (automatic),95.15,1141.8,0.0526,0.16,-20.53,False,0,False,,,,,
+1474-JUWSM,Established high-value,58,One year,DSL,Electronic check,68.4,820.8,0.0774,0.16,-18.82,False,0,False,,,,,
+3318-OSATS,Established high-value,35,Month-to-month,Fiber optic,Electronic check,95.45,1145.4,0.5569,0.16,166.58,True,1,False,,,,,
+2956-GGUCQ,New high-value,24,Month-to-month,Fiber optic,Electronic check,78.85,946.2,0.4154,0.17,89.27,True,1,False,,,,,
+9753-OYLBX,Low-value,1,Month-to-month,No,Mailed check,20.5,246.0,0.3248,0.23,-7.16,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0377,0.0,70.64
+8701-DGLVH,Low-value,51,Two year,No,Mailed check,20.45,245.4,0.0208,0.23,-37.9,False,0,False,,,,,
+3211-AAPKX,New high-value,20,Month-to-month,Fiber optic,Mailed check,98.55,1182.6,0.5275,0.17,161.53,True,0,False,,,,,
+3400-ESFUW,Established high-value,55,Two year,DSL,Bank transfer (automatic),57.55,690.6,0.0251,0.16,-34.11,False,1,False,,,,,
+5136-GFPMB,Established high-value,54,Month-to-month,Fiber optic,Credit card (automatic),89.4,1072.8,0.3083,0.16,67.63,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0425,0.0,285.13
+8050-XGRVL,Established high-value,62,One year,DSL,Credit card (automatic),54.75,657.0,0.0407,0.16,-30.86,False,0,False,,,,,
+0778-NELLA,Low-value,9,Month-to-month,DSL,Credit card (automatic),34.7,416.4,0.3724,0.23,16.69,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0552,0.0,132.11
+5322-TEUJK,Established high-value,71,Two year,Fiber optic,Bank transfer (automatic),114.6,1375.2,0.0541,0.16,-16.19,False,0,False,,,,,
+0623-EJQEG,Established high-value,65,One year,Fiber optic,Electronic check,93.55,1122.6,0.1303,0.16,7.42,False,0,False,,,,,
+6617-WLBQC,New high-value,23,One year,Fiber optic,Credit card (automatic),81.85,982.2,0.0592,0.17,-20.94,False,0,False,,,,,
+0824-VWDPO,Established high-value,45,One year,Fiber optic,Bank transfer (automatic),96.75,1161.0,0.1448,0.16,14.38,False,0,False,,,,,
+3308-DGHKL,Low-value,69,Two year,No,Bank transfer (automatic),19.3,231.6,0.0189,0.23,-38.17,False,0,False,,,,,
+6557-BZXLQ,New high-value,16,Month-to-month,Fiber optic,Electronic check,69.65,835.8,0.4639,0.17,88.98,True,0,False,,,,,
+9795-SHUHB,Established high-value,66,Two year,DSL,Credit card (automatic),58.2,698.4,0.0244,0.16,-34.22,False,0,False,,,,,
+5339-PXDVH,New high-value,4,Month-to-month,Fiber optic,Electronic check,90.65,1087.8,0.5598,0.17,157.98,True,0,False,,,,,
+7016-NVRIC,New high-value,29,One year,Fiber optic,Bank transfer (automatic),90.1,1081.2,0.111,0.17,-0.96,False,0,False,,,,,
+8152-UOBNY,Established high-value,50,One year,Fiber optic,Electronic check,106.8,1281.6,0.2782,0.16,74.57,True,0,False,,,,,
+9254-RBFON,New high-value,17,One year,Fiber optic,Bank transfer (automatic),98.6,1183.2,0.2061,0.17,38.78,True,1,False,,,,,
+6723-CEGQI,Established high-value,65,Two year,DSL,Mailed check,45.25,543.0,0.0264,0.16,-34.98,False,0,False,,,,,
+4707-MAXGU,Low-value,72,Two year,No,Credit card (automatic),25.85,310.2,0.0158,0.23,-38.09,False,0,False,,,,,
+6166-ILMNY,New high-value,2,Month-to-month,Fiber optic,Bank transfer (automatic),69.75,837.0,0.5484,0.17,112.68,True,1,False,,,,,
+0040-HALCW,Low-value,54,Two year,No,Credit card (automatic),20.4,244.8,0.0212,0.23,-37.86,False,0,False,,,,,
+9804-ICWBG,New high-value,1,Month-to-month,Fiber optic,Electronic check,69.9,838.8,0.8115,0.17,186.35,True,1,False,,,,,
+7876-BEUTG,New high-value,15,Month-to-month,DSL,Mailed check,48.8,585.6,0.2687,0.17,14.54,True,0,False,,,,,
+2325-ZUSFD,Established high-value,57,One year,DSL,Bank transfer (automatic),70.1,841.2,0.0907,0.16,-14.65,False,1,False,,,,,
+0096-BXERS,New high-value,6,Month-to-month,DSL,Electronic check,50.35,604.2,0.3645,0.17,36.02,True,0,False,,,,,
+9086-YJYXS,New high-value,34,One year,DSL,Bank transfer (automatic),77.2,926.4,0.1268,0.17,-1.3,False,0,False,,,,,
+2309-OSFEU,Low-value,10,Month-to-month,DSL,Mailed check,33.9,406.8,0.3132,0.23,6.77,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1685,0.0,58.88
+7740-BTPUX,Established high-value,55,Two year,Fiber optic,Electronic check,113.6,1363.2,0.1218,0.16,13.12,False,0,False,,,,,
+7931-PXHFC,New high-value,38,One year,DSL,Mailed check,62.3,747.6,0.0815,0.17,-19.5,False,1,False,,,,,
+3694-GLTJM,Low-value,5,Month-to-month,No,Credit card (automatic),19.65,235.8,0.156,0.23,-24.7,False,0,False,,,,,
+0230-UBYPQ,Low-value,63,One year,DSL,Bank transfer (automatic),36.1,433.2,0.0427,0.23,-33.28,False,0,False,,,,,
+2984-AFWNC,New high-value,3,Month-to-month,Fiber optic,Electronic check,95.4,1144.8,0.6483,0.17,200.36,True,0,False,,,,,
+4753-PADAS,Established high-value,67,One year,Fiber optic,Bank transfer (automatic),105.7,1268.4,0.2413,0.16,58.41,True,0,False,,,,,
+7808-DVWEP,Low-value,3,Month-to-month,No,Bank transfer (automatic),20.0,240.0,0.182,0.23,-21.92,False,0,False,,,,,
+2103-ZRXFN,New high-value,1,Month-to-month,DSL,Mailed check,50.75,609.0,0.5434,0.17,74.12,True,0,False,,,,,
+3785-NRHYR,Low-value,1,Month-to-month,No,Mailed check,19.65,235.8,0.3248,0.23,-8.15,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.0845,0.0,56.66
+4640-UHDOS,New high-value,13,Month-to-month,DSL,Electronic check,55.95,671.4,0.2663,0.17,20.91,True,1,False,,,,,
+0487-VVUVK,Low-value,25,Month-to-month,No,Mailed check,19.15,229.8,0.0629,0.23,-33.94,False,0,False,,,,,
+1784-EZDKJ,Established high-value,51,One year,Fiber optic,Bank transfer (automatic),106.8,1281.6,0.2886,0.16,78.85,True,0,True,Upgrade contract: One year → Two year,Contract,0.1242,0.0,210.77
+3627-FHKBK,New high-value,1,Month-to-month,Fiber optic,Mailed check,75.3,903.6,0.5696,0.17,129.97,True,1,False,,,,,
+8375-KVTHK,Established high-value,68,One year,Fiber optic,Electronic check,100.3,1203.6,0.2249,0.16,47.36,True,0,True,Upgrade contract: One year → Two year,Contract,0.0946,0.0,156.83
+5583-EJXRD,Low-value,44,Two year,DSL,Credit card (automatic),54.05,648.6,0.0311,0.23,-33.1,False,0,False,,,,,
+3030-YDNRM,New high-value,8,Month-to-month,Fiber optic,Electronic check,74.85,898.2,0.6761,0.17,160.63,True,0,False,,,,,
+4342-HENTK,New high-value,2,Month-to-month,Fiber optic,Electronic check,70.65,847.8,0.6693,0.17,148.5,True,1,False,,,,,
+2750-BJLSB,Established high-value,47,One year,Fiber optic,Electronic check,103.7,1244.4,0.23,0.16,52.14,True,0,True,Upgrade contract: One year → Two year,Contract,0.1003,0.0,161.36
+7881-EVUAD,New high-value,2,Month-to-month,DSL,Electronic check,42.6,511.2,0.52,0.17,53.95,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0548,0.0,237.81
+6000-APYLU,New high-value,9,Month-to-month,Fiber optic,Electronic check,80.8,969.6,0.5733,0.17,142.41,True,1,False,,,,,
+7711-GQBZC,Low-value,71,Two year,No,Bank transfer (automatic),24.7,296.4,0.0182,0.23,-37.88,False,0,False,,,,,
+0822-QGCXA,New high-value,27,Month-to-month,DSL,Electronic check,83.85,1006.2,0.2155,0.17,30.93,True,0,False,,,,,
+1936-CZAKF,Low-value,49,Two year,DSL,Credit card (automatic),49.65,595.8,0.0455,0.23,-30.63,False,0,False,,,,,
+5980-BDHPY,Established high-value,72,Two year,DSL,Bank transfer (automatic),87.1,1045.2,0.0203,0.16,-33.07,False,0,False,,,,,
+7277-OZCGZ,New high-value,22,Month-to-month,Fiber optic,Electronic check,89.05,1068.6,0.387,0.17,94.63,True,0,False,,,,,
+4324-AHJKS,New high-value,5,Month-to-month,DSL,Credit card (automatic),55.8,669.6,0.2704,0.17,21.69,True,0,False,,,,,
+0823-HSCDJ,Low-value,52,Month-to-month,DSL,Electronic check,49.15,589.8,0.3838,0.23,38.39,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0656,0.0,187.7
+3556-BVQGL,Low-value,20,One year,No,Mailed check,20.0,240.0,0.0331,0.23,-36.71,False,0,False,,,,,
+2865-TCHJW,New high-value,4,Month-to-month,Fiber optic,Electronic check,89.2,1070.4,0.7916,0.17,235.82,True,1,False,,,,,
+0168-XZKBB,New high-value,19,Month-to-month,Fiber optic,Electronic check,86.85,1042.2,0.6352,0.17,175.95,True,0,False,,,,,
+4817-VYYWS,New high-value,30,Month-to-month,Fiber optic,Electronic check,100.2,1202.4,0.5827,0.17,186.1,True,1,False,,,,,
+0235-KGSLC,New high-value,1,Month-to-month,Fiber optic,Credit card (automatic),85.55,1026.6,0.8414,0.17,242.12,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0686,0.0,793.4
+4770-QAZXN,Low-value,13,Month-to-month,No,Credit card (automatic),19.45,233.4,0.1165,0.23,-28.66,False,0,False,,,,,
+3785-KTYSH,Low-value,53,Two year,No,Mailed check,24.6,295.2,0.02,0.23,-37.68,False,0,False,,,,,
+4283-FUTGF,New high-value,19,Month-to-month,Fiber optic,Electronic check,79.85,958.2,0.6005,0.17,149.0,True,1,False,,,,,
+4115-NZRKS,New high-value,7,Month-to-month,Fiber optic,Electronic check,89.15,1069.8,0.733,0.17,215.27,True,0,False,,,,,
+6806-YDEUL,Low-value,6,Month-to-month,No,Bank transfer (automatic),19.5,234.0,0.1627,0.23,-24.13,False,0,False,,,,,
+4128-ETESU,Established high-value,47,Month-to-month,Fiber optic,Electronic check,99.7,1196.4,0.4785,0.16,144.8,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.1111,0.0,439.54
+2085-JVGAD,Low-value,37,Month-to-month,No,Bank transfer (automatic),20.35,244.2,0.0796,0.23,-31.99,False,0,False,,,,,
+4360-PNRQB,New high-value,18,Month-to-month,Fiber optic,Bank transfer (automatic),75.6,907.2,0.3909,0.17,77.06,True,0,False,,,,,
+4353-HYOJD,Low-value,27,Month-to-month,DSL,Mailed check,49.85,598.2,0.1308,0.23,-12.96,False,0,False,,,,,
+3179-GBRWV,New high-value,21,Month-to-month,DSL,Bank transfer (automatic),64.95,779.4,0.2005,0.17,12.35,True,0,False,,,,,
+4818-QIUFN,New high-value,20,Month-to-month,Fiber optic,Electronic check,79.15,949.8,0.4641,0.17,104.92,True,1,False,,,,,
+7504-UWHNB,New high-value,25,Month-to-month,Fiber optic,Electronic check,69.75,837.0,0.3759,0.17,64.65,True,0,False,,,,,
+5553-AOINX,Established high-value,66,One year,Fiber optic,Electronic check,104.9,1258.8,0.2271,0.16,51.98,True,0,False,,,,,
+3410-MHHUM,Established high-value,44,One year,Fiber optic,Electronic check,94.4,1132.8,0.1742,0.16,23.95,True,0,False,,,,,
+3192-LNKRK,New high-value,34,Month-to-month,Fiber optic,Mailed check,84.05,1008.6,0.3114,0.17,62.72,True,0,False,,,,,
+1097-FSPVW,Low-value,42,Month-to-month,DSL,Credit card (automatic),54.55,654.6,0.1161,0.23,-14.02,False,0,False,,,,,
+2483-XSSMZ,Low-value,39,One year,DSL,Electronic check,47.85,574.2,0.0779,0.23,-24.46,False,0,False,,,,,
+2732-ISEZX,Low-value,5,Month-to-month,No,Mailed check,20.5,246.0,0.1521,0.23,-24.63,False,0,False,,,,,
+7975-JMZNT,Established high-value,66,Two year,DSL,Bank transfer (automatic),91.7,1100.4,0.0338,0.16,-27.93,False,0,False,,,,,
+3606-SBKRY,Low-value,31,One year,DSL,Electronic check,50.05,600.6,0.2009,0.23,1.68,False,0,False,,,,,
+1047-RNXZV,Low-value,43,Two year,No,Mailed check,19.55,234.6,0.021,0.23,-37.95,False,0,False,,,,,
+5174-ITUMV,Established high-value,67,One year,Fiber optic,Electronic check,105.4,1264.8,0.2425,0.16,58.64,True,0,True,Upgrade contract: One year → Two year,Contract,0.0986,0.0,182.04
+0080-EMYVY,New high-value,14,One year,DSL,Credit card (automatic),51.45,617.4,0.0721,0.17,-24.68,False,0,False,,,,,
+6956-SMUCM,New high-value,3,Month-to-month,Fiber optic,Credit card (automatic),99.0,1188.0,0.7247,0.17,238.08,True,1,False,,,,,
+1265-BCFEO,Established high-value,71,Two year,DSL,Bank transfer (automatic),80.45,965.4,0.0311,0.16,-30.14,False,0,False,,,,,
+3696-XRIEN,Established high-value,50,One year,DSL,Credit card (automatic),82.5,990.0,0.0983,0.16,-8.12,False,0,False,,,,,
+0853-TWRVK,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),105.6,1267.2,0.0433,0.16,-22.35,False,0,False,,,,,
+6521-YYTYI,New high-value,1,Month-to-month,Fiber optic,Electronic check,93.3,1119.6,0.8221,0.17,258.57,True,1,False,,,,,
+7244-KXYZN,Low-value,24,One year,No,Credit card (automatic),20.45,245.4,0.0322,0.23,-36.75,False,0,False,,,,,
+4946-EDSEW,Low-value,11,Month-to-month,No,Mailed check,19.25,231.0,0.1089,0.23,-29.48,False,1,False,,,,,
+1763-WQFUK,New high-value,3,Month-to-month,DSL,Mailed check,50.5,606.0,0.3792,0.17,39.28,True,0,False,,,,,
+2761-OCIAX,New high-value,2,Month-to-month,Fiber optic,Electronic check,74.7,896.4,0.6623,0.17,156.18,True,1,False,,,,,
+2282-YGNOR,New high-value,29,One year,DSL,Credit card (automatic),58.0,696.0,0.0445,0.17,-29.49,False,0,False,,,,,
+1862-QRWPE,Low-value,48,Two year,No,Bank transfer (automatic),20.65,247.8,0.0217,0.23,-37.79,False,0,False,,,,,
+8857-CUPFQ,Low-value,63,Two year,No,Mailed check,19.25,231.0,0.0186,0.23,-38.21,False,0,False,,,,,
+5630-AHZIL,New high-value,3,Month-to-month,DSL,Bank transfer (automatic),64.5,774.0,0.3483,0.17,50.38,True,0,False,,,,,
+5949-EBSQK,New high-value,4,Month-to-month,DSL,Credit card (automatic),61.45,737.4,0.2698,0.17,27.04,True,1,False,,,,,
+8654-DHAOW,New high-value,2,Month-to-month,DSL,Mailed check,54.15,649.8,0.474,0.17,65.34,True,0,False,,,,,
+4393-RYCRE,Established high-value,44,One year,Fiber optic,Electronic check,106.05,1272.6,0.2639,0.16,67.96,True,0,True,Discount 12% (106.05 → 93.08 per month),Discount,0.1482,155.64,-8.37
+9297-EONCV,Established high-value,72,Two year,DSL,Bank transfer (automatic),91.35,1096.2,0.0202,0.16,-32.8,False,0,False,,,,,
+2272-WUSPA,Established high-value,72,Two year,Fiber optic,Electronic check,110.75,1329.0,0.0491,0.16,-19.09,False,0,False,,,,,
+6892-XPFPU,New high-value,24,Month-to-month,Fiber optic,Electronic check,104.25,1251.0,0.6421,0.17,218.5,True,1,False,,,,,
+7534-BFESC,New high-value,24,Month-to-month,Fiber optic,Electronic check,76.1,913.2,0.5473,0.17,124.87,True,1,False,,,,,
+5027-YOCXN,Established high-value,51,One year,Fiber optic,Credit card (automatic),110.05,1320.6,0.1774,0.16,35.11,True,0,True,Upgrade contract: One year → Two year,Contract,0.0833,0.0,124.26
+9470-YFUYI,Established high-value,71,One year,DSL,Bank transfer (automatic),71.0,852.0,0.0378,0.16,-29.3,False,0,False,,,,,
+6518-KZXCB,Low-value,22,Two year,No,Mailed check,25.25,303.0,0.028,0.23,-36.69,False,0,False,,,,,
+8869-TORSS,Established high-value,48,One year,DSL,Credit card (automatic),60.35,724.2,0.0431,0.16,-29.45,False,1,False,,,,,
+8699-ASUFO,New high-value,7,Month-to-month,Fiber optic,Mailed check,74.4,892.8,0.6757,0.17,159.42,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1321,0.0,485.29
+3156-QLHBO,Low-value,2,Month-to-month,No,Mailed check,19.25,231.0,0.1695,0.23,-23.62,False,0,False,,,,,
+3011-WQKSZ,Low-value,19,Month-to-month,No,Electronic check,20.0,240.0,0.1465,0.23,-25.45,False,0,False,,,,,
+5533-NHFRF,New high-value,7,Month-to-month,DSL,Electronic check,44.4,532.8,0.3969,0.17,34.27,True,0,False,,,,,
+2101-RANCD,Established high-value,55,Month-to-month,Fiber optic,Electronic check,73.1,877.2,0.4036,0.16,77.22,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1055,0.0,261.47
+6817-WTYHE,New high-value,2,Month-to-month,DSL,Bank transfer (automatic),44.9,538.8,0.4322,0.17,41.65,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0408,0.0,210.85
+2482-CZGBB,New high-value,10,Month-to-month,Fiber optic,Electronic check,70.0,840.0,0.5504,0.17,113.73,True,1,True,Upgrade contract: Month-to-month → One year,Contract,0.1106,0.0,369.4
+3523-QRQLL,New high-value,22,One year,DSL,Bank transfer (automatic),69.5,834.0,0.1441,0.17,-0.0,False,1,False,,,,,
+4304-TSPVK,Established high-value,68,Two year,Fiber optic,Bank transfer (automatic),114.9,1378.8,0.084,0.16,-2.95,False,0,False,,,,,
+9489-UTFKA,New high-value,8,Month-to-month,DSL,Bank transfer (automatic),60.9,730.8,0.2461,0.17,20.67,True,0,False,,,,,
+1459-QNFQT,Established high-value,70,Two year,DSL,Bank transfer (automatic),59.5,714.0,0.0304,0.16,-32.66,False,0,False,,,,,
+4983-CLMLV,Established high-value,52,Month-to-month,Fiber optic,Credit card (automatic),102.7,1232.4,0.3973,0.16,117.74,True,0,False,,,,,
+1522-VVDMG,New high-value,7,Month-to-month,Fiber optic,Electronic check,89.75,1077.0,0.5736,0.17,160.99,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0421,0.0,572.47
+8791-GFXLZ,New high-value,12,Month-to-month,DSL,Bank transfer (automatic),49.05,588.6,0.2331,0.17,7.52,True,0,False,,,,,
+2669-QVCRG,Established high-value,41,Month-to-month,Fiber optic,Credit card (automatic),81.3,975.6,0.2338,0.16,34.82,True,0,False,,,,,
+6199-IPCAO,Low-value,29,Two year,No,Mailed check,26.1,313.2,0.0232,0.23,-37.18,False,0,False,,,,,
+8727-JQFHV,Low-value,57,Two year,No,Mailed check,20.75,249.0,0.0201,0.23,-37.95,False,0,False,,,,,
+8819-IMISP,New high-value,31,Month-to-month,Fiber optic,Electronic check,80.45,965.4,0.4828,0.17,113.02,True,0,False,,,,,
+0924-BJCRC,Established high-value,60,Month-to-month,Fiber optic,Electronic check,89.45,1073.4,0.3139,0.16,69.64,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.036,0.0,298.28
+7821-DPRQE,Established high-value,68,Month-to-month,Fiber optic,Electronic check,107.7,1292.4,0.3912,0.16,122.35,True,0,False,,,,,
+0556-FJEGU,Established high-value,58,Two year,DSL,Bank transfer (automatic),70.1,841.2,0.0277,0.16,-32.25,False,0,False,,,,,
+9878-TNQGW,New high-value,2,Month-to-month,Fiber optic,Electronic check,80.95,971.4,0.6699,0.17,173.5,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0525,0.0,599.69
+1766-GKNMI,New high-value,29,Month-to-month,Fiber optic,Electronic check,84.9,1018.8,0.5118,0.17,130.39,True,0,False,,,,,
+7422-WNBTY,New high-value,33,Month-to-month,Fiber optic,Electronic check,93.35,1120.2,0.4922,0.17,138.83,True,0,False,,,,,
+5915-ANOEI,Established high-value,70,Two year,DSL,Mailed check,79.15,949.8,0.0264,0.16,-31.74,False,0,False,,,,,
+6651-AZVTJ,Established high-value,49,Month-to-month,Fiber optic,Electronic check,99.8,1197.6,0.5147,0.16,158.99,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1127,0.0,481.44
+2135-DQWAQ,New high-value,5,Month-to-month,Fiber optic,Mailed check,85.3,1023.6,0.7284,0.17,203.56,True,0,False,,,,,
+4685-TFLLS,Low-value,18,One year,No,Bank transfer (automatic),19.8,237.6,0.0372,0.23,-36.33,False,0,False,,,,,
+7766-CLTIC,New high-value,10,Month-to-month,DSL,Mailed check,60.95,731.4,0.1809,0.17,4.63,True,0,False,,,,,
+3761-FLYZI,Established high-value,65,Month-to-month,Fiber optic,Bank transfer (automatic),108.8,1305.6,0.4158,0.16,134.23,True,0,False,,,,,
+2077-MPJQO,New high-value,7,Month-to-month,Fiber optic,Electronic check,75.4,904.8,0.73,0.17,178.08,True,0,True,Upgrade contract: Month-to-month → One year,Contract,0.1672,0.0,509.19
+4998-IKFSE,New high-value,30,Month-to-month,Fiber optic,Electronic check,100.45,1205.4,0.4654,0.17,140.99,True,0,False,,,,,
+7587-RZNME,New high-value,3,Month-to-month,DSL,Electronic check,43.3,519.6,0.5364,0.17,58.26,True,1,False,,,,,
+4078-SAYYN,New high-value,11,Month-to-month,Fiber optic,Electronic check,100.75,1209.0,0.7609,0.17,256.76,True,1,False,,,,,
+8041-TMEID,Established high-value,63,Two year,Fiber optic,Credit card (automatic),108.5,1302.0,0.0904,0.16,-2.24,False,0,False,,,,,
+3055-MJDSB,Low-value,9,Month-to-month,DSL,Mailed check,24.6,295.2,0.3061,0.23,-4.54,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.045,0.0,77.07
+3018-TFTSU,New high-value,12,Month-to-month,Fiber optic,Bank transfer (automatic),81.7,980.4,0.3999,0.17,88.53,True,1,False,,,,,
+8976-OQHGT,New high-value,4,Month-to-month,DSL,Mailed check,56.5,678.0,0.2671,0.17,21.61,True,1,False,,,,,
+4208-UFFGW,New high-value,2,Month-to-month,DSL,Mailed check,44.95,539.4,0.49,0.17,52.66,True,1,False,,,,,
+2718-YSKCS,Low-value,71,Two year,No,Bank transfer (automatic),19.6,235.2,0.0186,0.23,-38.18,False,0,False,,,,,
+5269-NRGDP,Established high-value,42,One year,DSL,Electronic check,73.15,877.8,0.1065,0.16,-9.05,False,0,False,,,,,
+9138-EFSMO,New high-value,26,One year,Fiber optic,Bank transfer (automatic),78.95,947.4,0.1224,0.17,-1.86,False,0,False,,,,,
+1926-QUZNN,Low-value,72,Two year,No,Bank transfer (automatic),25.25,303.0,0.0163,0.23,-38.08,False,0,False,,,,,
+5701-ZIKJE,New high-value,13,Month-to-month,DSL,Mailed check,50.55,606.6,0.1697,0.17,-4.49,False,0,False,,,,,
+2546-KZAAT,Established high-value,52,One year,DSL,Mailed check,75.4,904.8,0.1039,0.16,-8.95,False,0,False,,,,,
+1469-LBJQJ,Established high-value,66,Month-to-month,Fiber optic,Electronic check,105.2,1262.4,0.4872,0.16,157.81,True,0,False,,,,,
+5186-SAMNZ,New high-value,1,Month-to-month,Fiber optic,Bank transfer (automatic),69.5,834.0,0.7737,0.17,174.71,True,1,False,,,,,
+6810-VCAEX,Low-value,47,One year,DSL,Credit card (automatic),39.65,475.8,0.052,0.23,-31.16,False,0,False,,,,,
+1534-OULXE,Established high-value,61,One year,DSL,Bank transfer (automatic),49.7,596.4,0.0408,0.16,-31.59,False,0,False,,,,,
+9470-RTWDV,New high-value,26,One year,DSL,Credit card (automatic),82.0,984.0,0.1164,0.17,-2.46,False,0,False,,,,,
+0297-RBCSG,New high-value,19,One year,DSL,Bank transfer (automatic),65.35,784.2,0.1075,0.17,-11.78,False,0,False,,,,,
+7029-RPUAV,New high-value,17,Month-to-month,Fiber optic,Credit card (automatic),100.45,1205.4,0.5986,0.17,192.81,True,1,False,,,,,
+6519-ZHPXP,Established high-value,72,Two year,Fiber optic,Bank transfer (automatic),108.3,1299.6,0.0405,0.16,-23.12,False,0,False,,,,,
+5091-HFAZW,New high-value,2,Month-to-month,Fiber optic,Electronic check,91.15,1093.8,0.5912,0.17,170.12,True,0,False,,,,,
+7609-NRNCA,Low-value,17,One year,No,Mailed check,19.55,234.6,0.0357,0.23,-36.52,False,0,False,,,,,
+6734-FQAJX,Established high-value,67,Two year,Fiber optic,Electronic check,105.05,1260.6,0.1142,0.16,6.3,False,0,False,,,,,
+5996-DAOQL,Low-value,1,Month-to-month,No,Mailed check,20.45,245.4,0.3847,0.23,-1.18,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0388,0.0,84.89
+1320-HTRDR,New high-value,3,Month-to-month,Fiber optic,Electronic check,75.5,906.0,0.7272,0.17,177.51,True,1,False,,,,,
+6924-TDGMT,Low-value,11,One year,No,Mailed check,20.55,246.6,0.0391,0.23,-36.04,False,0,False,,,,,
+9073-ZZIAY,Established high-value,62,Two year,DSL,Electronic check,86.1,1033.2,0.0293,0.16,-30.11,False,0,False,,,,,
+8782-NUUOL,Established high-value,60,One year,DSL,Mailed check,79.0,948.0,0.0885,0.16,-12.42,False,0,False,,,,,
+2789-CZANW,Established high-value,64,Two year,Fiber optic,Bank transfer (automatic),110.3,1323.6,0.071,0.16,-9.87,False,0,False,,,,,
+5206-XZZQI,Established high-value,53,Month-to-month,Fiber optic,Mailed check,80.6,967.2,0.1999,0.16,23.45,True,0,False,,,,,
+7690-KPNCU,Established high-value,64,One year,DSL,Credit card (automatic),73.05,876.6,0.0867,0.16,-14.84,False,0,False,,,,,
+5701-SVCWR,Low-value,1,Month-to-month,No,Mailed check,24.0,288.0,0.3203,0.23,-3.59,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.039,0.0,81.0
+3996-ZNWYK,Low-value,71,Two year,No,Credit card (automatic),19.8,237.6,0.019,0.23,-38.13,False,0,False,,,,,
+8963-MQVYN,Low-value,22,Month-to-month,No,Electronic check,20.55,246.6,0.1465,0.23,-25.16,False,0,False,,,,,
+5376-DEQCP,New high-value,1,Month-to-month,Fiber optic,Electronic check,70.6,847.2,0.8115,0.17,188.39,True,1,False,,,,,
+1328-EUZHC,Low-value,18,Two year,No,Mailed check,20.1,241.2,0.0235,0.23,-37.66,False,0,False,,,,,
+1303-SRDOK,Established high-value,55,Two year,Fiber optic,Credit card (automatic),69.05,828.6,0.0322,0.16,-31.12,False,0,False,,,,,
+2582-FFFZR,Low-value,22,Month-to-month,DSL,Electronic check,50.6,607.2,0.4397,0.23,52.1,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0648,0.0,227.62
+4750-ZRXIU,New high-value,4,Month-to-month,Fiber optic,Electronic check,84.6,1015.2,0.7777,0.17,218.09,True,1,False,,,,,
+6732-FZUGP,Established high-value,47,One year,Fiber optic,Credit card (automatic),94.9,1138.8,0.1144,0.16,2.21,False,0,False,,,,,
+3638-DIMPH,Low-value,13,One year,DSL,Electronic check,43.8,525.6,0.0967,0.23,-22.12,False,0,False,,,,,
+9372-TXXPS,Established high-value,60,Two year,DSL,Bank transfer (automatic),59.85,718.2,0.0227,0.16,-34.48,False,0,False,,,,,
+0750-EBAIU,Established high-value,52,One year,Fiber optic,Electronic check,91.25,1095.0,0.1067,0.16,-2.02,False,0,False,,,,,
+7410-YTJIK,New high-value,7,Month-to-month,Fiber optic,Mailed check,75.45,905.4,0.5779,0.17,132.76,True,1,False,,,,,
+6695-FRVEC,Established high-value,67,Two year,DSL,Bank transfer (automatic),60.4,724.8,0.0251,0.16,-33.85,False,0,False,,,,,
+8490-BXHEO,New high-value,18,Month-to-month,Fiber optic,Credit card (automatic),80.55,966.6,0.4466,0.17,101.7,True,0,False,,,,,
+9955-QOPOY,Established high-value,69,One year,DSL,Credit card (automatic),60.8,729.6,0.0999,0.16,-15.42,False,0,False,,,,,
+5313-FPXWG,Low-value,51,One year,No,Bank transfer (automatic),24.6,295.2,0.0358,0.23,-35.86,False,0,False,,,,,
+0902-RFHOF,Low-value,38,One year,No,Mailed check,20.1,241.2,0.0294,0.23,-37.07,False,0,False,,,,,
+4646-QZXTF,New high-value,7,Month-to-month,DSL,Bank transfer (automatic),81.25,975.0,0.2486,0.17,39.49,True,0,False,,,,,
+2205-LPVGL,Established high-value,58,One year,Fiber optic,Bank transfer (automatic),89.85,1078.2,0.0512,0.16,-22.04,False,0,False,,,,,
+2043-WVTQJ,New high-value,1,Month-to-month,DSL,Mailed check,55.7,668.4,0.4002,0.17,51.18,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0414,0.0,239.86
+3831-YCPUO,Established high-value,72,Two year,Fiber optic,Credit card (automatic),109.5,1314.0,0.0405,0.16,-22.94,False,0,False,,,,,
+8404-VIOMB,Established high-value,66,Two year,DSL,Bank transfer (automatic),62.5,750.0,0.0332,0.16,-31.61,False,0,False,,,,,
+3319-DWOEP,New high-value,6,Month-to-month,Fiber optic,Electronic check,95.75,1149.0,0.7481,0.17,238.3,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.1283,0.0,712.21
+3594-BDSOA,Low-value,24,One year,No,Credit card (automatic),20.4,244.8,0.0322,0.23,-36.75,False,0,False,,,,,
+8318-LCNBW,Low-value,35,One year,DSL,Credit card (automatic),53.15,637.8,0.1223,0.23,-13.27,False,0,False,,,,,
+4012-ZTHBR,Low-value,21,Month-to-month,DSL,Electronic check,44.95,539.4,0.2788,0.23,12.72,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0435,0.0,126.87
+7673-BQGKU,Low-value,69,Two year,No,Bank transfer (automatic),20.15,241.8,0.0198,0.23,-38.03,False,0,False,,,,,
+8908-SLFCJ,Low-value,21,Two year,No,Credit card (automatic),20.85,250.2,0.0254,0.23,-37.4,False,0,False,,,,,
+2123-AGEEN,New high-value,7,Month-to-month,Fiber optic,Electronic check,84.35,1012.2,0.6958,0.17,190.29,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.0601,0.0,643.42
+2675-IJRGJ,Low-value,53,Two year,No,Bank transfer (automatic),19.65,235.8,0.022,0.23,-37.84,False,0,False,,,,,
+1902-XBTFB,New high-value,22,Month-to-month,Fiber optic,Electronic check,89.4,1072.8,0.4705,0.17,124.26,True,1,True,Upgrade contract: Month-to-month → Two year,Contract,0.0472,0.0,454.09
+4693-VWVBO,Low-value,3,Month-to-month,No,Electronic check,19.55,234.6,0.2175,0.23,-18.76,False,0,False,,,,,
+1600-DILPE,Low-value,12,Month-to-month,DSL,Bank transfer (automatic),45.0,540.0,0.2336,0.23,4.22,True,0,True,Upgrade contract: Month-to-month → Two year,Contract,0.04,0.0,104.56
+0128-MKWSG,Low-value,26,Month-to-month,DSL,Mailed check,45.8,549.6,0.1391,0.23,-13.27,False,0,False,,,,,
+1179-INLAT,Low-value,3,One year,No,Mailed check,19.45,233.4,0.0482,0.23,-35.31,False,0,False,,,,,
+3891-NLXJB,Low-value,37,Two year,DSL,Mailed check,40.55,486.6,0.0336,0.23,-34.18,False,0,False,,,,,
+8957-THMOA,Low-value,50,Two year,No,Credit card (automatic),20.15,241.8,0.022,0.23,-37.8,False,0,False,,,,,

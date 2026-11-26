@@ -1,0 +1,12 @@
+,estimated monthly price,used as a retention action
+PhoneService,20.06,False
+MultipleLines,5.0,False
+OnlineSecurity,5.02,True
+OnlineBackup,4.96,True
+DeviceProtection,5.04,True
+TechSupport,5.06,True
+StreamingTV,9.96,False
+StreamingMovies,9.96,False
+DSL,25.06,False
+Fiber optic,50.01,False
+(intercept),-0.09,False

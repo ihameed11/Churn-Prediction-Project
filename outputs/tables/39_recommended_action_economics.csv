@@ -1,0 +1,12 @@
+,Low-value,New high-value,Established high-value,All
+customers explained,95.0,100.0,100.0,295.0
+with a recommended action,95.0,100.0,100.0,295.0
+mean churn probability before,0.394,0.542,0.335,0.424
+mean churn probability after,0.077,0.082,0.093,0.084
+mean drop in probability,0.317,0.46,0.242,0.34
+mean customer value (12 months),360.347,893.94,1176.306,817.822
+mean 12-month cost,0.435,0.102,11.567,4.095
+mean net value,112.475,421.916,271.139,271.155
+share with negative net value (%),0.0,0.0,8.0,2.712
+median discount when used (%),4.506,1.001,7.003,6.994
+uses a discount (%),4.211,1.0,11.0,5.424

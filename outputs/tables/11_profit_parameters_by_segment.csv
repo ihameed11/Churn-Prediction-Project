@@ -1,0 +1,5 @@
+segment,customers,churn rate,mean CLV,benefit if churner contacted,cost if non-churner contacted,theoretical threshold
+Low-value,1691,0.125,316.959,82.388,40.0,0.327
+New high-value,2120,0.473,902.484,258.045,40.0,0.134
+Established high-value,1814,0.155,1068.473,307.842,40.0,0.115
+All customers,5625,0.266,779.992,221.298,40.0,0.153

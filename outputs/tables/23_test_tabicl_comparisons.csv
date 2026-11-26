@@ -1,0 +1,9 @@
+comparison,metric,difference (A - B),CI 2.5%,CI 97.5%,p,Holm significant
+TabICL v2 vs LightGBM,Brier,-0.0008,-0.0027,0.0009,0.345,False
+TabICL v2 vs LightGBM,Profit per customer,-0.5738,-1.2831,0.0475,0.077,False
+TabICL v2 vs LightGBM,AUC (DeLong),0.0017,,,0.4102,False
+TabICL v2 vs Logistic regression,Brier,-0.0048,-0.0077,-0.002,0.001,True
+TabICL v2 vs Logistic regression,Profit per customer,-0.0391,-1.2713,1.2773,0.902,False
+TabICL v2 vs Logistic regression,AUC (DeLong),0.0104,,,0.0014,True
+TabICL v2: Platt vs raw,Brier,-0.0004,-0.001,0.0002,0.221,False
+TabICL v2: Platt vs raw,Profit per customer,-0.4629,-1.06,0.2684,0.189,False

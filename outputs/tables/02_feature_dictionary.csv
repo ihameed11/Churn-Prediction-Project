@@ -1,0 +1,22 @@
+feature,type,levels / range,role,note
+gender,binary,"Female, Male",input,
+SeniorCitizen,binary,"No, Yes",input,
+Partner,binary,"No, Yes",input,
+Dependents,binary,"No, Yes",input,
+tenure,numeric,1 to 72,input,
+PhoneService,binary,"No, Yes",input,
+MultipleLines,binary,"No, Yes",input,
+InternetService,multi-class,"DSL, Fiber optic, No",input,
+OnlineSecurity,binary,"No, Yes",input,
+OnlineBackup,binary,"No, Yes",input,
+DeviceProtection,binary,"No, Yes",input,
+TechSupport,binary,"No, Yes",input,
+StreamingTV,binary,"No, Yes",input,
+StreamingMovies,binary,"No, Yes",input,
+Contract,multi-class,"Month-to-month, One year, Two year",input,
+PaperlessBilling,binary,"No, Yes",input,
+PaymentMethod,multi-class,"Bank transfer (automatic), Credit card (automatic), Electronic check, Mailed check",input,
+MonthlyCharges,numeric,18.25 to 118.75,input,
+TotalCharges,numeric,18.8 to 8684.8,excluded,≈ tenure × MonthlyCharges (median ratio 1.00); kept for EDA and revenue
+Churn,binary,"0, 1",target,Outcome to predict (1 = churned)
+n_services,numeric,1 to 9,optional,Engineered: count of services; r = 0.85 with MonthlyCharges

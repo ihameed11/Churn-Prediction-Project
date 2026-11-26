@@ -1,0 +1,7 @@
+model,P1 global,P2 Low-value,P2 New high-value,P2 Established high-value
+Logistic regression,0.18,0.28,0.19,0.09
+Random forest,0.15,0.31,0.19,0.09
+LightGBM,0.18,0.23,0.17,0.16
+SVM,0.14,0.31,0.17,0.1
+TabICL v2,0.18,0.24,0.19,0.1
+Theory (profit formula),0.153,0.327,0.134,0.115

@@ -1,0 +1,4 @@
+,Profit per customer,Targeted share,Recall (churners reached),Precision,ROI
+K-Means segments (P2),49.0181,0.5167,0.877,0.4512,3.4269
+CLV tertiles,49.4122,0.5267,0.8824,0.4453,3.3699
+One global threshold (P1),48.3696,0.5203,0.8797,0.4495,3.3528

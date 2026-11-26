@@ -1,0 +1,12 @@
+model,condition,calibrator,SAE raw,SAE calibrated,calibration lowers error
+Logistic regression,class,Platt,182795.0,10351.0,True
+Logistic regression,value,isotonic,321834.0,34337.0,True
+Logistic regression,SMOTE,Platt,169999.0,11710.0,True
+Random forest,none,Platt,16003.0,8460.0,True
+Random forest,class,Platt,174218.0,7777.0,True
+Random forest,value,Platt,257903.0,27778.0,True
+Random forest,SMOTE,Platt,151001.0,7729.0,True
+LightGBM,class,Platt,180078.0,9798.0,True
+LightGBM,value,Platt,275266.0,28867.0,True
+LightGBM,SMOTE,Platt,112894.0,12682.0,True
+TabICL v2,none,Platt,7916.0,9826.0,False

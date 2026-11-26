@@ -1,0 +1,11 @@
+model,comparison,role,difference per customer,CI 2.5%,CI 97.5%,p,decisions changed,significant (Holm for secondary)
+Logistic regression,P2 - P1,secondary,1.9423,0.2408,3.8214,0.03,130,False
+Logistic regression,P2 - P0,secondary,10.9519,7.1165,14.9526,0.0005,401,True
+Random forest,P2 - P1,secondary,-0.2692,-1.8167,1.3223,0.696,145,False
+Random forest,P2 - P0,secondary,14.3279,10.1351,18.9182,0.0005,440,True
+LightGBM,P2 - P1,confirmatory,0.6485,-0.2672,1.6927,0.179,41,False
+LightGBM,P2 - P0,secondary,13.5332,9.5923,18.0712,0.0005,418,True
+SVM,P2 - P1,secondary,1.237,0.2802,2.1158,0.017,123,False
+SVM,P2 - P0,secondary,16.0846,11.7005,20.7923,0.0005,443,True
+TabICL v2,P2 - P1,secondary,1.4347,-0.0582,3.0811,0.065,92,False
+TabICL v2,P2 - P0,secondary,16.5592,12.1517,21.2184,0.0005,466,True

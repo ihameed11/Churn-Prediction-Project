@@ -1,0 +1,5 @@
+segment,customers,realised RaR,primary: estimated RaR,primary: relative error %,primary: 95% CI,VW raw: estimated RaR,VW raw: relative error %,VW raw: 95% CI,VW calibrated: estimated RaR,VW calibrated: relative error %,VW calibrated: 95% CI,contacted (primary),budget (primary)
+Low-value,446,18760.2,20887.9,11.3,"[-11, +45]",34577.9,84.3,"[+47, +140]",16107.8,-14.1,"[-31, +12]",95,3800.0
+New high-value,523,235538.4,234395.6,-0.5,"[-8, +8]",372373.1,58.1,"[+46, +72]",236254.2,0.3,"[-7, +9]",465,18599.8
+Established high-value,438,75519.6,81954.2,8.5,"[-11, +37]",198133.0,162.4,"[+117, +232]",101018.5,33.8,"[+10, +69]",167,6679.9
+Total,1407,329818.2,337237.6,2.2,"[-5, +10]",605084.1,83.5,"[+70, +98]",353380.5,7.1,"[-1, +16]",727,29079.7

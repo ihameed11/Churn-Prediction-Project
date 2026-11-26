@@ -1,0 +1,17 @@
+model,condition,params,cv_auc
+Logistic regression,none,C=100,0.8448
+Logistic regression,class,C=31.62,0.8446
+Logistic regression,value,C=10,0.8316
+Logistic regression,SMOTE,C=31.62,0.8443
+Random forest,none,"min_samples_leaf=20, max_features=sqrt, max_depth=None",0.8489
+Random forest,class,"min_samples_leaf=20, max_features=0.3, max_depth=None",0.8488
+Random forest,value,"min_samples_leaf=2, max_features=0.3, max_depth=10",0.8406
+Random forest,SMOTE,"min_samples_leaf=40, max_features=sqrt, max_depth=10",0.8476
+LightGBM,none,"learning_rate=0.01048, min_child_samples=18, n_estimators=443, num_leaves=8",0.8489
+LightGBM,class,"learning_rate=0.01048, min_child_samples=18, n_estimators=443, num_leaves=8",0.8488
+LightGBM,value,"learning_rate=0.04408, min_child_samples=56, n_estimators=134, num_leaves=21",0.8407
+LightGBM,SMOTE,"learning_rate=0.01048, min_child_samples=18, n_estimators=443, num_leaves=8",0.8452
+SVM,none,"C=32, gamma=0.001953",0.8412
+SVM,class,"C=2, gamma=0.007812",0.8427
+SVM,value,"C=0.125, gamma=0.03125",0.8295
+SVM,SMOTE,"C=32, gamma=0.001953",0.8443

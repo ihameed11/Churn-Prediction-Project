@@ -1,0 +1,13 @@
+rule,segment,customers,Profit per customer,Targeted share,Recall (churners reached),Precision,ROI
+P0 (0.5),Low-value,446,1.9545,0.0426,0.2222,0.6316,2.016
+P0 (0.5),New high-value,523,85.2285,0.5182,0.6996,0.6531,7.4194
+P0 (0.5),Established high-value,438,10.2309,0.0434,0.209,0.7368,11.8612
+P1 global,Low-value,446,1.8612,0.2646,0.7963,0.3644,0.2341
+P1 global,New high-value,523,106.3172,0.8738,0.9447,0.523,4.7302
+P1 global,Established high-value,438,26.5343,0.3584,0.7015,0.2994,2.3259
+P2 segment,Low-value,446,2.2136,0.213,0.6852,0.3895,0.3539
+P2 segment,New high-value,523,106.5404,0.8891,0.9526,0.5183,4.6354
+P2 segment,Established high-value,438,27.9923,0.3813,0.7463,0.2994,2.3068
+Per customer (E>0),Low-value,446,2.7757,0.1323,0.463,0.4237,0.738
+Per customer (E>0),New high-value,523,107.9529,0.891,0.9605,0.5215,4.7026
+Per customer (E>0),Established high-value,438,28.5526,0.4566,0.806,0.27,1.9164

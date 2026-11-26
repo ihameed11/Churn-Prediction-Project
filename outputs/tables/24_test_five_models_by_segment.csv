@@ -1,0 +1,16 @@
+model,segment,customers,AUC,Brier,Mean predicted,Observed rate,Profit per customer,Targeted share
+Logistic regression,Low-value,446,0.8679,0.0812,0.1295,0.1211,3.1474,0.139
+Logistic regression,New high-value,523,0.703,0.2202,0.5011,0.4837,107.4414,0.9293
+Logistic regression,Established high-value,438,0.783,0.1089,0.1453,0.153,27.0672,0.4201
+Random forest,Low-value,446,0.8794,0.0792,0.1239,0.1211,2.6347,0.13
+Random forest,New high-value,523,0.7261,0.2129,0.4901,0.4837,108.2478,0.9044
+Random forest,Established high-value,438,0.7636,0.1126,0.1599,0.153,27.9137,0.4566
+LightGBM,Low-value,446,0.8772,0.0787,0.1347,0.1211,2.7757,0.1323
+LightGBM,New high-value,523,0.7291,0.2106,0.4829,0.4837,107.9529,0.891
+LightGBM,Established high-value,438,0.7821,0.11,0.164,0.153,28.5526,0.4566
+SVM,Low-value,446,0.8644,0.0808,0.1316,0.1211,3.2111,0.1256
+SVM,New high-value,523,0.7116,0.2181,0.4931,0.4837,106.2908,0.9082
+SVM,Established high-value,438,0.7772,0.11,0.1489,0.153,27.6048,0.4338
+TabICL v2,Low-value,446,0.8841,0.0778,0.1309,0.1211,3.0317,0.13
+TabICL v2,New high-value,523,0.7314,0.2097,0.492,0.4837,107.2613,0.9044
+TabICL v2,Established high-value,438,0.785,0.1093,0.1575,0.153,27.2744,0.4726

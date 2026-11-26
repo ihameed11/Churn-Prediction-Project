@@ -1,0 +1,5 @@
+feature,median_stayed,median_churned,mean_stayed,mean_churned,p_value,significant,rank_biserial_r
+tenure,38.0,10.0,37.65,17.98,6.043046580882717e-211,True,-0.483
+MonthlyCharges,64.45,79.65,61.31,74.44,8.467195044548749e-54,True,0.241
+TotalCharges,1683.6,703.55,2555.34,1531.8,1.9959848938845826e-84,True,-0.303
+n_services,4.0,4.0,4.17,4.07,0.6669998291089427,False,-0.007

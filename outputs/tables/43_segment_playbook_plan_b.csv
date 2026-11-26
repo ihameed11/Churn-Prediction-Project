@@ -1,0 +1,13 @@
+segment,recommended action,customers,share of segment (%),mean drop in probability,mean cost,mean net value,negative net value (%),median discount (%)
+Low-value,(no actionable option),42,44.211,,,,,
+Low-value,Discount,17,17.895,0.104,10.045,14.803,0.0,3.003
+Low-value,PaymentMethod,11,11.579,0.094,0.0,44.97,0.0,
+Low-value,TechSupport + PaymentMethod,6,6.316,0.163,60.72,25.422,16.667,
+New high-value,(no actionable option),94,94.0,,,,,
+New high-value,PaymentMethod,2,2.0,0.016,0.0,14.527,0.0,
+New high-value,TechSupport + Discount,1,1.0,0.099,95.16,18.428,0.0,2.999
+New high-value,OnlineBackup,1,1.0,0.013,59.52,-48.974,100.0,
+Established high-value,(no actionable option),65,65.0,,,,,
+Established high-value,Discount,20,20.0,0.082,143.958,-40.747,85.0,11.002
+Established high-value,PaymentMethod + Discount,7,7.0,0.106,130.2,2.843,28.571,11.001
+Established high-value,OnlineSecurity + Discount,4,4.0,0.145,197.55,-16.211,75.0,11.856

@@ -1,0 +1,4 @@
+,observed churn rate (training),estimated RaR (test),expected profit if all with E>0 contacted,share of 20% budget: rank by churn risk (%),share of 20% budget: rank by expected profit (%),rank by observed churn rate,rank by estimated RaR,rank by expected profit if all with E>0 contacted
+Low-value,12.5,20887.9,1440.9,6.4,0.0,3,3,3
+New high-value,47.3,234395.6,57040.9,89.3,85.8,1,1,1
+Established high-value,15.5,81954.2,14456.4,4.3,14.2,2,2,2

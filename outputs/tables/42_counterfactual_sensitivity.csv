@@ -1,0 +1,17 @@
+scenario,segment,no actionable option (%),contract upgrade in recommendation (%),discount in recommendation (%),mean cost,mean net value,negative net value (%)
+"main (cap 20%, contract free)",Low-value,0.0,94.74,4.21,0.43,112.47,0.0
+"main (cap 20%, contract free)",New high-value,0.0,100.0,1.0,0.1,421.92,0.0
+"main (cap 20%, contract free)",Established high-value,0.0,89.0,11.0,11.57,271.14,8.0
+"main (cap 20%, contract free)",All,0.0,94.58,5.42,4.1,271.15,2.71
+discount cap 30%,Low-value,0.0,82.11,11.58,4.78,100.29,6.32
+discount cap 30%,New high-value,0.0,99.0,2.0,2.21,419.4,1.0
+discount cap 30%,Established high-value,0.0,87.0,16.0,22.38,257.45,10.0
+discount cap 30%,All,0.0,89.49,9.83,9.88,261.74,5.76
+contract upgrade costs d,Low-value,0.0,88.42,7.37,35.09,75.99,0.0
+contract upgrade costs d,New high-value,0.0,100.0,1.0,39.1,382.92,0.0
+contract upgrade costs d,Established high-value,0.0,89.0,11.0,46.28,236.43,8.0
+contract upgrade costs d,All,0.0,92.54,6.44,40.24,234.42,2.71
+plan B: contract fixed,Low-value,44.21,0.0,47.17,27.32,12.98,22.64
+plan B: contract fixed,New high-value,94.0,0.0,16.67,55.78,-23.27,50.0
+plan B: contract fixed,Established high-value,65.0,0.0,91.43,141.56,-26.69,71.43
+plan B: contract fixed,All,68.14,0.0,61.7,71.67,-4.11,42.55

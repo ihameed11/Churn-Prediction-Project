@@ -1,0 +1,37 @@
+hypothesis,model,comparison,metric,difference (A - B),CI 2.5%,CI 97.5%,p,Holm significant
+H2,Logistic regression,none: Platt vs raw,Brier,-0.0001,-0.0003,0.0001,0.265,False
+H2,Logistic regression,none: Platt vs raw,Profit per customer,-0.1706,-0.3127,-0.0569,0.006,False
+H2,Logistic regression,value: isotonic vs raw,Brier,-0.0796,-0.0929,-0.0658,0.0005,True
+H2,Logistic regression,value: isotonic vs raw,Profit per customer,0.6566,-1.0105,2.2322,0.426,False
+H3,Logistic regression,value vs none (calibrated),Brier,0.0054,0.0018,0.0088,0.001,True
+H3,Logistic regression,value vs none (calibrated),Profit per customer,-1.0415,-2.6983,0.822,0.251,False
+H3,Logistic regression,value vs none (calibrated),AUC (DeLong),-0.0146,,,0.0012,True
+SMOTE,Logistic regression,SMOTE vs none (calibrated),Brier,0.0009,0.0002,0.0017,0.022,False
+SMOTE,Logistic regression,SMOTE vs none (calibrated),Profit per customer,-0.5376,-1.1363,-0.0853,0.016,False
+SMOTE,Logistic regression,SMOTE vs none (calibrated),AUC (DeLong),-0.0022,,,0.0158,False
+H2,Random forest,none: Platt vs raw,Brier,-0.0,-0.0008,0.0008,0.95,False
+H2,Random forest,none: Platt vs raw,Profit per customer,0.8162,0.4099,1.2142,0.0005,True
+H2,Random forest,value: Platt vs raw,Brier,-0.0582,-0.0693,-0.047,0.0005,True
+H2,Random forest,value: Platt vs raw,Profit per customer,0.9806,-0.4417,2.4198,0.181,False
+H3,Random forest,value vs none (calibrated),Brier,0.0041,0.0015,0.0067,0.001,True
+H3,Random forest,value vs none (calibrated),Profit per customer,-0.7327,-1.9234,0.5046,0.267,False
+H3,Random forest,value vs none (calibrated),AUC (DeLong),-0.0111,,,0.0014,True
+SMOTE,Random forest,SMOTE vs none (calibrated),Brier,0.0019,0.0,0.0038,0.046,False
+SMOTE,Random forest,SMOTE vs none (calibrated),Profit per customer,-0.371,-1.1015,0.1421,0.211,False
+SMOTE,Random forest,SMOTE vs none (calibrated),AUC (DeLong),-0.0046,,,0.0219,False
+H2,LightGBM,none: Platt vs raw,Brier,0.0001,-0.0002,0.0004,0.523,False
+H2,LightGBM,none: Platt vs raw,Profit per customer,-0.4188,-1.2417,0.245,0.26,False
+H2,LightGBM,value: Platt vs raw,Brier,-0.0671,-0.0792,-0.0549,0.0005,True
+H2,LightGBM,value: Platt vs raw,Profit per customer,1.2491,-0.0386,2.5387,0.061,False
+H3,LightGBM,value vs none (calibrated),Brier,0.0041,0.001,0.0073,0.006,False
+H3,LightGBM,value vs none (calibrated),Profit per customer,0.0425,-1.2803,1.4435,0.99,False
+H3,LightGBM,value vs none (calibrated),AUC (DeLong),-0.0092,,,0.0221,False
+SMOTE,LightGBM,SMOTE vs none (calibrated),Brier,0.0024,0.0002,0.0047,0.034,False
+SMOTE,LightGBM,SMOTE vs none (calibrated),Profit per customer,-0.5182,-1.5401,0.3597,0.278,False
+SMOTE,LightGBM,SMOTE vs none (calibrated),AUC (DeLong),-0.0051,,,0.0439,False
+H3,SVM,value vs none (calibrated),Brier,0.0055,0.0014,0.0101,0.016,False
+H3,SVM,value vs none (calibrated),Profit per customer,-0.4224,-1.9868,1.2568,0.582,False
+H3,SVM,value vs none (calibrated),AUC (DeLong),-0.0121,,,0.0371,False
+SMOTE,SVM,SMOTE vs none (calibrated),Brier,0.0004,-0.003,0.0037,0.821,False
+SMOTE,SVM,SMOTE vs none (calibrated),Profit per customer,0.2452,-1.0604,1.6062,0.77,False
+SMOTE,SVM,SMOTE vs none (calibrated),AUC (DeLong),-0.0032,,,0.4867,False

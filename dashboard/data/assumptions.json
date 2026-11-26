@@ -1,0 +1,18 @@
+{
+  "incentive_d": 39.0,
+  "contact_cost_f": 1.0,
+  "acceptance_rate": 0.3,
+  "value_horizon_months": 12,
+  "thresholds": {
+    "Low-value": 0.23,
+    "New high-value": 0.17,
+    "Established high-value": 0.16
+  },
+  "model": "LightGBM (no weights, raw probabilities = calibrated)",
+  "test_customers": 1407,
+  "h4_delta_sae": 246398.8810326795,
+  "h4_ci": [
+    206149.3288792024,
+    255725.04977109982
+  ]
+}

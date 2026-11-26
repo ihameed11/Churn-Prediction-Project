@@ -1,0 +1,4 @@
+,Profit per customer,Targeted share,Recall (churners reached),Precision,ROI
+k = 4 segments,48.7848,0.5068,0.8663,0.4544,3.4888
+k = 3 segments (P2),49.0181,0.5167,0.877,0.4512,3.4269
+one threshold (P1),48.3696,0.5203,0.8797,0.4495,3.3528

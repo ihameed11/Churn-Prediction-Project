@@ -1,0 +1,5 @@
+Step,Customers
+Raw IBM Telco file,7043
+Removed: blank TotalCharges (tenure = 0),7032
+Training set (80%),5625
+Test set (20%),1407

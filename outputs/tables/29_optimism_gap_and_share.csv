@@ -1,0 +1,6 @@
+model,P2-P1 training (in-sample),P2-P1 test,optimism gap,per-customer - P1 (test),share captured by P2 (test)
+Logistic regression,0.8803,1.9423,-1.0619,1.943,0.9996
+Random forest,1.0902,-0.2692,1.3594,0.8015,-0.3359
+LightGBM,0.5007,0.6485,-0.1478,1.5262,0.4249
+SVM,1.6808,1.237,0.4438,1.132,1.0928
+TabICL v2,0.8355,1.4347,-0.5991,0.6353,2.2582

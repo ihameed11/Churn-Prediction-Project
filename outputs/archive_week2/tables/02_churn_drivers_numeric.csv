@@ -1,0 +1,4 @@
+Feature,Median churned,Median stayed,p_value
+tenure,10.0,38.0,6.043046580882717e-211
+MonthlyCharges,79.6,64.4,8.467195044548749e-54
+TotalCharges,703.6,1683.6,1.9959848938845826e-84

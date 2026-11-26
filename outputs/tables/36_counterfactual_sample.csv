@@ -1,0 +1,4 @@
+,test customers,contacted (P2),explained,threshold,mean churn probability (explained)
+Low-value,446,95,95,0.23,0.394
+New high-value,523,465,100,0.17,0.542
+Established high-value,438,167,100,0.16,0.335

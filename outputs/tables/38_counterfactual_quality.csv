@@ -1,0 +1,13 @@
+,Low-value,New high-value,Established high-value,All
+customers,95.0,100.0,100.0,295.0
+counterfactuals from DiCE,285.0,300.0,300.0,885.0
+"validity (DiCE output, %)",100.0,100.0,100.0,100.0
+"feasibility (DiCE output, %)",100.0,100.0,100.0,100.0
+changes per CF (DiCE output),1.93,1.96,1.88,1.92
+validity after clean-up (%),100.0,100.0,100.0,100.0
+feasibility after clean-up (%),100.0,100.0,100.0,100.0
+changes per CF (after clean-up),1.04,1.05,1.12,1.07
+mean discount among CFs with a discount (%),4.13,7.7,10.44,8.43
+diversity (features),0.29,0.08,0.28,0.22
+distinct usable CFs per customer,1.41,1.13,1.4,1.31
+no actionable option (%),0.0,0.0,0.0,0.0

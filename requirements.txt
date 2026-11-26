@@ -1,0 +1,23 @@
+# Core data work
+pandas
+numpy<2            # PyTorch 2.2.2 (last build for Intel Macs) needs NumPy 1.x
+scipy<1.17         # scipy 1.17+ requires NumPy 2
+scikit-learn
+matplotlib
+contourpy<1.4      # matplotlib dependency; 1.4+ requires NumPy 2
+
+# Notebooks
+jupyter
+ipykernel
+
+# Stage 3 modelling
+lightgbm
+imbalanced-learn
+
+# Stage 3b / 5: tabular foundation model and counterfactual explanations
+tabicl
+torch
+dice-ml
+
+# Dashboard (Stage 6)
+streamlit

@@ -1,0 +1,4 @@
+segment,customers,P1 threshold,P2 threshold,decisions changed,profit difference (share of total per customer),P1 targeted,P2 targeted
+Low-value,446,0.18,0.23,23,0.1117,0.2646,0.213
+New high-value,523,0.18,0.17,8,0.083,0.8738,0.8891
+Established high-value,438,0.18,0.16,10,0.4539,0.3584,0.3813

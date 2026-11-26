@@ -1,0 +1,13 @@
+source,segment,contacted,budget,profit estimated,profit realised,ROI estimated,ROI realised
+"Primary (LightGBM, no weights)",Low-value,95,3799.96,1219.14,987.25,0.32,0.26
+"Primary (LightGBM, no weights)",New high-value,465,18599.81,56973.62,55720.62,3.06,3.0
+"Primary (LightGBM, no weights)",Established high-value,167,6679.93,14204.49,12260.61,2.13,1.84
+"Primary (LightGBM, no weights)",Total,727,29079.7,72397.25,68968.48,2.49,2.37
+"Value-weighted, raw",Low-value,59,2359.98,3992.7,1246.98,1.69,0.53
+"Value-weighted, raw",New high-value,454,18159.81,99143.03,56174.9,5.46,3.09
+"Value-weighted, raw",Established high-value,213,8519.91,46688.27,11240.95,5.48,1.32
+"Value-weighted, raw",Total,726,29039.7,149824.0,68662.83,5.16,2.36
+"Value-weighted, calibrated (Platt)",Low-value,59,2359.98,745.6,1246.98,0.32,0.53
+"Value-weighted, calibrated (Platt)",New high-value,454,18159.81,57328.69,56174.9,3.16,3.09
+"Value-weighted, calibrated (Platt)",Established high-value,213,8519.91,20140.64,11240.95,2.36,1.32
+"Value-weighted, calibrated (Platt)",Total,726,29039.7,78214.93,68662.83,2.69,2.36

@@ -1,0 +1,9 @@
+segment,recommended action,customers,share of segment (%),mean drop in probability,mean cost,mean net value,median discount (%)
+Low-value,Contract,90,94.737,0.329,0.0,117.638,
+Low-value,Discount,3,3.158,0.102,10.56,13.897,5.012
+Low-value,PaymentMethod,1,1.053,0.047,0.0,31.068,
+New high-value,Contract,99,99.0,0.461,0.0,422.494,
+New high-value,Contract + Discount,1,1.0,0.368,10.2,364.77,1.001
+Established high-value,Contract,89,89.0,0.263,0.0,306.146,
+Established high-value,Discount,9,9.0,0.074,111.24,-19.015,8.004
+Established high-value,PaymentMethod + Discount,1,1.0,0.078,11.28,76.909,0.998

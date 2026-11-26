@@ -1,0 +1,4 @@
+,SAE (sum of absolute RaR errors over segments),SAE as % of realised RaR,Delta SAE raw - calibrated,CI 2.5%,CI 97.5%
+"Primary (LightGBM, no weights)",9705.0,2.9,,,
+"Value-weighted, raw",275265.9,83.5,246398.8810326795,206149.3288792024,255725.04977109982
+"Value-weighted, calibrated (Platt)",28867.0,8.8,,,
